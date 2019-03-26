@@ -17,7 +17,7 @@ xxx
 ### 2019
   - other
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar)](https://arxiv.org/abs/1903.02740)   
-      [Code：https://github.com/xiaoketongxue/CE-Net](https://github.com/xiaoketongxue/CE-Net)
+      [[Pytorch]](https://github.com/xiaoketongxue/CE-Net)
 ## 3D Medical Segmentation
 ### 
 2019
