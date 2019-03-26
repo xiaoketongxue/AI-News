@@ -1,4 +1,7 @@
-
+CV-News
+======
+- [x] [Semantation](#Segmentation)
+- [x] [Classification](#Classification)
 # Segmentation
 - [x] [Semantic Segmentation](#Semantic-Segmentation)
 - [x] [2D Medical Segmentation](#2D-Medical-Segmentation)
