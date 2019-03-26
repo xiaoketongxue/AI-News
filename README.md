@@ -18,6 +18,10 @@ CV-News
 xxx
 ## 2D Medical Segmentation
 ### 2019
+  - ISBI
+    + [A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation(Oct 2018)](https://arxiv.org/abs/1810.07842)   
+      [[Keras]](https://github.com/nabsabraham/focal-tversky-unet)
+    
   - other
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar)](https://arxiv.org/abs/1903.02740)   
       [[Pytorch]](https://github.com/xiaoketongxue/CE-Net)
