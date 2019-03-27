@@ -22,7 +22,7 @@ xxx
     + [A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation(Oct 2018)](https://arxiv.org/abs/1810.07842)[[Keras]](https://github.com/nabsabraham/focal-tversky-unet)
     
   - other
-    + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/xiaoketongxue/CE-Net)
+    + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/xiaoketongxue/CE-Net)
 ## 3D Medical Segmentation
 ### 
 2019
@@ -35,7 +35,7 @@ xxx
 # Classification
 ## 2019
   - new conv
-    + [Selective Kernel Networks(Mar)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)   
+    + [Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)   
 ## 2017
   - CVPR 2017
     + [Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)
