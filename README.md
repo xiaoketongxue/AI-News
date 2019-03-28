@@ -41,7 +41,9 @@ xxx
 ## 2019
   - CVPR 2019
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
-    + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)
+    + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
+  - arXiv
+    + [Convolutional Neural Networks with Layer Reuse](https://arxiv.org/abs/1901.09615)
 ## 2017
   - CVPR 2017
     + [DenseNet:Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)
