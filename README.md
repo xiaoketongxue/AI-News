@@ -31,6 +31,8 @@ xxx
 2019
 ## Instance Segmentation
 ### 2019
+  -CVPR 2019
+    + [Hybrid Task Cascade for Instance Segmentation(Jan 2019)](https://arxiv.org/abs/1901.07518)[[Pytorch]](https://github.com/open-mmlab/mmdetection)
 ## Panoptic Segmentation
 ### 2019
 
