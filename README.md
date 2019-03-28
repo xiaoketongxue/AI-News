@@ -12,6 +12,8 @@ CV-News
 
 ## Semantic Segmentation
 ### 2019
+  - CVPR2019    
+    + [Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet)
 
 
 
@@ -19,7 +21,7 @@ CV-News
 xxx
 ## 2D Medical Segmentation
 ### 2019
-  - ISBI
+  - ISBI2019
     + [A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation(Oct 2018)](https://arxiv.org/abs/1810.07842)[[Keras]](https://github.com/nabsabraham/focal-tversky-unet)
     
   - other
