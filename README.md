@@ -13,7 +13,7 @@ CV-News
 ## Semantic Segmentation
 ### 2019
   - CVPR2019    
-    + [Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet)
+    + [Dual Attention Network for Scene Segmentation(Sep 2018)](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet)
 
 
 
