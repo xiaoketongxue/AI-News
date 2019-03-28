@@ -40,9 +40,9 @@ xxx
 # Classification
 ## 2019
   - new conv
-    + [Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)   
+    + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)   
 ## 2017
   - CVPR 2017
-    + [Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)
+    + [DenseNet:Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)
   
 # Dataset
