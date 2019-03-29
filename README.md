@@ -14,11 +14,7 @@ CV-News
 ### 2019
   - CVPR2019    
     + [Dual Attention Network for Scene Segmentation(Sep 2018)](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet)
-
-
-
-
-xxx
+    
 ## 2D Medical Segmentation
 ### 2019
   - ISBI2019
@@ -26,9 +22,11 @@ xxx
     
   - other
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)
+    
 ## 3D Medical Segmentation
-### 
-2019
+### 2019
+  - arxiv
+    + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://github.com/MASILab/SLANTbrainSeg)
 ## Instance Segmentation
 ### 2019
   - CVPR 2019   
