@@ -2,6 +2,7 @@ CV-News
 ======
 - [x] [Semantation](#Segmentation)
 - [x] [Classification](#Classification)
+- [x] [Registration](#Registration)
 - [x] [Dataset](#Dataset)
 # Segmentation
 - [x] [Semantic Segmentation](#Semantic-Segmentation)
@@ -45,5 +46,8 @@ xxx
 ## 2017
   - CVPR 2017
     + [DenseNet:Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)
-  
+# Registration
+  - arxiv
+    + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
+
 # Dataset
