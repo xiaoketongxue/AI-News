@@ -14,7 +14,9 @@ CV-News
 ## Semantic Segmentation
 ### 2019
   - CVPR2019    
-    + [Dual Attention Network for Scene Segmentation(Sep 2018)](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet)
+    + [Dual Attention Network for Scene Segmentation(Sep 2018)](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet)  
+    + [Structured Knowledge Distillation for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04197)
+    + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
   - other
     + [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11816)[[Pytorch]](https://github.com/wuhuikai/FastFCN)
     
@@ -41,6 +43,7 @@ CV-News
 ### 2019
   - CVPR 2019   
     + [Hybrid Task Cascade for Instance Segmentation(Jan 2019)](https://arxiv.org/abs/1901.07518)[[Pytorch]](https://github.com/open-mmlab/mmdetection)
+    + [Pose2Seg: Detection Free Human Instance Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10683)[[Code]](https://github.com/liruilong940607/OCHumanApi)
 ## Panoptic Segmentation
 ### 2019
 
