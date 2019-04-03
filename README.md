@@ -27,7 +27,10 @@ CV-News
   - other
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)   
     + [Feature Fusion Encoder Decoder Network For Automatic Liver Lesion Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11834)
-    
+### 2018
+  - other
+    + [Attention U-Net: Learning Where to Look for the Pancreas(Apr 2018)](https://arxiv.org/abs/1804.03999)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
+    + [Attention Gated Networks: Learning to Leverage Salient Regions in Medical Images(Aug 2018)](https://arxiv.org/abs/1808.08114)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
 ## 3D Medical Segmentation
 ### 2019
   - arxiv
@@ -46,6 +49,11 @@ CV-News
     + [Pose2Seg: Detection Free Human Instance Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10683)[[Code]](https://github.com/liruilong940607/OCHumanApi)
 ## Panoptic Segmentation
 ### 2019
+  - CVPR2019
+    + [Attention-guided Unified Network for Panoptic Segmentation](https://arxiv.org/abs/1812.03904)  
+    + []
+  
+
 
 xxx
 # Classification
