@@ -26,7 +26,8 @@ CV-News
     + [A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation(Oct 2018)](https://arxiv.org/abs/1810.07842)[[Keras]](https://github.com/nabsabraham/focal-tversky-unet)
   - other
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)   
-    + [Feature Fusion Encoder Decoder Network For Automatic Liver Lesion Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11834)
+    + [Feature Fusion Encoder Decoder Network For Automatic Liver Lesion Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11834)  
+    + [MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation(Dec 2018)](https://arxiv.org/abs/1812.00352)
 ### 2018
   - other
     + [Attention U-Net: Learning Where to Look for the Pancreas(Apr 2018)](https://arxiv.org/abs/1804.03999)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
@@ -36,8 +37,7 @@ CV-News
   - arxiv
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://github.com/MASILab/SLANTbrainSeg)  
 ### 2018
-  - Brain Tissue Segmentation
-    + [Dataset]()[[MRBrainS2018]](https://mrbrains18.isi.uu.nl/)[[MRBrainS2013]](http://mrbrains13.isi.uu.nl/)
+  - Brain Tissue Segmentation  
     + [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation(Rank 1)](https://www.springerprofessional.de/en/3d-patchwise-u-net-with-transition-layers-for-mr-brain-segmentat/16457542)[[TensorFlow]](https://github.com/xiaoketongxue/mrbrains18-1)  
     + [MixNet: Multi-modality Mix Network for Brain Segmentation(Rank3)](https://link.springer.com/chapter/10.1007%2F978-3-030-11723-8_37)[[tensorflow]](https://github.com/xiaoketongxue/MRBrainS-Brain-Segmentation)
     + [Robust 3D Convolutional Neural Network with Boundary Correction for Accurate Brain Tissue Segmentation(Rank3)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543143)[[Keras]]()
@@ -71,3 +71,6 @@ xxx
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
 
 # Dataset
+  - Brain Tissue Segmentation
+    + [MRBrainS2018](https://mrbrains18.isi.uu.nl/)
+    + [MRBrainS2013](http://mrbrains13.isi.uu.nl/)
