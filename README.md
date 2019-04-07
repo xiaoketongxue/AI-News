@@ -28,10 +28,12 @@ CV-News
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)   
     + [Feature Fusion Encoder Decoder Network For Automatic Liver Lesion Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11834)  
     + [MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation(Dec 2018)](https://arxiv.org/abs/1812.00352)
+    + [Segmentation of the Prostatic Gland and the Intraprostatic Lesions on Multiparametic MRI Using Mask-RCNN(Apr 2019)](https://arxiv.org/abs/1904.02575)
 ### 2018
   - other
     + [Attention U-Net: Learning Where to Look for the Pancreas(Apr 2018)](https://arxiv.org/abs/1804.03999)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
     + [Attention Gated Networks: Learning to Leverage Salient Regions in Medical Images(Aug 2018)](https://arxiv.org/abs/1808.08114)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
+    +
 ## 3D Medical Segmentation
 ### 2019
   - arxiv
@@ -42,6 +44,7 @@ CV-News
     + [MixNet: Multi-modality Mix Network for Brain Segmentation(Rank3)](https://link.springer.com/chapter/10.1007%2F978-3-030-11723-8_37)[[tensorflow]](https://github.com/xiaoketongxue/MRBrainS-Brain-Segmentation)
     + [Robust 3D Convolutional Neural Network with Boundary Correction for Accurate Brain Tissue Segmentation(Rank3)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543143)[[Keras]]()
     + [Automatic Brain Structures Segmentation Using Deep Residual Dilated U-Net(Rank9)](https://arxiv.org/abs/1811.04312)
+    + ["On direct distribution matching for adapting segmentation networks(Apr 2019)](https://arxiv.org/abs/1904.02657)[[Code]](https://github.com/anonymauthor/DDMSegNet)
     
 ## Instance Segmentation
 ### 2019
@@ -66,6 +69,8 @@ xxx
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
   - arXiv
     + [Convolutional Neural Networks with Layer Reuse](https://arxiv.org/abs/1901.09615)
+  - 3D
+    + [Resource Efficient 3D Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.02422)[[Code]](https://github.com/okankop/Efficient-3DCNNs)
 ## 2017
   - CVPR 2017
     + [DenseNet:Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)
