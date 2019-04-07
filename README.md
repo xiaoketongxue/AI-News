@@ -2,14 +2,17 @@ CV-News
 ======
 - [x] [Semantation](#Segmentation)
 - [x] [Classification](#Classification)
+- [x] [Super-Resolution](#Super-Resolution )
 - [x] [Registration](#Registration)
 - [x] [Dataset](#Dataset)
+
 # Segmentation
 - [x] [Semantic Segmentation](#Semantic-Segmentation)
 - [x] [2D Medical Segmentation](#2D-Medical-Segmentation)
 - [x] [3D Medical Segmentation](#3D-Medical-Segmentation)
 - [x] [Instance Segmentation](#Instance-Segmentation)
 - [x] [Panoptic Segmentation](#Panoptic-Segmentation)
+- [x] [Video Segmentation](Video-Segmentation)
 
 ## Semantic Segmentation
 ### 2019
@@ -19,6 +22,15 @@ CV-News
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
   - other
     + [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11816)[[Pytorch]](https://github.com/wuhuikai/FastFCN)
+    + [Architecture Search of Dynamic Cells for Semantic Video Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02371)
+    + [Template-Based Automatic Search of Compact Semantic Segmentation Architectures(Apr 2019)](https://arxiv.org/abs/1904.02365)
+    + [DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02216)
+    + [DADA: Depth-aware Domain Adaptation in Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01886)
+    + [GFF: Gated Fully Fusion for Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01803)
+    + [MAVNet: an Effective Semantic Segmentation Micro-Network for MAV-based Tasks(Apr 2019)](https://arxiv.org/abs/1904.01795)
+    + [Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.00876)
+   
+    
     
 ## 2D Medical Segmentation
 ### 2019
@@ -29,6 +41,7 @@ CV-News
     + [Feature Fusion Encoder Decoder Network For Automatic Liver Lesion Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11834)  
     + [MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation(Dec 2018)](https://arxiv.org/abs/1812.00352)
     + [Segmentation of the Prostatic Gland and the Intraprostatic Lesions on Multiparametic MRI Using Mask-RCNN(Apr 2019)](https://arxiv.org/abs/1904.02575)
+    + [FatSegNet : A Fully Automated Deep Learning Pipeline for Adipose Tissue Segmentation on Abdominal Dixon MRI( Apr 2019)](https://arxiv.org/abs/1904.02082)
 ### 2018
   - other
     + [Attention U-Net: Learning Where to Look for the Pancreas(Apr 2018)](https://arxiv.org/abs/1804.03999)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
@@ -38,13 +51,15 @@ CV-News
 ### 2019
   - arxiv
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://github.com/MASILab/SLANTbrainSeg)  
+    + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
+    + [Spherical U-Net on Cortical Surfaces: Methods and Applications(Apr 2019)](https://arxiv.org/abs/1904.00906)
 ### 2018
   - Brain Tissue Segmentation  
     + [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation(Rank 1)](https://www.springerprofessional.de/en/3d-patchwise-u-net-with-transition-layers-for-mr-brain-segmentat/16457542)[[TensorFlow]](https://github.com/xiaoketongxue/mrbrains18-1)  
     + [MixNet: Multi-modality Mix Network for Brain Segmentation(Rank3)](https://link.springer.com/chapter/10.1007%2F978-3-030-11723-8_37)[[tensorflow]](https://github.com/xiaoketongxue/MRBrainS-Brain-Segmentation)
     + [Robust 3D Convolutional Neural Network with Boundary Correction for Accurate Brain Tissue Segmentation(Rank3)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543143)[[Keras]]()
     + [Automatic Brain Structures Segmentation Using Deep Residual Dilated U-Net(Rank9)](https://arxiv.org/abs/1811.04312)
-    + ["On direct distribution matching for adapting segmentation networks(Apr 2019)](https://arxiv.org/abs/1904.02657)[[Code]](https://github.com/anonymauthor/DDMSegNet)
+    + [On direct distribution matching for adapting segmentation networks(Apr 2019)](https://arxiv.org/abs/1904.02657)[[Code]](https://github.com/anonymauthor/DDMSegNet)
     
 ## Instance Segmentation
 ### 2019
@@ -53,12 +68,16 @@ CV-News
     + [Pose2Seg: Detection Free Human Instance Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10683)[[Code]](https://github.com/liruilong940607/OCHumanApi)  
   - other
     + [YOLACT: Real-time Instance Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02689)
+    + [Concatenated Feature Pyramid Network for Instance Segmentation(Mar 2019)](https://arxiv.org/abs/1904.00768)
 ## Panoptic Segmentation
 ### 2019
   - CVPR2019
     + [Attention-guided Unified Network for Panoptic Segmentation](https://arxiv.org/abs/1812.03904)  
     + []
-  
+ ## Video-Segmentation
+ ### 2019
+  - CVPR 2019
+    + [Spatiotemporal CNN for Video Object Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02363)[[Code]](https://github.com/longyin880815/STCNN)
 
 
 xxx
@@ -69,15 +88,25 @@ xxx
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
   - arXiv
     + [Convolutional Neural Networks with Layer Reuse](https://arxiv.org/abs/1901.09615)
+    + [Generalizing discrete convolutions for unstructured point clouds(Apr 2019)](https://arxiv.org/abs/1904.02375)[[Pytorch]](https://github.com/aboulch/ConvPoint)
+    + [Hybrid Cosine Based Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.01987)
+    + [Res2Net: A New Multi-scale Backbone Architecture(Apr 2019)](https://arxiv.org/abs/1904.01169)
   - 3D
     + [Resource Efficient 3D Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.02422)[[Code]](https://github.com/okankop/Efficient-3DCNNs)
 ## 2017
   - CVPR 2017
-    + [DenseNet:Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)
+    + [DenseNet:Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)  
+# Super-Resolution 
+## 2019
+  - Arxiv
+    + [Lightweight Image Super-Resolution with Adaptive Weighted Learning Network(Apr 2019)](https://arxiv.org/abs/1904.02358)[[Code]](https://github.com/ChaofWang/AWSRN)
 # Registration
   - arxiv
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
-
+    + [3DRegNet: A Deep Neural Network for 3D Point Registration( Apr 2019)](https://arxiv.org/abs/1904.01701)
+    + [Non-Rigid Point Set Registration Networks(Apr 2019)](https://arxiv.org/abs/1904.01428)[[Pytorch]](https://github.com/Lingjing324/PR-Net)
+    + [Automatic Nonrigid Histological Image Registration with Adaptive Multistep Algorithm(Apr 2019)](https://arxiv.org/abs/1904.00982)
+    + [Palmprint image registration using convolutional neural networks and Hough transform(Apr 2019)](https://arxiv.org/abs/1904.00579)
 # Dataset
   - Brain Tissue Segmentation
     + [MRBrainS2018](https://mrbrains18.isi.uu.nl/)
