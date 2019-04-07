@@ -47,7 +47,9 @@ CV-News
 ### 2019
   - CVPR 2019   
     + [Hybrid Task Cascade for Instance Segmentation(Jan 2019)](https://arxiv.org/abs/1901.07518)[[Pytorch]](https://github.com/open-mmlab/mmdetection)
-    + [Pose2Seg: Detection Free Human Instance Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10683)[[Code]](https://github.com/liruilong940607/OCHumanApi)
+    + [Pose2Seg: Detection Free Human Instance Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10683)[[Code]](https://github.com/liruilong940607/OCHumanApi)  
+  - other
+    + [YOLACT: Real-time Instance Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02689)
 ## Panoptic Segmentation
 ### 2019
   - CVPR2019
