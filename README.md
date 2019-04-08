@@ -4,6 +4,7 @@ CV-News
 - [x] [Classification](#Classification)
 - [x] [Super-Resolution](#Super-Resolution )
 - [x] [Registration](#Registration)
+- [x] [Survey](#Survey)
 - [x] [Dataset](#Dataset)
 
 # Segmentation
@@ -12,7 +13,7 @@ CV-News
 - [x] [3D Medical Segmentation](#3D-Medical-Segmentation)
 - [x] [Instance Segmentation](#Instance-Segmentation)
 - [x] [Panoptic Segmentation](#Panoptic-Segmentation)
-- [x] [Video Segmentation](Video-Segmentation)
+- [x] [Video Segmentation](#Video-Segmentation)
 
 ## Semantic Segmentation
 ### 2019
@@ -107,6 +108,9 @@ xxx
     + [Non-Rigid Point Set Registration Networks(Apr 2019)](https://arxiv.org/abs/1904.01428)[[Pytorch]](https://github.com/Lingjing324/PR-Net)
     + [Automatic Nonrigid Histological Image Registration with Adaptive Multistep Algorithm(Apr 2019)](https://arxiv.org/abs/1904.00982)
     + [Palmprint image registration using convolutional neural networks and Hough transform(Apr 2019)](https://arxiv.org/abs/1904.00579)
+# Survey
+  - Attention Models
+    + [An Attentive Survey of Attention Models(Apr 2019)](https://arxiv.org/abs/1904.02874)
 # Dataset
   - Brain Tissue Segmentation
     + [MRBrainS2018](https://mrbrains18.isi.uu.nl/)
