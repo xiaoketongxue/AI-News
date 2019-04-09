@@ -84,6 +84,8 @@ CV-News
 xxx
 # Classification
 ## 2019
+  - Exploring Randomly Wired Neural Networks
+    + [Exploring Randomly Wired Neural Networks for Image Recognition（Apr 2019）](https://arxiv.org/abs/1904.01569)[[Pyroech]](https://github.com/yoheikikuta/senet-keras/tree/master/model)
   - CVPR 2019
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
