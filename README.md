@@ -18,7 +18,8 @@ CV-News
 ## Semantic Segmentation
 ### 2019
   - CVPR2019    
-    + [Dual Attention Network for Scene Segmentation(Sep 2018)](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet)  
+    + [Dual Attention Network for Scene Segmentation(Sep 2018)](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet) 
+    + [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images(Mar 2019))](https://arxiv.org/abs/1903.08469)[[Pytroch]](https://github.com/orsic/swiftnet)
     + [Structured Knowledge Distillation for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04197)
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
     + [Cross-Modal Self-Attention Network for Referring Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.04745)
