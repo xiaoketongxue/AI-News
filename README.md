@@ -21,6 +21,7 @@ CV-News
     + [Dual Attention Network for Scene Segmentation(Sep 2018)](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet)  
     + [Structured Knowledge Distillation for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04197)
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
+    + [Cross-Modal Self-Attention Network for Referring Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.04745)
   - other
     + [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11816)[[Pytorch]](https://github.com/wuhuikai/FastFCN)
     + [Architecture Search of Dynamic Cells for Semantic Video Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02371)
@@ -30,6 +31,7 @@ CV-News
     + [GFF: Gated Fully Fusion for Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01803)
     + [MAVNet: an Effective Semantic Segmentation Micro-Network for MAV-based Tasks(Apr 2019)](https://arxiv.org/abs/1904.01795)
     + [Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.00876)
+    + [The Fishyscapes Benchmark: Measuring Blind Spots in Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.03215)
    
     
     
@@ -54,6 +56,7 @@ CV-News
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://github.com/MASILab/SLANTbrainSeg)  
     + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
     + [Spherical U-Net on Cortical Surfaces: Methods and Applications(Apr 2019)](https://arxiv.org/abs/1904.00906)
+    + [3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI(Apr 2019)](https://arxiv.org/abs/1904.03355)
 ### 2018
   - Brain Tissue Segmentation  
     + [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation(Rank 1)](https://www.springerprofessional.de/en/3d-patchwise-u-net-with-transition-layers-for-mr-brain-segmentat/16457542)[[TensorFlow]](https://github.com/xiaoketongxue/mrbrains18-1)  
@@ -94,6 +97,8 @@ xxx
     + [Generalizing discrete convolutions for unstructured point clouds(Apr 2019)](https://arxiv.org/abs/1904.02375)[[Pytorch]](https://github.com/aboulch/ConvPoint)
     + [Hybrid Cosine Based Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.01987)
     + [Res2Net: A New Multi-scale Backbone Architecture(Apr 2019)](https://arxiv.org/abs/1904.01169)
+    + [G-softmax: Improving Intra-class Compactness and Inter-class Separability of Features(Apr 2019)](https://arxiv.org/abs/1904.04317)
+    + [ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification(Apr 2019)](https://arxiv.org/abs/1904.03775)
   - 3D
     + [Resource Efficient 3D Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.02422)[[Code]](https://github.com/okankop/Efficient-3DCNNs)
 ## 2017
