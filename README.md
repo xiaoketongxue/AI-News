@@ -103,7 +103,8 @@ xxx
     + [Res2Net: A New Multi-scale Backbone Architecture(Apr 2019)](https://arxiv.org/abs/1904.01169)
     + [G-softmax: Improving Intra-class Compactness and Inter-class Separability of Features(Apr 2019)](https://arxiv.org/abs/1904.04317)
     + [ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification(Apr 2019)](https://arxiv.org/abs/1904.03775)
-  - 3D
+    + [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution( Apr 2019)](https://arxiv.org/abs/1904.05049)[[Pytorch]](https://github.com/xiaoketongxue/octconv-pytorch)
+   - 3D
     + [Resource Efficient 3D Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.02422)[[Code]](https://github.com/okankop/Efficient-3DCNNs)
 ## 2017
   - CVPR 2017
