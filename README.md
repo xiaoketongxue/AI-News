@@ -24,6 +24,7 @@ CV-News
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
     + [Cross-Modal Self-Attention Network for Referring Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.04745)
   - other
+    + [CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing(Apr 2019)](https://arxiv.org/abs/1904.08170)
     + [ACE: Adapting to Changing Environments for Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.06268)
     + [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11816)[[Pytorch]](https://github.com/wuhuikai/FastFCN)
     + [Architecture Search of Dynamic Cells for Semantic Video Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02371)
