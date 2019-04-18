@@ -105,13 +105,13 @@ xxx
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
   - arXiv
     + [High-Resolution Representations for Labeling Pixels and Regions(Apr 2019)](https://arxiv.org/abs/1904.04514)
+    + [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution( Apr 2019)](https://arxiv.org/abs/1904.05049)[[Pytorch]](https://github.com/xiaoketongxue/octconv-pytorch)
     + [Convolutional Neural Networks with Layer Reuse](https://arxiv.org/abs/1901.09615)
     + [Generalizing discrete convolutions for unstructured point clouds(Apr 2019)](https://arxiv.org/abs/1904.02375)[[Pytorch]](https://github.com/aboulch/ConvPoint)
     + [Hybrid Cosine Based Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.01987)
     + [Res2Net: A New Multi-scale Backbone Architecture(Apr 2019)](https://arxiv.org/abs/1904.01169)
     + [G-softmax: Improving Intra-class Compactness and Inter-class Separability of Features(Apr 2019)](https://arxiv.org/abs/1904.04317)
     + [ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification(Apr 2019)](https://arxiv.org/abs/1904.03775)
-    + [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution( Apr 2019)](https://arxiv.org/abs/1904.05049)[[Pytorch]](https://github.com/xiaoketongxue/octconv-pytorch)
     + [A New Loss Function for CNN Classifier Based on Pre-defined Evenly-Distributed Class Centroids(Apr 2019)](https://arxiv.org/abs/1904.06008)
     + [Compressing deep neural networks by matrix product operators(Apr 2019)](https://arxiv.org/abs/1904.06194)
   - 3D   
