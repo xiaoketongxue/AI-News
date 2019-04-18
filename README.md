@@ -24,6 +24,7 @@ CV-News
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
     + [Cross-Modal Self-Attention Network for Referring Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.04745)
   - other
+    + [ACE: Adapting to Changing Environments for Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.06268)
     + [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11816)[[Pytorch]](https://github.com/wuhuikai/FastFCN)
     + [Architecture Search of Dynamic Cells for Semantic Video Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02371)
     + [Template-Based Automatic Search of Compact Semantic Segmentation Architectures(Apr 2019)](https://arxiv.org/abs/1904.02365)
@@ -38,9 +39,13 @@ CV-News
     
 ## 2D Medical Segmentation
 ### 2019
+  - CVPR 2019
+    + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
+    + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
   - ISBI2019
     + [A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation(Oct 2018)](https://arxiv.org/abs/1810.07842)[[Keras]](https://github.com/nabsabraham/focal-tversky-unet)
   - other
+    + [nnU-Net: Breaking the Spell on Successful Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.08128)
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)   
     + [Feature Fusion Encoder Decoder Network For Automatic Liver Lesion Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11834)  
     + [MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation(Dec 2018)](https://arxiv.org/abs/1812.00352)
@@ -53,6 +58,8 @@ CV-News
     +
 ## 3D Medical Segmentation
 ### 2019
+  - IPMI
+    + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
   - arxiv
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://github.com/MASILab/SLANTbrainSeg)  
     + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
@@ -97,6 +104,7 @@ xxx
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
   - arXiv
+    + [High-Resolution Representations for Labeling Pixels and Regions(Apr 2019)](https://arxiv.org/abs/1904.04514)
     + [Convolutional Neural Networks with Layer Reuse](https://arxiv.org/abs/1901.09615)
     + [Generalizing discrete convolutions for unstructured point clouds(Apr 2019)](https://arxiv.org/abs/1904.02375)[[Pytorch]](https://github.com/aboulch/ConvPoint)
     + [Hybrid Cosine Based Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.01987)
@@ -104,6 +112,8 @@ xxx
     + [G-softmax: Improving Intra-class Compactness and Inter-class Separability of Features(Apr 2019)](https://arxiv.org/abs/1904.04317)
     + [ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification(Apr 2019)](https://arxiv.org/abs/1904.03775)
     + [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution( Apr 2019)](https://arxiv.org/abs/1904.05049)[[Pytorch]](https://github.com/xiaoketongxue/octconv-pytorch)
+    + [A New Loss Function for CNN Classifier Based on Pre-defined Evenly-Distributed Class Centroids(Apr 2019)](https://arxiv.org/abs/1904.06008)
+    + [Compressing deep neural networks by matrix product operators(Apr 2019)](https://arxiv.org/abs/1904.06194)
   - 3D   
     + [Resource Efficient 3D Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.02422)[[Code]](https://github.com/okankop/Efficient-3DCNNs)
 ## 2017
