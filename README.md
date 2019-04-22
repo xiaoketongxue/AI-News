@@ -35,6 +35,8 @@ CV-News
     + [MAVNet: an Effective Semantic Segmentation Micro-Network for MAV-based Tasks(Apr 2019)](https://arxiv.org/abs/1904.01795)
     + [Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.00876)
     + [The Fishyscapes Benchmark: Measuring Blind Spots in Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.03215)
+    + [Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes(Apr 2019)](https://arxiv.org/abs/1904.09092)
+
    
     
     
@@ -45,6 +47,12 @@ CV-News
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
   - ISBI2019
     + [A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation(Oct 2018)](https://arxiv.org/abs/1810.07842)[[Keras]](https://github.com/nabsabraham/focal-tversky-unet)
+    + [Automated Segmentation of Pulmonary Lobes using Coordination-Guided Deep Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.09106)
+  - MIDI 2019
+    + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
+  - SCI
+  + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging]
+    
   - other
     + [nnU-Net: Breaking the Spell on Successful Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.08128)[[Code]](https://github.com/MIC-DKFZ/nnunet)
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)   
@@ -66,6 +74,7 @@ CV-News
     + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
     + [Spherical U-Net on Cortical Surfaces: Methods and Applications(Apr 2019)](https://arxiv.org/abs/1904.00906)
     + [3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI(Apr 2019)](https://arxiv.org/abs/1904.03355)
+    + [Fully Automatic Segmentation of 3D Brain Ultrasound: Learning from Coarse Annotations](https://arxiv.org/abs/1904.08655)
 ### 2018
   - MICCAI 2018
     + [Multi-Task Learning for Left Atrial Segmentation on GE-MRI(Oct 2018)](https://arxiv.org/abs/1810.13205)[[Pytorch]](https://github.com/cherise215/atria_segmentation_2018/)
