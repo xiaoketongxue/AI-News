@@ -160,7 +160,14 @@ CV-News
     + [Robust 3D Convolutional Neural Network with Boundary Correction for Accurate Brain Tissue Segmentation(Rank3)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543143)[[Keras]]()
     + [Automatic Brain Structures Segmentation Using Deep Residual Dilated U-Net(Rank9)](https://arxiv.org/abs/1811.04312)
     + [On direct distribution matching for adapting segmentation networks(Apr 2019)](https://arxiv.org/abs/1904.02657)[[Code]](https://github.com/anonymauthor/DDMSegNet)
-    
+### MS lesion segmentation
+  - Paper
+    + [Soft labeling by Distilling Anatomical knowledge for Improved MS Lesion Segmentation(Jan 2019)](https://arxiv.org/abs/1901.09263)[ISBI2019]
+    + [Multiple Sclerosis Lesion Synthesis in MRI using an encoder-decoder U-NET(Jan 2019)](https://arxiv.org/abs/1901.05733)
+    + [Multiple Sclerosis Lesion Inpainting Using Non-Local Partial Convolutions(Dec 2018)](https://arxiv.org/abs/1901.00055)
+    + [A Self-Adaptive Network For Multiple Sclerosis Lesion Segmentation From Multi-Contrast MRI With Various Imaging Protocols(Nov 2018)](https://arxiv.org/abs/1811.07491)
+    + [Multi-branch Convolutional Neural Network for Multiple Sclerosis Lesion Segmentation(Nov 2018)](https://arxiv.org/abs/1811.07491)[NeuroImage]
+    + [Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation((Aug 2018)](https://arxiv.org/abs/1811.07491)[MICCAI 2018]
     
 ## Instance Segmentation
 ### 2019
