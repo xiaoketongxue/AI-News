@@ -45,11 +45,19 @@ CV-News
 ### 2015
   - CVPR 2015
     + [Fully Convolutional Networks for Semantic Segmentation(Nov 2014)](https://arxiv.org/abs/1411.4038)
+    + [Feedforward semantic segmentation with zoom-out features(Dec 2014)](https://arxiv.org/abs/1412.0774v1)
+    + [Learning to Propose Objects](http://openaccess.thecvf.com/content_cvpr_2015/papers/Krahenbuhl_Learning_to_Propose_2015_CVPR_paper.pdf)[[Project]](http://vladlen.info/publications/learning-to-propose-objects/)[[Pytorch]](https://github.com/philkr/lpo)
+    + [Hypercolumns for Object Segmentation and Fine-grained Localization](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.pdf)
+    + [Scene Labeling with LSTM Recurrent Neural Networks](http://openaccess.thecvf.com/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)
+    + [Weakly supervised semantic segmentation for social images](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Weakly_Supervised_Semantic_2015_CVPR_paper.pdf)
   - ICCV 2015
     + [Learning deconvolution network for semantic segmentation(May 2015)](https://arxiv.org/abs/1505.04366)
+    + [Semantic Image Segmentation via Deep Parsing Network(Sep 2015)](https://arxiv.org/abs/1509.02634v1)
   - Other 
+    + [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs(Dec 2014](https://arxiv.org/abs/1412.7062)[ICLR][DeepLabv1]
     + [U-Net: Convolutional Networks for Biomedical Image Segmentation(May 2015)](https://arxiv.org/abs/1505.04597)[MICCAI]
-    + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation(Nov 2015)](https://arxiv.org/abs/1511.00561)[]
+    + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation(Nov 2015)](https://arxiv.org/abs/1511.00561)
+    + [Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation](https://papers.nips.cc/paper/5858-decoupled-deep-neural-network-for-semi-supervised-semantic-segmentation)[NIPS]
 ### Before 2015
   - paper
     + [Simultaneous Detection and Segmentation(Jul 2014)](https://arxiv.org/abs/1407.1808)[ECCV 2014]
@@ -168,22 +176,22 @@ xxx
     + [MRBrainS2018](https://mrbrains18.isi.uu.nl/)
     + [MRBrainS2013](http://mrbrains13.isi.uu.nl/)
  # Conference
- MICCAI
- Submission Deadline：2018-03-02
- Accept/Reject Notification：
- ISBI
- Submission Deadline：Oct 16, 2018
- Accept/Reject Notification：Dec 18, 2018
- CVPR 
- Submission Deadline：
- Accept/Reject Notification：
- ECCV
-  Submission Deadline：
- Accept/Reject Notification：
- AAAI
- Submission Deadline：2018-08-30
- Accept/Reject Notification：2018-11-01
- NeurIPS
-  Submission Deadline：May 23, 2019
- Accept/Reject Notification：	Dec 2 - Dec 8, 2019
+ MICCAI  
+ Submission Deadline：2018-03-02  
+ Accept/Reject Notification：  
+ ISBI  
+ Submission Deadline：Oct 16, 2018  
+ Accept/Reject Notification：Dec 18, 2018  
+ CVPR   
+ Submission Deadline：  
+ Accept/Reject Notification：  
+ ECCV  
+  Submission Deadline：  
+ Accept/Reject Notification：  
+ AAAI  
+ Submission Deadline：2018-08-30  
+ Accept/Reject Notification：2018-11-01  
+ NeurIPS  
+  Submission Deadline：May 23, 2019  
+ Accept/Reject Notification：	Dec 2 - Dec 8, 2019  
  
