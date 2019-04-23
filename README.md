@@ -115,6 +115,8 @@ xxx
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
   - arXiv
+    + [Deep Anchored Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.09764)
+    + [Stochastic Region Pooling: Make Attention More Expressive(Apr 2019)](https://arxiv.org/abs/1904.09853)
     + [Attention Augmented Convolutional Networks(Apr 2019)](https://arxiv.org/abs/1904.09925)
     + [High-Resolution Representations for Labeling Pixels and Regions(Apr 2019)](https://arxiv.org/abs/1904.04514)
     + [Deep High-Resolution Representation Learning for Human Pose Estimation(Apr 2019)](https://arxiv.org/abs/1902.09212)[[Pytorch]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
