@@ -44,9 +44,12 @@ CV-News
    
 ### 2015
   - CVPR 2015
-    + [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
+    + [Fully Convolutional Networks for Semantic Segmentation(Nov 2014)](https://arxiv.org/abs/1411.4038)
   - ICCV 2015
     + [Learning deconvolution network for semantic segmentation(May 2015)](https://arxiv.org/abs/1505.04366)
+  - Other 
+    + [U-Net: Convolutional Networks for Biomedical Image Segmentation(May 2015)](https://arxiv.org/abs/1505.04597)[MICCAI]
+    + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation(Nov 2015)](https://arxiv.org/abs/1511.00561)[]
 ### Before 2015
   - paper
     + [Simultaneous Detection and Segmentation(Jul 2014)](https://arxiv.org/abs/1407.1808)[ECCV 2014]
