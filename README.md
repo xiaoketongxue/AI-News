@@ -37,10 +37,22 @@ CV-News
     + [Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.00876)
     + [The Fishyscapes Benchmark: Measuring Blind Spots in Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.03215)
     + [Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes(Apr 2019)](https://arxiv.org/abs/1904.09092)
-
+    
+### 2016
+  - ICLR 2016
+    + [Multi-scale context aggregation by dilated convolutions(Nov 2015) ](https://arxiv.org/abs/1511.07122v2)
    
-    
-    
+### 2015
+  - CVPR 2015
+    + [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
+  - ICCV 2015
+    + [Learning deconvolution network for semantic segmentation(May 2015)](https://arxiv.org/abs/1505.04366)
+### Before 2015
+  - paper
+    + [Simultaneous Detection and Segmentation(Jul 2014)](https://arxiv.org/abs/1407.1808)[ECCV 2014]
+    + [Dense Segmentation-aware Descriptors](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Trulls_Dense_Segmentation-Aware_Descriptors_2013_CVPR_paper.pdf)[CVPR 2013]
+    + [Semantic Segmentation with Second-Order Pooling](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423.3707&rep=rep1&type=pdf)[ECCV2012]
+    + [Nonparametric Scene Parsing via Label Transfer](http://people.csail.mit.edu/celiu/pdfs/LabelTransferTPAMI.pdf)[TPAMI2011][[Project]](http://people.csail.mit.edu/celiu/LabelTransfer/code.html)
 ## 2D Medical Segmentation
 ### 2019
   - CVPR 2019
