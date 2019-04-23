@@ -39,9 +39,23 @@ CV-News
     + [Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes(Apr 2019)](https://arxiv.org/abs/1904.09092)
     
 ### 2016
-  - ICLR 2016
-    + [Multi-scale context aggregation by dilated convolutions(Nov 2015) ](https://arxiv.org/abs/1511.07122v2)
-   
+  - CVPR 2016
+    + [Semantic Image Segmentation with Task-Specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform(Nov 2015)](https://arxiv.org/abs/1511.03328?context=cs.CV)
+    + [ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation(Nov 2015)](https://arxiv.org/abs/1511.07053)[Workshop][[Pytorch]](https://github.com/Wizaron/reseg-pytorch)
+  - ECCV 2016
+    + [Attention to Scale: Scale-aware Semantic Image Segmentation(Nov 2015)](https://arxiv.org/abs/1511.03339v1)
+    + [Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.pdf)  
+    + [Semantic Object Parsing with Graph LSTM(Mar 2016)](https://arxiv.org/abs/1603.07063)  
+  - ICLR 2016   
+    + [Multi-scale context aggregation by dilated convolutions(Nov 2015) ](https://arxiv.org/abs/1511.07122v2)[[Pytorch]](https://github.com/fyu/drn#semantic-image-segmentataion)  
+    + [Learning Dense Convolutional Embeddings for Semantic Segmentation(Nov 2015)](https://arxiv.org/abs/1511.04377)  
+  - NIPS Workshop   
+    + [Semantic Segmentation using Adversarial Networks(Nov 2016)](https://arxiv.org/abs/1611.08408)  
+  - others   
+    + [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(Jun 2016)](https://arxiv.org/abs/1606.02147)  
+    + [High-performance Semantic Segmentation Using Very Deep Fully Convolutional Networks(Apr 2016)](https://arxiv.org/abs/1604.04339)
+    + [PixelNet: Towards a General Pixel-level Architecture(Sep 2016))](https://arxiv.org/abs/1609.06694)  
+    + [MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving(Dec 2016)](https://arxiv.org/abs/1612.07695)  
 ### 2015
   - CVPR 2015
     + [Fully Convolutional Networks for Semantic Segmentation(Nov 2014)](https://arxiv.org/abs/1411.4038)
@@ -54,9 +68,9 @@ CV-News
     + [Learning deconvolution network for semantic segmentation(May 2015)](https://arxiv.org/abs/1505.04366)
     + [Semantic Image Segmentation via Deep Parsing Network(Sep 2015)](https://arxiv.org/abs/1509.02634v1)
   - Other 
-    + [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs(Dec 2014](https://arxiv.org/abs/1412.7062)[ICLR][DeepLabv1]
-    + [U-Net: Convolutional Networks for Biomedical Image Segmentation(May 2015)](https://arxiv.org/abs/1505.04597)[MICCAI]
-    + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation(Nov 2015)](https://arxiv.org/abs/1511.00561)
+    + [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs(Dec 2014](https://arxiv.org/abs/1412.7062)[ICLR][DeepLabv1]  
+    + [U-Net: Convolutional Networks for Biomedical Image Segmentation(May 2015)](https://arxiv.org/abs/1505.04597)[MICCAI]  
+    + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation(Nov 2015)](https://arxiv.org/abs/1511.00561)   
     + [Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation](https://papers.nips.cc/paper/5858-decoupled-deep-neural-network-for-semi-supervised-semantic-segmentation)[NIPS]
 ### Before 2015
   - paper
@@ -102,7 +116,8 @@ CV-News
 ### 2018
   - MICCAI 2018
     + [Multi-Task Learning for Left Atrial Segmentation on GE-MRI(Oct 2018)](https://arxiv.org/abs/1810.13205)[[Pytorch]](https://github.com/cherise215/atria_segmentation_2018/)
-  - Brain Tissue Segmentation  
+### Brain Tissue Segmentation
+  - Paper
     + [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation(Rank 1)](https://www.springerprofessional.de/en/3d-patchwise-u-net-with-transition-layers-for-mr-brain-segmentat/16457542)[[TensorFlow]](https://github.com/xiaoketongxue/mrbrains18-1)  
     + [MixNet: Multi-modality Mix Network for Brain Segmentation(Rank3)](https://link.springer.com/chapter/10.1007%2F978-3-030-11723-8_37)[[tensorflow]](https://github.com/xiaoketongxue/MRBrainS-Brain-Segmentation)
     + [Robust 3D Convolutional Neural Network with Boundary Correction for Accurate Brain Tissue Segmentation(Rank3)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543143)[[Keras]]()
