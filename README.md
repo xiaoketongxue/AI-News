@@ -37,6 +37,13 @@ CV-News
     + [Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.00876)
     + [The Fishyscapes Benchmark: Measuring Blind Spots in Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.03215)
     + [Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes(Apr 2019)](https://arxiv.org/abs/1904.09092)
+### 2018
+  - CVPR 2018
+  - ECCV 2018
+  - NIPS 2018
+  - AAAI 2018
+  - IJCAI 2018
+  - Othes
 ### 2017
   - CVPR 2017
     + [Pyramid Scene Parsing Network(Dec 2016)](https://arxiv.org/abs/1612.01105)
