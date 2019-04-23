@@ -48,10 +48,25 @@ CV-News
     + [Refinenet: Multi-path refinement networks for high-resolution semantic segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_RefineNet_Multi-Path_Refinement_CVPR_2017_paper.pdf)
     + [Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf)
     + [Learning Adaptive Receptive Fields for Deep Image Parsing Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Learning_Adaptive_Receptive_CVPR_2017_paper.pdf)
+    + [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)[Workshop]
     
   - ICCV 2017
+    + [Segmentation-Aware Convolutional Networks Using Local Attention Mask(Mar 2017)](https://arxiv.org/abs/1703.07684)
+    + [Predicting Deeper into the Future of Semantic Segmentation(Mar 2017)](https://arxiv.org/abs/1703.07684)
+    + [FoveaNet: Perspective-aware Urban Scene Parsing(Aug 2017))](https://arxiv.org/abs/1708.02421)
+    + [Dense and Low-Rank Gaussian CRFs Using Deep Embeddings Siddhartha](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chandra_Dense_and_Low-Rank_ICCV_2017_paper.pdf)
+    + [Scale-adaptive Convolutions for Scene Parsing](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Scale-Adaptive_Convolutions_for_ICCV_2017_paper.pdf)
     + [Deep Dual Learning for Semantic Image Segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Luo_Deep_Dual_Learning_ICCV_2017_paper.pdf)
+    + [Semi Supervised Semantic Segmentation Using Generative Adversarial Network](http://openaccess.thecvf.com/content_ICCV_2017/papers/Souly__Semi_Supervised_ICCV_2017_paper.pdf)
   - NIPS 2017
+    + [Learning Affinity via Spatial Propagation Networks](https://papers.nips.cc/paper/6750-learning-affinity-via-spatial-propagation-networks.pdf)
+    + [Dual Path Networks](https://papers.nips.cc/paper/7033-dual-path-networks.pdf)
+  -Others
+    + [Understanding Convolution for Semantic Segmentation](http://cseweb.ucsd.edu/~gary/pubs/panqu-wacv-2018.pdf)[WACV
+]
+    + [Semantic Segmentation with Reverse Attention(Jul 2017)](https://arxiv.org/abs/1707.06426)[BMVC]
+    + [Rethinking Atrous Convolution for Semantic Image Segmentation(Jun 2017)](https://arxiv.org/abs/1706.05587)
+    + [Pixel Deconvolutional Networks(May 2017)](https://arxiv.org/abs/1705.06820)
     
 ### 2016
   - CVPR 2016
