@@ -115,6 +115,7 @@ xxx
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
   - arXiv
+    + [Attention Augmented Convolutional Networks(Apr 2019)](https://arxiv.org/abs/1904.09925)
     + [High-Resolution Representations for Labeling Pixels and Regions(Apr 2019)](https://arxiv.org/abs/1904.04514)
     + [Deep High-Resolution Representation Learning for Human Pose Estimation(Apr 2019)](https://arxiv.org/abs/1902.09212)[[Pytorch]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
     + [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution( Apr 2019)](https://arxiv.org/abs/1904.05049)[[Pytorch]](https://github.com/xiaoketongxue/octconv-pytorch)
