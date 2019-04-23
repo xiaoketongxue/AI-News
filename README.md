@@ -135,6 +135,7 @@ CV-News
     + [MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation(Dec 2018)](https://arxiv.org/abs/1812.00352)
     + [Segmentation of the Prostatic Gland and the Intraprostatic Lesions on Multiparametic MRI Using Mask-RCNN(Apr 2019)](https://arxiv.org/abs/1904.02575)
     + [FatSegNet : A Fully Automated Deep Learning Pipeline for Adipose Tissue Segmentation on Abdominal Dixon MRI( Apr 2019)](https://arxiv.org/abs/1904.02082)
+    + [FocusNet: An attention-based Fully Convolutional Network for Medical Image Segmentation(https://arxiv.org/abs/1902.03091)](https://arxiv.org/abs/1902.03091)
 ### 2018
   - other
     + [Attention U-Net: Learning Where to Look for the Pancreas(Apr 2018)](https://arxiv.org/abs/1804.03999)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
