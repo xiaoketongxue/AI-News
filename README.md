@@ -37,6 +37,21 @@ CV-News
     + [Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.00876)
     + [The Fishyscapes Benchmark: Measuring Blind Spots in Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.03215)
     + [Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes(Apr 2019)](https://arxiv.org/abs/1904.09092)
+### 2017
+  - CVPR 2017
+    + [Pyramid Scene Parsing Network(Dec 2016)](https://arxiv.org/abs/1612.01105)
+    + [Dilated Residual Networks(Jun 2016)](https://arxiv.org/abs/1705.09914)
+    + [Convolutional RandomWalk Networks for Semantic Image Segmentation(May 2016)](https://arxiv.org/abs/1605.07681)
+    + [Loss Max-Pooling for Semantic Image Segmentation(Apr 2017)](https://arxiv.org/abs/1704.02966)
+    + [Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes(Nov 2016)](https://arxiv.org/abs/1611.08323)
+    + [Gated Feedback Refinement Network for Dense Image Labeling](http://openaccess.thecvf.com/content_cvpr_2017/papers/Islam_Gated_Feedback_Refinement_CVPR_2017_paper.pdf)
+    + [Refinenet: Multi-path refinement networks for high-resolution semantic segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_RefineNet_Multi-Path_Refinement_CVPR_2017_paper.pdf)
+    + [Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf)
+    + [Learning Adaptive Receptive Fields for Deep Image Parsing Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Learning_Adaptive_Receptive_CVPR_2017_paper.pdf)
+    
+  - ICCV 2017
+    + [Deep Dual Learning for Semantic Image Segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Luo_Deep_Dual_Learning_ICCV_2017_paper.pdf)
+  - NIPS 2017
     
 ### 2016
   - CVPR 2016
