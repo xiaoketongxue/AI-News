@@ -173,7 +173,7 @@ CV-News
     + [Multiple Sclerosis Lesion Synthesis in MRI using an encoder-decoder U-NET(Jan 2019)](https://arxiv.org/abs/1901.05733)
     + [Multiple Sclerosis Lesion Inpainting Using Non-Local Partial Convolutions(Dec 2018)](https://arxiv.org/abs/1901.00055)
     + [A Self-Adaptive Network For Multiple Sclerosis Lesion Segmentation From Multi-Contrast MRI With Various Imaging Protocols(Nov 2018)](https://arxiv.org/abs/1811.07491)
-    + [Multi-branch Convolutional Neural Network for Multiple Sclerosis Lesion Segmentation(Nov 2018)](https://arxiv.org/abs/1811.07491)[NeuroImage]
+    + [Multi-branch Convolutional Neural Network for Multiple Sclerosis Lesion Segmentation(Nov 2018)](https://arxiv.org/abs/1811.02942)[NeuroImage]
     + [Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation((Aug 2018)](https://arxiv.org/abs/1811.07491)[MICCAI 2018]
     
 ## Instance Segmentation
