@@ -129,11 +129,11 @@ CV-News
   - MIDI 2019
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
   - SCI
-  + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging]
+    + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,ITMI]
+    + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)[IEEE Transactions on Medical Imaging,ITMI]   
     
   - other
     + [nnU-Net: Breaking the Spell on Successful Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.08128)[[Code]](https://github.com/MIC-DKFZ/nnunet)
-    + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)   
     + [Feature Fusion Encoder Decoder Network For Automatic Liver Lesion Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11834)  
     + [MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation(Dec 2018)](https://arxiv.org/abs/1812.00352)
     + [Segmentation of the Prostatic Gland and the Intraprostatic Lesions on Multiparametic MRI Using Mask-RCNN(Apr 2019)](https://arxiv.org/abs/1904.02575)
