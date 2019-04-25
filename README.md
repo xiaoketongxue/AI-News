@@ -129,8 +129,8 @@ CV-News
   - MIDI 2019
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
   - SCI
-    + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,ITMI]
-    + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)[IEEE Transactions on Medical Imaging,ITMI]   
+    + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,TMI]
+    + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)[IEEE Transactions on Medical Imaging,TMI]   
     
   - other
     + [nnU-Net: Breaking the Spell on Successful Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.08128)[[Code]](https://github.com/MIC-DKFZ/nnunet)
