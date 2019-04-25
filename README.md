@@ -6,7 +6,7 @@ CV-News
 - [x] [Registration](#Registration)
 - [x] [Survey](#Survey)
 - [x] [Dataset](#Dataset)
-- [x] [Conference](#Conference)
+- [x] [Conference and Journal ](#Conference-and-Journal )
 
 # Segmentation
 - [x] [Semantic Segmentation](#Semantic-Segmentation)
@@ -247,7 +247,26 @@ xxx
   - Brain Tissue Segmentation
     + [MRBrainS2018](https://mrbrains18.isi.uu.nl/)
     + [MRBrainS2013](http://mrbrains13.isi.uu.nl/)
- # Conference
+#  Conference and Journal 
+## Medical Image Processing Conference and Journal 
+### Conference
+ MICCAI  
+ Submission Deadline：2018-03-02  
+ Accept/Reject Notification：  
+ ISBI  
+ Submission Deadline：Oct 16, 2018  
+ Accept/Reject Notification：Dec 18, 2018  
+ IPMI
+ 
+ EMBC
+ 
+ MIDL
+ 
+### Journal
+Medical Image Analysis， MIA
+IEEETransactions on Medical Imaging， IEEE TMI
+## Image Processing Conference and Journal 
+### Conference  
  CVPR   
  Submission Deadline：  
  Accept/Reject Notification：  
@@ -263,9 +282,4 @@ xxx
  IJCAI  
  Submission Deadline：2019-02-25 
  Accept/Reject Notification：	2019-05-09   
-  MICCAI  
- Submission Deadline：2018-03-02  
- Accept/Reject Notification：  
- ISBI  
- Submission Deadline：Oct 16, 2018  
- Accept/Reject Notification：Dec 18, 2018  
+ ### Journal
