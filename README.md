@@ -71,7 +71,7 @@ CV-News
   - NIPS 2017
     + [Learning Affinity via Spatial Propagation Networks](https://papers.nips.cc/paper/6750-learning-affinity-via-spatial-propagation-networks.pdf)
     + [Dual Path Networks](https://papers.nips.cc/paper/7033-dual-path-networks.pdf)
-  -Others
+  - Others
     + [Understanding Convolution for Semantic Segmentation](http://cseweb.ucsd.edu/~gary/pubs/panqu-wacv-2018.pdf)[WACV
 ]
     + [Semantic Segmentation with Reverse Attention(Jul 2017)](https://arxiv.org/abs/1707.06426)[BMVC]
