@@ -140,6 +140,8 @@ CV-News
     + [FatSegNet : A Fully Automated Deep Learning Pipeline for Adipose Tissue Segmentation on Abdominal Dixon MRI( Apr 2019)](https://arxiv.org/abs/1904.02082)
     + [FocusNet: An attention-based Fully Convolutional Network for Medical Image Segmentation(https://arxiv.org/abs/1902.03091)](https://arxiv.org/abs/1902.03091)
 ### 2018
+  - IPMI 2018
+    + [CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation](https://arxiv.org/abs/1903.05358)
   - other
     + [Attention U-Net: Learning Where to Look for the Pancreas(Apr 2018)](https://arxiv.org/abs/1804.03999)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
     + [Attention Gated Networks: Learning to Leverage Salient Regions in Medical Images(Aug 2018)](https://arxiv.org/abs/1808.08114)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
