@@ -18,14 +18,15 @@ CV-News
 
 ## Semantic Segmentation
 ### 2019
-  - CVPR2019    
+  - CVPR2019   
+    + [Bidirectional Learning for Domain Adaptation of Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.10620)[[Code]](https://github.com/liyunsheng13/BDL)
     + [Dual Attention Network for Scene Segmentation(Sep 2018)](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet) 
     + [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images(Mar 2019))](https://arxiv.org/abs/1903.08469)[[Pytroch]](https://github.com/orsic/swiftnet)
     + [Structured Knowledge Distillation for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04197)
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
     + [Cross-Modal Self-Attention Network for Referring Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.04745)
   - other
-    + [Segmenting the Future](https://arxiv.org/abs/1904.10666)[[Code]](https://github.com/eddyhkchiu/segmenting_the_future/)
+    + [Segmenting the Future(Apr 2019)](https://arxiv.org/abs/1904.10666)[[Code]](https://github.com/eddyhkchiu/segmenting_the_future/)
     + [CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing(Apr 2019)](https://arxiv.org/abs/1904.08170)
     + [ACE: Adapting to Changing Environments for Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.06268)
     + [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11816)[[Pytorch]](https://github.com/wuhuikai/FastFCN)
