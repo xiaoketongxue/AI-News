@@ -207,6 +207,7 @@ xxx
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
   - arXiv
+    + [DenseNet Models for Tiny ImageNet Classification(Apr 2019)](https://arxiv.org/abs/1904.10429)
     + [Deep Anchored Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.09764)
     + [Stochastic Region Pooling: Make Attention More Expressive(Apr 2019)](https://arxiv.org/abs/1904.09853)
     + [Attention Augmented Convolutional Networks(Apr 2019)](https://arxiv.org/abs/1904.09925)
@@ -231,6 +232,7 @@ xxx
   - Arxiv
     + [Lightweight Image Super-Resolution with Adaptive Weighted Learning Network(Apr 2019)](https://arxiv.org/abs/1904.02358)[[Code]](https://github.com/ChaofWang/AWSRN)
     + [Multi-scale deep neural networks for real image super-resolution(Apr 2019)](https://arxiv.org/abs/1904.10698)
+    + [Adaptive Transform Domain Image Super-resolution Via Orthogonally Regularized Deep Networks](https://arxiv.org/abs/1904.10082)
 # Registration
   - arxiv
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
