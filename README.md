@@ -25,6 +25,7 @@ CV-News
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
     + [Cross-Modal Self-Attention Network for Referring Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.04745)
   - other
+    + [Segmenting the Future](https://arxiv.org/abs/1904.10666)[[Code]](https://github.com/eddyhkchiu/segmenting_the_future/)
     + [CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing(Apr 2019)](https://arxiv.org/abs/1904.08170)
     + [ACE: Adapting to Changing Environments for Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.06268)
     + [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11816)[[Pytorch]](https://github.com/wuhuikai/FastFCN)
@@ -37,6 +38,7 @@ CV-News
     + [Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.00876)
     + [The Fishyscapes Benchmark: Measuring Blind Spots in Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.03215)
     + [Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes(Apr 2019)](https://arxiv.org/abs/1904.09092)
+    + [The iterative convolution-thresholding method (ICTM) for image segmentation(Apr 2019)](https://arxiv.org/abs/1904.10917)
 ### 2018
   - CVPR 2018
   - ECCV 2018
@@ -227,6 +229,7 @@ xxx
 ## 2019
   - Arxiv
     + [Lightweight Image Super-Resolution with Adaptive Weighted Learning Network(Apr 2019)](https://arxiv.org/abs/1904.02358)[[Code]](https://github.com/ChaofWang/AWSRN)
+    + [Multi-scale deep neural networks for real image super-resolution(Apr 2019)](https://arxiv.org/abs/1904.10698)
 # Registration
   - arxiv
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
