@@ -126,6 +126,17 @@ CV-News
   - ISBI2019
     + [A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation(Oct 2018)](https://arxiv.org/abs/1810.07842)[[Keras]](https://github.com/nabsabraham/focal-tversky-unet)
     + [Automated Segmentation of Pulmonary Lobes using Coordination-Guided Deep Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.09106)
+    + [Automatic Pulmonary Lobe Segmentation Using Deep Learning(Mar 2019)](https://arxiv.org/abs/1903.09879)
+    + [Deep Learning with Anatomical Priors: Imitating Enhanced Autoencoders in Latent Space for Improved Pelvic Bone Segmentation in MRI(March 2019)](https://arxiv.org/search/?query=ISBI&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
+    + [US-net for robust and efficient nuclei instance segmentation(Jan 2019)](https://arxiv.org/abs/1902.00125)
+    + [Deep Convolutional Encoder-Decoders with Aggregated Multi-Resolution Skip Connections for Skin Lesion Segmentation](https://arxiv.org/abs/1901.09197)
+    + [Mask-RCNN and U-net Ensembled for Nuclei Segmentation(Jan 2019)](https://arxiv.org/abs/1901.10170)
+    + [Using CycleGANs for effectively reducing image variability across OCT devices and improving retinal fluid segmentation](https://arxiv.org/abs/1901.08379)
+    + [U2-Net: A Bayesian U-Net model with epistemic uncertainty feedback for photoreceptor layer segmentation in pathological OCT scans](https://arxiv.org/abs/1901.07929)
+    + [SUMNet: Fully Convolutional Model for Fast Segmentation of Anatomical Structures in Ultrasound Volumes](https://arxiv.org/abs/1901.06920)
+    + [Learning Mutually Local-global U-nets For High-resolution Retinal Lesion Segmentation in Fundus Images](https://arxiv.org/abs/1901.06047)
+    + [Cascade Decoder: A Universal Decoding Method for Biomedical Image Segmentation](https://arxiv.org/abs/1901.04949)
+    + [Residual Pyramid FCN for Robust Follicle Segmentation](https://arxiv.org/abs/1901.03760)
   - MIDI 2019
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
   - SCI
@@ -153,6 +164,9 @@ CV-News
 ### 2019
   - IPMI
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
+  - ISBI2019
+    + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
+    + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://github.com/MASILab/SLANTbrainSeg)  
     + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
