@@ -228,6 +228,7 @@ xxx
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
   
   - arXiv
+    + [Deep Sparse Representation-based Classification(Apr 2019)](https://arxiv.org/abs/1904.11093)[[Code]](https://arxiv.org/abs/1904.11093)
     + [GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond(Apr 2019)](https://arxiv.org/abs/1904.11492)[[Pytorch]](https://github.com/xvjiarui/GCNet)
     + [DenseNet Models for Tiny ImageNet Classification(Apr 2019)](https://arxiv.org/abs/1904.10429)
     + [Deep Anchored Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.09764)
