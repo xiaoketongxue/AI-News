@@ -228,6 +228,7 @@ xxx
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
   - ICML 2019
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
+    + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)
   
   - arXiv
     + [Analytical Moment Regularizer for Gaussian Robust Networks(Apr 2019)](https://arxiv.org/abs/1904.11005)[[Pytorch]](https://github.com/ModarTensai/gaussian-regularizer)
