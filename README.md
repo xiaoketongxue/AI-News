@@ -151,6 +151,7 @@ CV-News
     + [Segmentation of the Prostatic Gland and the Intraprostatic Lesions on Multiparametic MRI Using Mask-RCNN(Apr 2019)](https://arxiv.org/abs/1904.02575)
     + [FatSegNet : A Fully Automated Deep Learning Pipeline for Adipose Tissue Segmentation on Abdominal Dixon MRI( Apr 2019)](https://arxiv.org/abs/1904.02082)
     + [FocusNet: An attention-based Fully Convolutional Network for Medical Image Segmentation(https://arxiv.org/abs/1902.03091)](https://arxiv.org/abs/1902.03091)
+    + [Skin Cancer Segmentation and Classification with NABLA-N and Inception Recurrent Residual Convolutional Networks](https://arxiv.org/abs/1904.11126)
 ### 2018
   - IPMI 2018
     + [CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation](https://arxiv.org/abs/1903.05358)
