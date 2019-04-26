@@ -138,6 +138,8 @@ CV-News
     + [Learning Mutually Local-global U-nets For High-resolution Retinal Lesion Segmentation in Fundus Images](https://arxiv.org/abs/1901.06047)
     + [Cascade Decoder: A Universal Decoding Method for Biomedical Image Segmentation](https://arxiv.org/abs/1901.04949)
     + [Residual Pyramid FCN for Robust Follicle Segmentation](https://arxiv.org/abs/1901.03760)
+  - EMBC 2019
+    + [Ultrasound segmentation using U-Net: learning from simulated data and testing on real data](https://arxiv.org/abs/1904.11031)
   - MIDI 2019
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
   - SCI
@@ -228,7 +230,8 @@ xxx
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
   
   - arXiv
-    + [Deep Sparse Representation-based Classification(Apr 2019)](https://arxiv.org/abs/1904.11093)[[Code]](https://arxiv.org/abs/1904.11093)
+    + [Analytical Moment Regularizer for Gaussian Robust Networks(Apr 2019)](https://arxiv.org/abs/1904.11005)[[Pytorch]](https://github.com/ModarTensai/gaussian-regularizer)
+    + [Deep Sparse Representation-based Classification(Apr 2019)](https://arxiv.org/abs/1904.11093)[[Code]](https://github.com/mahdiabavisani/DSRC)
     + [GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond(Apr 2019)](https://arxiv.org/abs/1904.11492)[[Pytorch]](https://github.com/xvjiarui/GCNet)
     + [DenseNet Models for Tiny ImageNet Classification(Apr 2019)](https://arxiv.org/abs/1904.10429)
     + [Deep Anchored Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.09764)
