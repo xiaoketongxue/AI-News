@@ -40,6 +40,7 @@ CV-News
     + [The Fishyscapes Benchmark: Measuring Blind Spots in Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.03215)
     + [Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes(Apr 2019)](https://arxiv.org/abs/1904.09092)
     + [The iterative convolution-thresholding method (ICTM) for image segmentation(Apr 2019)](https://arxiv.org/abs/1904.10917)
+    + [Blurring the Line Between Structure and Learning to Optimize and Adapt Receptive Fields( Apr 2019)](https://arxiv.org/abs/1904.11487)
 ### 2018
   - CVPR 2018
   - ECCV 2018
@@ -222,6 +223,9 @@ xxx
   - CVPR 2019
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
+  - ICML 2019
+    + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
+  
   - arXiv
     + [GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond(Apr 2019)](https://arxiv.org/abs/1904.11492)[[Pytorch]](https://github.com/xvjiarui/GCNet)
     + [DenseNet Models for Tiny ImageNet Classification(Apr 2019)](https://arxiv.org/abs/1904.10429)
@@ -239,6 +243,7 @@ xxx
     + [ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification(Apr 2019)](https://arxiv.org/abs/1904.03775)
     + [A New Loss Function for CNN Classifier Based on Pre-defined Evenly-Distributed Class Centroids(Apr 2019)](https://arxiv.org/abs/1904.06008)
     + [Compressing deep neural networks by matrix product operators(Apr 2019)](https://arxiv.org/abs/1904.06194)
+    + [Local Relation Networks for Image Recognition( Apr 2019)](https://arxiv.org/abs/1904.11491)
   - 3D   
     + [Resource Efficient 3D Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.02422)[[Code]](https://github.com/okankop/Efficient-3DCNNs)
 ## 2017
