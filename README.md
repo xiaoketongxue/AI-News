@@ -223,6 +223,7 @@ xxx
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
   - arXiv
+    + [GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond(Apr 2019)](https://arxiv.org/abs/1904.11492)[[Pytorch]](https://github.com/xvjiarui/GCNet)
     + [DenseNet Models for Tiny ImageNet Classification(Apr 2019)](https://arxiv.org/abs/1904.10429)
     + [Deep Anchored Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.09764)
     + [Stochastic Region Pooling: Make Attention More Expressive(Apr 2019)](https://arxiv.org/abs/1904.09853)
