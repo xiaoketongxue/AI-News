@@ -184,6 +184,8 @@ CV-News
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
+  - AAAI 2019
+    + [Non-Local Context Encoder: Robust Biomedical Image Segmentation against Adversarial Attacks(Apr 2019)](https://arxiv.org/abs/1904.12181)
   - ISBI2019
     + [A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation(Oct 2018)](https://arxiv.org/abs/1810.07842)[[Keras]](https://github.com/nabsabraham/focal-tversky-unet)
     + [Automated Segmentation of Pulmonary Lobes using Coordination-Guided Deep Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.09106)
@@ -198,13 +200,15 @@ CV-News
     + [Learning Mutually Local-global U-nets For High-resolution Retinal Lesion Segmentation in Fundus Images](https://arxiv.org/abs/1901.06047)
     + [Cascade Decoder: A Universal Decoding Method for Biomedical Image Segmentation](https://arxiv.org/abs/1901.04949)
     + [Residual Pyramid FCN for Robust Follicle Segmentation](https://arxiv.org/abs/1901.03760)
+    + [Classification and Detection in Mammograms with Weak Supervision via Dual Branch Deep Neural(Net Apr 2019)](https://arxiv.org/abs/1904.12319)[oral]
   - EMBC 2019
     + [Ultrasound segmentation using U-Net: learning from simulated data and testing on real data](https://arxiv.org/abs/1904.11031)
   - MIDI 2019
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
   - SCI
     + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,TMI]
-    + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)[IEEE Transactions on Medical Imaging,TMI]   
+    + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)[IEEE Transactions on Medical Imaging,TMI] 
+    + [The Mutex Watershed and its Objective: Efficient, Parameter-Free Image Partitioning](https://arxiv.org/abs/1904.12654)[IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE]
     
   - other
     + [nnU-Net: Breaking the Spell on Successful Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.08128)[[Code]](https://github.com/MIC-DKFZ/nnunet)
@@ -292,6 +296,7 @@ xxx
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)
   
   - arXiv
+    + [Self-Attention Capsule Networks for Image Classification](https://arxiv.org/abs/1904.12483)
     + [Analytical Moment Regularizer for Gaussian Robust Networks(Apr 2019)](https://arxiv.org/abs/1904.11005)[[Pytorch]](https://github.com/ModarTensai/gaussian-regularizer)
     + [Deep Sparse Representation-based Classification(Apr 2019)](https://arxiv.org/abs/1904.11093)[[Code]](https://github.com/mahdiabavisani/DSRC)
     + [GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond(Apr 2019)](https://arxiv.org/abs/1904.11492)[[Pytorch]](https://github.com/xvjiarui/GCNet)
