@@ -25,6 +25,11 @@ CV-News
     + [Structured Knowledge Distillation for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04197)
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
     + [Cross-Modal Self-Attention Network for Referring Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.04745)
+    + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)
+    + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/abs/1903.02351)
+    + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
+    + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
+    + [Large-scale interactive object segmentation with human annotators](https://arxiv.org/abs/1903.10830)
   - other
     + [Segmenting the Future(Apr 2019)](https://arxiv.org/abs/1904.10666)[[Code]](https://github.com/eddyhkchiu/segmenting_the_future/)
     + [CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing(Apr 2019)](https://arxiv.org/abs/1904.08170)
