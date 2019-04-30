@@ -44,10 +44,38 @@ CV-News
 ### 2018
   - CVPR 2018
   - ECCV 2018
-  - NIPS 2018
+    + [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation(Aug 2018)](https://www.baidu.com/link?url=jC2iP9t_S6_XTmwSijQ9qCKLn6n51z71MV-Tki8qdlIgHCUgXgeIntJCx1PVmzZE&wd=&eqid=af75bc8c00018f26000000035cc7a700)
+    + [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(Mar 2018 )](https://arxiv.org/abs/1803.06815)[[Pytorch]](https://github.com/sacmehta/ESPNet)
+    + [PSANet: Point-wise Spatial Attention Network for Scene Parsing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
+    + [ICNet for Real-Time Semantic Segmentation on High-Resolution Images(Apr 2017)](https://arxiv.org/abs/1704.08545)[[Pytorch]](https://github.com/hszhao/ICNet)
+    + [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation(Feb 2018)](https://arxiv.org/abs/1802.02611v1)
+    + [Adaptive Affinity Fields for Semantic Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10335)
+    + [ExFuse: Enhancing Feature Fusion for Semantic Segmentation(Apr 2018)](https://arxiv.org/abs/1804.03821)
+    + [Unified Perceptual Parsing for Scene Understanding(Jul 2018)](https://arxiv.org/abs/1807.10221)
+    + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
+  - NeurIPS 2018
+    + [A Probabilistic U-Net for Segmentation of Ambiguous Images(Jun 2018)](https://arxiv.org/abs/1806.05034)
+    + [DifNet: Semantic Segmentation by DiffusionNetworks(May 2018)](https://arxiv.org/abs/1805.08015v1)
   - AAAI 2018
+    + [Spatial As Deep: Spatial CNN for Traffic Scene Understanding(Dec 2017)](https://arxiv.org/abs/1712.06080)
+    + [Mix-and-Match Tuning for Self-Supervised Semantic Segmentation(Dec 2017)](https://arxiv.org/abs/1712.00661)
+    + [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction.pdf)
+    + [A^2-Nets: Double Attention Networks](https://papers.nips.cc/paper/7318-a2-nets-double-attention-networks.pdf)
+    + [Symbolic Graph Reasoning Meets Convolutions](https://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions)
+    + [Beyond Grids: Learning Graph Representations for Visual Recognition](https://github.com/wutianyiRosun/Segmentation.X)
   - IJCAI 2018
+    + [High Resolution Feature Recovering for Accelerating Urban Scene Parsing](https://www.ijcai.org/proceedings/2018/0161.pdf)
   - Othes
+    + [RelationNet: Learning Deep-Aligned Representation for Semantic Image Segmentation][ICPR]
+    + [CCNet: Criss-Cross Attention for Semantic Segmentation(Nov 2018)](https://arxiv.org/abs/1811.11721)[[Pytorch]](https://github.com/speedinghzl/CCNet)
+    + [OCNet: Object Context Network for Scene Parsing(Sep 2018)](https://arxiv.org/abs/1809.00916)[[Pytorch]](https://github.com/PkuRainBow/OCNet.pytorch)
+    + [CGNet: A Light-weight Context Guided Network for Semantic Segmentation(Nov 2018)](https://arxiv.org/abs/1811.08201)[[Pytorch]](https://github.com/wutianyiRosun/CGNet)
+    + [ShelfNet for Real-time Semantic Segmentation, Multi-path segmentation network(Nov 2018)](https://arxiv.org/abs/1811.11254v2)[[Pytorch]](https://github.com/juntang-zhuang/ShelfNet)
+    + [Evaluating Bayesian Deep Learning Methods for Semantic Segmentation(Nov 2018)](https://arxiv.org/abs/1811.12709)
+    + [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://arxiv.org/abs/1812.01593)[Code](https://nv-adlr.github.io/publication/2018-Segmentation)
+    + [Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation(Mar 2018)](https://arxiv.org/abs/1803.02563)
+    + [Locally Adaptive Learning Loss for Semantic Image Segmentation(Feb 2018)](https://arxiv.org/abs/1802.08290)
+    + [RTSeg: Real-time Semantic Segmentation Comparative Study( Mar 2018)](https://arxiv.org/abs/1803.02758)
 ### 2017
   - CVPR 2017
     + [Pyramid Scene Parsing Network(Dec 2016)](https://arxiv.org/abs/1612.01105)
