@@ -296,6 +296,7 @@ xxx
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)
   
   - arXiv
+    + [TextCaps: Handwritten Character Recognition With Very Small Datasets(Apr 2019)](https://arxiv.org/abs/1904.08095)[[Keras]](https://github.com/vinojjayasundara/textcaps/blob/master/textcaps_emnist_bal.py)[WACV]
     + [Self-Attention Capsule Networks for Image Classification](https://arxiv.org/abs/1904.12483)
     + [Analytical Moment Regularizer for Gaussian Robust Networks(Apr 2019)](https://arxiv.org/abs/1904.11005)[[Pytorch]](https://github.com/ModarTensai/gaussian-regularizer)
     + [Deep Sparse Representation-based Classification(Apr 2019)](https://arxiv.org/abs/1904.11093)[[Code]](https://github.com/mahdiabavisani/DSRC)
