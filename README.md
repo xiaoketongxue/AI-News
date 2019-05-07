@@ -32,6 +32,7 @@ CV-News
     + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
     + [Large-scale interactive object segmentation with human annotators](https://arxiv.org/abs/1903.10830)
   - other
+    + [SEMEDA: Enhancing Segmentation Precision with Semantic Edge Aware Loss](https://arxiv.org/abs/1905.01892)
     + [Segmenting the Future(Apr 2019)](https://arxiv.org/abs/1904.10666)[[Code]](https://github.com/eddyhkchiu/segmenting_the_future/)
     + [CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing(Apr 2019)](https://arxiv.org/abs/1904.08170)
     + [ACE: Adapting to Changing Environments for Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.06268)
