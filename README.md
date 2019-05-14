@@ -289,7 +289,6 @@ CV-News
 ### 2019
   - CVPR2019
     + [Attention-guided Unified Network for Panoptic Segmentation](https://arxiv.org/abs/1812.03904)  
-    + []
  ## Video-Segmentation
  ### 2019
   - CVPR 2019
