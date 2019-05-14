@@ -20,8 +20,12 @@ CV-News
 ### 2019
   - CVPR2019   
     + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)[[Pytorch]](https://github.com/MenghaoGuo/AutoDeeplab)
+    + [Bidirectional Learning for Domain Adaptation of Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.10620)[[Pytoch]](https://github.com/liyunsheng13/BDL)
+    + [DFANet：Deep Feature Aggregation for Real-Time Semantic Segmentation](https://share.weiyun.com/5NgHbWH)
+    + [Seamless Scene Segmentation](https://arxiv.org/abs/1905.01220)
     + [Bidirectional Learning for Domain Adaptation of Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.10620)[[Code]](https://github.com/liyunsheng13/BDL)
     + [Dual Attention Network for Scene Segmentation(Sep 2018)](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet) 
+    + [Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1904.11693)
     + [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images(Mar 2019))](https://arxiv.org/abs/1903.08469)[[Pytroch]](https://github.com/orsic/swiftnet)
     + [Structured Knowledge Distillation for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04197)
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
@@ -31,7 +35,12 @@ CV-News
     + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
     + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
     + [Large-scale interactive object segmentation with human annotators](https://arxiv.org/abs/1903.10830)
+  - ICIP2019
+    + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [Simultaneous Object Detection and Semantic Segmentation](https://arxiv.org/abs/1905.02285)
+    + [Unsupervised Domain Adaptation using Generative Adversarial Networks for Semantic Segmentation of Aerial Images](https://arxiv.org/abs/1905.03198)
+    + [EdgeSegNet: A Compact Network for Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.04222)
     + [SEMEDA: Enhancing Segmentation Precision with Semantic Edge Aware Loss](https://arxiv.org/abs/1905.01892)
     + [Segmenting the Future(Apr 2019)](https://arxiv.org/abs/1904.10666)[[Code]](https://github.com/eddyhkchiu/segmenting_the_future/)
     + [CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing(Apr 2019)](https://arxiv.org/abs/1904.08170)
@@ -213,6 +222,9 @@ CV-News
     + [The Mutex Watershed and its Objective: Efficient, Parameter-Free Image Partitioning](https://arxiv.org/abs/1904.12654)[IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE]
     
   - other
+    + [Liver Lesion Segmentation with slice-wise 2D Tiramisu and Tversky loss function(May 2019)](https://arxiv.org/pdf/1905.03639.pdf)
+    + [T-Net: Encoder-Decoder in Encoder-Decoder architecture for the main vessel segmentation in coronary angiography](https://arxiv.org/abs/1905.04197)
+    + [Breast Tumor Classification and Segmentation using Convolutional Neural Networks(May 2019)](https://arxiv.org/abs/1905.04247)
     + [nnU-Net: Breaking the Spell on Successful Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.08128)[[Code]](https://github.com/MIC-DKFZ/nnunet)
     + [Feature Fusion Encoder Decoder Network For Automatic Liver Lesion Segmentation(Mar 2019)](https://arxiv.org/abs/1903.11834)  
     + [MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation(Dec 2018)](https://arxiv.org/abs/1812.00352)
@@ -282,9 +294,6 @@ CV-News
  ### 2019
   - CVPR 2019
     + [Spatiotemporal CNN for Video Object Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02363)[[Code]](https://github.com/longyin880815/STCNN)
-
-
-xxx
 # Classification
 ## 2019
   - Exploring Randomly Wired Neural Networks
@@ -298,6 +307,9 @@ xxx
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)
   
   - arXiv
+    + [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)
+    + [High Frequency Residual Learning for Multi-Scale Image Classification](https://arxiv.org/abs/1905.02649)
+    + [Seesaw-Net: Convolution Neural Network With Uneven Group Convolution](https://arxiv.org/abs/1905.03672)
     + [TextCaps: Handwritten Character Recognition With Very Small Datasets(Apr 2019)](https://arxiv.org/abs/1904.08095)[[Keras]](https://github.com/vinojjayasundara/textcaps/blob/master/textcaps_emnist_bal.py)[WACV]
     + [Self-Attention Capsule Networks for Image Classification](https://arxiv.org/abs/1904.12483)
     + [Analytical Moment Regularizer for Gaussian Robust Networks(Apr 2019)](https://arxiv.org/abs/1904.11005)[[Pytorch]](https://github.com/ModarTensai/gaussian-regularizer)
@@ -326,6 +338,8 @@ xxx
     + [DenseNet:Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)  
 # Super-Resolution 
 ## 2019
+  - Medical
+    + [Medical image super-resolution method based on dense blended attention network](https://arxiv.org/abs/1905.05084)
   - Arxiv
     + [Lightweight Image Super-Resolution with Adaptive Weighted Learning Network(Apr 2019)](https://arxiv.org/abs/1904.02358)[[Code]](https://github.com/ChaofWang/AWSRN)
     + [Multi-scale deep neural networks for real image super-resolution(Apr 2019)](https://arxiv.org/abs/1904.10698)
@@ -340,6 +354,9 @@ xxx
 # Survey
   - Attention Models
     + [An Attentive Survey of Attention Models(Apr 2019)](https://arxiv.org/abs/1904.02874)
+    + [Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)
+    + [AI in the media and creative industries](https://arxiv.org/abs/1905.04175)
+    + [Advancements in Image Classification using Convolutional Neural Network](https://arxiv.org/abs/1905.03288)
 # Dataset
 ## Medical
   - [All Challenges](https://grand-challenge.org/challenges/)
