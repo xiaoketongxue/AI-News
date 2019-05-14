@@ -133,9 +133,9 @@ CV-News
     + [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)[Workshop]
     
   - ICCV 2017
-    + [Segmentation-Aware Convolutional Networks Using Local Attention Mask(Mar 2017)](https://arxiv.org/abs/1703.07684)
-    + [Predicting Deeper into the Future of Semantic Segmentation(Mar 2017)](https://arxiv.org/abs/1703.07684)
-    + [FoveaNet: Perspective-aware Urban Scene Parsing(Aug 2017))](https://arxiv.org/abs/1708.02421)
+    + [Segmentation-Aware Convolutional Networks Using Local Attention Mask(Mar 2017)](https://arxiv.org/abs/1703.07684)  
+    + [Predicting Deeper into the Future of Semantic Segmentation(Mar 2017)](https://arxiv.org/abs/1703.07684)  
+    + [FoveaNet: Perspective-aware Urban Scene Parsing(Aug 2017))](https://arxiv.org/abs/1708.02421)  
     + [Dense and Low-Rank Gaussian CRFs Using Deep Embeddings Siddhartha](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chandra_Dense_and_Low-Rank_ICCV_2017_paper.pdf)
     + [Scale-adaptive Convolutions for Scene Parsing](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Scale-Adaptive_Convolutions_for_ICCV_2017_paper.pdf)
     + [Deep Dual Learning for Semantic Image Segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Luo_Deep_Dual_Learning_ICCV_2017_paper.pdf)
