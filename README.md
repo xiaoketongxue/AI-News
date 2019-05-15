@@ -285,6 +285,7 @@ CV-News
   - other
     + [YOLACT: Real-time Instance Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02689)
     + [Concatenated Feature Pyramid Network for Instance Segmentation(Mar 2019)](https://arxiv.org/abs/1904.00768)
+    + [Single Pixel Reconstruction for One-stage Instance Segmentation(Apr 2019 ](https://arxiv.org/abs/1904.07426)
 ## Panoptic Segmentation
 ### 2019
   - CVPR2019
@@ -310,6 +311,9 @@ CV-News
  ### 2019
   - CVPR 2019
     + [Spatiotemporal CNN for Video Object Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02363)[[Code]](https://github.com/longyin880815/STCNN)
+  - other
+    + [Video Instance Segmentation](https://arxiv.org/abs/1905.04804)
+    + [MAIN: Multi-Attention Instance Network for Video Segmentation](https://arxiv.org/abs/1904.05847)
 # Classification
 ## 2019
   - Exploring Randomly Wired Neural Networks
