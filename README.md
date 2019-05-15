@@ -221,6 +221,7 @@ CV-News
     + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,TMI]
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)[IEEE Transactions on Medical Imaging,TMI] 
     + [The Mutex Watershed and its Objective: Efficient, Parameter-Free Image Partitioning](https://arxiv.org/abs/1904.12654)[IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE]
+    + [Patch-based Output Space Adversarial Learning for Joint Optic Disc and Cup Segmentation](https://arxiv.org/abs/1902.07519)[IEEE Transactions on Medical Imaging,TMI]
     
   - other
     + [Liver Lesion Segmentation with slice-wise 2D Tiramisu and Tversky loss function(May 2019)](https://arxiv.org/pdf/1905.03639.pdf)
