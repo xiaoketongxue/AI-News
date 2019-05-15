@@ -370,7 +370,7 @@ CV-News
   - arxiv
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
     + [3DRegNet: A Deep Neural Network for 3D Point Registration( Apr 2019)](https://arxiv.org/abs/1904.01701)
-    + [Non-Rigid Point Set Registration Networks(Apr 2019)](https://arxiv.org/abs/1904.01428)[[Pytorch]](https://github.com/Lingjing324/PR-Net)
+    + [Non-Rigid Point Set Registration Networks(Apr 2019)](https://arxiv.org/abs/1904.01428)[[Pytorch]](https://github.com/Lingjing324/PR-Net)   
     + [Automatic Nonrigid Histological Image Registration with Adaptive Multistep Algorithm(Apr 2019)](https://arxiv.org/abs/1904.00982)
     + [Palmprint image registration using convolutional neural networks and Hough transform(Apr 2019)](https://arxiv.org/abs/1904.00579)
 # Survey
