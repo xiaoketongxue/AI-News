@@ -38,6 +38,7 @@ CV-News
   - ICIP2019
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [Efficient Ladder-style DenseNets for Semantic Segmentation of Large Images(May 2019)](https://arxiv.org/abs/1905.05661)
     + [Simultaneous Object Detection and Semantic Segmentation](https://arxiv.org/abs/1905.02285)
     + [Unsupervised Domain Adaptation using Generative Adversarial Networks for Semantic Segmentation of Aerial Images](https://arxiv.org/abs/1905.03198)
     + [EdgeSegNet: A Compact Network for Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.04222)
@@ -327,6 +328,7 @@ CV-News
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)  
   
   - arXiv
+    + [Convolutional neural networks with fractional order gradient method(May 2019)](https://arxiv.org/abs/1905.05336)
     + [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)[[Pytorch]](https://github.com/xiaolai-sqlai/mobilenetv3)
     + [High Frequency Residual Learning for Multi-Scale Image Classification](https://arxiv.org/abs/1905.02649)
     + [Seesaw-Net: Convolution Neural Network With Uneven Group Convolution](https://arxiv.org/abs/1905.03672)
