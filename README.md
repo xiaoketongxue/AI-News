@@ -288,7 +288,17 @@ CV-News
 ## Panoptic Segmentation
 ### 2019
   - CVPR2019
-    + [Attention-guided Unified Network for Panoptic Segmentation](https://arxiv.org/abs/1812.03904)  
+    + [Attention-guided Unified Network for Panoptic Segmentation](https://arxiv.org/abs/1812.03904)
+    + [UPSNet: A Unified Panoptic Segmentation Network(Apr 2019)](https://arxiv.org/abs/1901.03784)[[Pytorch]](https://github.com/uber-research/UPSNet)
+  - other
+    + [An End-to-End Network for Panoptic Segmentation(Mar 2019](https://arxiv.org/abs/1903.05027)
+    + [Single Network Panoptic Segmentation for Street Scene Understanding](https://arxiv.org/abs/1902.02678)
+    + [Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network(Feb 2019)](https://arxiv.org/abs/1809.02110)
+ ### 2018
+  - CVPR2018
+    + [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
+  - ECCV2018
+    + [Weakly- and Semi-Supervised Panoptic Segmentation(Aug 2018)](https://arxiv.org/abs/1808.03575)
  ## Video-Segmentation
  ### 2019
   - CVPR 2019
