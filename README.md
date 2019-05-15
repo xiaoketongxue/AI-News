@@ -255,13 +255,13 @@ CV-News
     + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
     + [Spherical U-Net on Cortical Surfaces: Methods and Applications(Apr 2019)](https://arxiv.org/abs/1904.00906)
     + [3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI(Apr 2019)](https://arxiv.org/abs/1904.03355)
-    + [Fully Automatic Segmentation of 3D Brain Ultrasound: Learning from Coarse Annotations](https://arxiv.org/abs/1904.08655)
+    + [Fully Automatic Segmentation of 3D Brain Ultrasound: Learning from Coarse Annotations](https://arxiv.org/abs/1904.08655)  
 ### 2018
   - MICCAI 2018
-    + [Multi-Task Learning for Left Atrial Segmentation on GE-MRI(Oct 2018)](https://arxiv.org/abs/1810.13205)[[Pytorch]](https://github.com/cherise215/atria_segmentation_2018/)
+    + [Multi-Task Learning for Left Atrial Segmentation on GE-MRI(Oct 2018)](https://arxiv.org/abs/1810.13205)[[Pytorch]](https://github.com/cherise215/atria_segmentation_2018/)  
 ### Before 2018
   - MICCAI
-    + [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation(Jun 2016)](https://arxiv.org/abs/1606.06650)
+    + [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation(Jun 2016)](https://arxiv.org/abs/1606.06650)   
 ### Brain Tissue Segmentation
   - Paper
     + [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation(Rank 1)](https://www.springerprofessional.de/en/3d-patchwise-u-net-with-transition-layers-for-mr-brain-segmentat/16457542)[[TensorFlow]](https://github.com/xiaoketongxue/mrbrains18-1)  
