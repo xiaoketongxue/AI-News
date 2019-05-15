@@ -5,8 +5,8 @@ CV-News
 - [x] [Super-Resolution](#Super-Resolution )
 - [x] [Registration](#Registration)
 - [x] [Survey](#Survey)
-- [x] [Dataset](#Dataset)
-- [x] [Conference and Journal ](#Conference-and-Journal )
+- [x] [Dataset](#Dataset)  
+- [x] [Conference and Journal ](#Conference-and-Journal )  
 
 # Segmentation
 - [x] [Semantic Segmentation](#Semantic-Segmentation)
@@ -444,8 +444,8 @@ CV-News
  Accept/Reject Notification：27 February 2019   
  
 ### Journal
-Medical Image Analysis， MIA   
-IEEETransactions on Medical Imaging， IEEE TMI  
+[Medical Image Analysis,MIA](https://www.journals.elsevier.com/medical-image-analysis/)   
+[IEEE Transactions on Medical Imaging,TMI](https://www.baidu.com/link?url=mNdVbByvlcwxQgR23r2xFB9IXlQcufNo74D-DiXCnUottAlR7ihw-ilrPwYxFrRuAXkZsH-SuM9L6aerUD_LqtKvI7H0cHIwwsaSygbj9H3&wd=&eqid=b63236c700071acf000000025cdbe66d)  
 ## Image Processing Conference and Journal 
 ### Conference  
  [CVPR](http://cvpr2019.thecvf.com/)   
