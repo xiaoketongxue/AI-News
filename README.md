@@ -289,16 +289,23 @@ CV-News
 ### 2019
   - CVPR2019
     + [Attention-guided Unified Network for Panoptic Segmentation](https://arxiv.org/abs/1812.03904)
-    + [UPSNet: A Unified Panoptic Segmentation Network(Apr 2019)](https://arxiv.org/abs/1901.03784)[[Pytorch]](https://github.com/uber-research/UPSNet)
+    + [UPSNet: A Unified Panoptic Segmentation Network(Apr 2019)](https://arxiv.org/abs/1901.03784)[[Pytorch]](https://github.com/uber-research/UPSNet)  
+    + [Panoptic Feature Pyramid Networks(Jan 2019](https://arxiv.org/search/?query=Panoptic+Segmentation&searchtype=all)[Kaiming He]
+    + [Interactive Full Image Segmentation by Considering All Regions Jointly](https://arxiv.org/abs/1812.01888)
+    + [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
   - other
+    + [DeeperLab: Single-Shot Image Parser(Feb 2019)](https://arxiv.org/abs/1902.05093)[[Code]]
     + [An End-to-End Network for Panoptic Segmentation(Mar 2019](https://arxiv.org/abs/1903.05027)
     + [Single Network Panoptic Segmentation for Street Scene Understanding](https://arxiv.org/abs/1902.02678)
     + [Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network(Feb 2019)](https://arxiv.org/abs/1809.02110)
+    + [Detecting Reflections by Combining Semantic and Instance Segmentation(Apr 2019)](https://arxiv.org/abs/1904.13273)
+    + [PanopticFusion: Online Volumetric Semantic Mapping at the Level of Stuff and Things(March 2019)](https://arxiv.org/search/?query=Panoptic+Segmentation&searchtype=all)
+    + [Class-independent sequential full image segmentation, using a convolutional net that finds a segment within an attention region, given a pointer pixel within this segment(February 2019](https://arxiv.org/search/?query=Panoptic+Segmentation&searchtype=all)
  ### 2018
-  - CVPR2018
-    + [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
   - ECCV2018
     + [Weakly- and Semi-Supervised Panoptic Segmentation(Aug 2018)](https://arxiv.org/abs/1808.03575)
+  other 
+    + [Learning to Fuse Things and Stuff(Dec 2018)](https://arxiv.org/abs/1812.01192)
  ## Video-Segmentation
  ### 2019
   - CVPR 2019
