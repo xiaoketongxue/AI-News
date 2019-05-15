@@ -324,7 +324,7 @@ CV-News
     + [Bag of Tricks for Image Classification with Convolutional Neural Networks(Dec 2018)](https://arxiv.org/abs/1812.01187)[[Code]](https://gluon-cv.mxnet.io/)
   - ICML 2019
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
-    + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)
+    + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)  
   
   - arXiv
     + [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)[[Pytorch]](https://github.com/xiaolai-sqlai/mobilenetv3)
@@ -340,8 +340,8 @@ CV-News
     + [Stochastic Region Pooling: Make Attention More Expressive(Apr 2019)](https://arxiv.org/abs/1904.09853)
     + [Attention Augmented Convolutional Networks(Apr 2019)](https://arxiv.org/abs/1904.09925)
     + [High-Resolution Representations for Labeling Pixels and Regions(Apr 2019)](https://arxiv.org/abs/1904.04514)
-    + [Deep High-Resolution Representation Learning for Human Pose Estimation(Apr 2019)](https://arxiv.org/abs/1902.09212)[[Pytorch]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
-    + [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution( Apr 2019)](https://arxiv.org/abs/1904.05049)[[Pytorch]](https://github.com/xiaoketongxue/octconv-pytorch)
+    + [Deep High-Resolution Representation Learning for Human Pose Estimation(Apr 2019)](https://arxiv.org/abs/1902.09212)[[Pytorch]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)   
+    + [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution( Apr 2019)](https://arxiv.org/abs/1904.05049)[[Pytorch]](https://github.com/xiaoketongxue/octconv-pytorch)   
     + [Convolutional Neural Networks with Layer Reuse](https://arxiv.org/abs/1901.09615)
     + [Generalizing discrete convolutions for unstructured point clouds(Apr 2019)](https://arxiv.org/abs/1904.02375)[[Pytorch]](https://github.com/aboulch/ConvPoint)
     + [Hybrid Cosine Based Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.01987)
