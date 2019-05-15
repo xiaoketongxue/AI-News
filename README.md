@@ -326,7 +326,7 @@ CV-News
     + [Bag of Tricks for Image Classification with Convolutional Neural Networks(Dec 2018)](https://arxiv.org/abs/1812.01187)[[Code]](https://gluon-cv.mxnet.io/)
   - ICML 2019
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
-    + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)  
+    + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   
   - arXiv
     + [Convolutional neural networks with fractional order gradient method(May 2019)](https://arxiv.org/abs/1905.05336)
@@ -375,7 +375,7 @@ CV-News
     + [Automatic Nonrigid Histological Image Registration with Adaptive Multistep Algorithm(Apr 2019)](https://arxiv.org/abs/1904.00982)
     + [Palmprint image registration using convolutional neural networks and Hough transform(Apr 2019)](https://arxiv.org/abs/1904.00579)
 # Survey
-  - Attention Models
+  - 2019
     + [An Attentive Survey of Attention Models(Apr 2019)](https://arxiv.org/abs/1904.02874)
     + [Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)
     + [AI in the media and creative industries](https://arxiv.org/abs/1905.04175)
