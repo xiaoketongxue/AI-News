@@ -367,6 +367,10 @@ CV-News
     + [Lightweight Image Super-Resolution with Adaptive Weighted Learning Network(Apr 2019)](https://arxiv.org/abs/1904.02358)[[Code]](https://github.com/ChaofWang/AWSRN)
     + [Multi-scale deep neural networks for real image super-resolution(Apr 2019)](https://arxiv.org/abs/1904.10698)
     + [Adaptive Transform Domain Image Super-resolution Via Orthogonally Regularized Deep Networks](https://arxiv.org/abs/1904.10082)
+## 2018
+  - Medical[
+    + [Brain MRI super-resolution using 3D generative adversarial networks(Dec 2018)](https://arxiv.org/abs/1812.11440)[MIDL][3D]
+    + [CT-image Super Resolution Using 3D Convolutional Neural Network(Jun 2018)](https://arxiv.org/abs/1806.09074)[3D]
 # Registration
   - arxiv
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
