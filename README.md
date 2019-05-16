@@ -363,14 +363,18 @@ CV-News
 ## 2019
   - Medical
     + [Medical image super-resolution method based on dense blended attention network](https://arxiv.org/abs/1905.05084)
+    + [Progressive Generative Adversarial Networks for Medical Image Super resolution(Feb 2019](https://arxiv.org/abs/1902.02144)
+    + [How Can We Make GAN Perform Better in Single Medical Image Super-Resolution? A Lesion Focused Multi-Scale Approach](https://arxiv.org/abs/1901.03419)[ISBI2019]
   - Arxiv
     + [Lightweight Image Super-Resolution with Adaptive Weighted Learning Network(Apr 2019)](https://arxiv.org/abs/1904.02358)[[Code]](https://github.com/ChaofWang/AWSRN)
     + [Multi-scale deep neural networks for real image super-resolution(Apr 2019)](https://arxiv.org/abs/1904.10698)
     + [Adaptive Transform Domain Image Super-resolution Via Orthogonally Regularized Deep Networks](https://arxiv.org/abs/1904.10082)
 ## 2018
-  - Medical[
+  - Medical
     + [Brain MRI super-resolution using 3D generative adversarial networks(Dec 2018)](https://arxiv.org/abs/1812.11440)[MIDL][3D]
     + [CT-image Super Resolution Using 3D Convolutional Neural Network(Jun 2018)](https://arxiv.org/abs/1806.09074)[3D]
+    + [Super-resolution MRI through Deep Learning](https://arxiv.org/abs/1810.06776)
+    + [Channel Splitting Network for Single MR Image Super-Resolution](https://arxiv.org/abs/1810.06453)
 # Registration
   - arxiv
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
