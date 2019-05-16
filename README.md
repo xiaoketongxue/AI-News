@@ -287,6 +287,7 @@ CV-News
     + [Pose2Seg: Detection Free Human Instance Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10683)[[Code]](https://github.com/liruilong940607/OCHumanApi)  
     + [Budget-aware Semi-Supervised Semantic and Instance Segmentation](https://arxiv.org/abs/1905.05880)[[Workshop]]
   - other
+    + [DARNet: Deep Active Ray Network for Building Segmentation](https://arxiv.org/abs/1905.05889)
     + [YOLACT: Real-time Instance Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02689)
     + [Concatenated Feature Pyramid Network for Instance Segmentation(Mar 2019)](https://arxiv.org/abs/1904.00768)
     + [Single Pixel Reconstruction for One-stage Instance Segmentation(Apr 2019 ](https://arxiv.org/abs/1904.07426)
@@ -329,8 +330,8 @@ CV-News
   - ICML 2019
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
-  
   - arXiv
+    + [ISBNet: Instance-aware Selective Branching Network](https://arxiv.org/abs/1905.04849)
     + [Convolutional neural networks with fractional order gradient method(May 2019)](https://arxiv.org/abs/1905.05336)
     + [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)[[Pytorch]](https://github.com/xiaolai-sqlai/mobilenetv3)
     + [High Frequency Residual Learning for Multi-Scale Image Classification](https://arxiv.org/abs/1905.02649)
