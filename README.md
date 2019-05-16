@@ -224,6 +224,7 @@ CV-News
     + [Patch-based Output Space Adversarial Learning for Joint Optic Disc and Cup Segmentation](https://arxiv.org/abs/1902.07519)[IEEE Transactions on Medical Imaging,TMI]
     
   - other
+    + [iRA-Net: Bilinear Attention Net for Diabetic Retinopathy Grading(May 2019)](https://arxiv.org/abs/1905.06312)
     + [Liver Lesion Segmentation with slice-wise 2D Tiramisu and Tversky loss function(May 2019)](https://arxiv.org/pdf/1905.03639.pdf)
     + [T-Net: Encoder-Decoder in Encoder-Decoder architecture for the main vessel segmentation in coronary angiography](https://arxiv.org/abs/1905.04197)
     + [Breast Tumor Classification and Segmentation using Convolutional Neural Networks(May 2019)](https://arxiv.org/abs/1905.04247)
@@ -284,6 +285,7 @@ CV-News
   - CVPR 2019   
     + [Hybrid Task Cascade for Instance Segmentation(Jan 2019)](https://arxiv.org/abs/1901.07518)[[Pytorch]](https://github.com/open-mmlab/mmdetection)
     + [Pose2Seg: Detection Free Human Instance Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10683)[[Code]](https://github.com/liruilong940607/OCHumanApi)  
+    + [Budget-aware Semi-Supervised Semantic and Instance Segmentation](https://arxiv.org/abs/1905.05880)[[Workshop]]
   - other
     + [YOLACT: Real-time Instance Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02689)
     + [Concatenated Feature Pyramid Network for Instance Segmentation(Mar 2019)](https://arxiv.org/abs/1904.00768)
