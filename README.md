@@ -375,6 +375,12 @@ CV-News
     + [CT-image Super Resolution Using 3D Convolutional Neural Network(Jun 2018)](https://arxiv.org/abs/1806.09074)[3D]
     + [Super-resolution MRI through Deep Learning](https://arxiv.org/abs/1810.06776)
     + [Channel Splitting Network for Single MR Image Super-Resolution](https://arxiv.org/abs/1810.06453)
+## 2017
+  - CVPR 2017
+    + [Simultaneous Super-Resolution and Cross-Modality Synthesis of 3D Medical Images using Weakly-Supervised Joint Convolutional Sparse Coding(May 2017)](https://arxiv.org/abs/1705.02596)
+  - MICCAI 2017
+    + [Bayesian Image Quality Transfer with CNNs: Exploring Uncertainty in dMRI Super-Resolution](https://arxiv.org/abs/1705.00664)
+    + [DOTE: Dual cOnvolutional filTer lEarning for Super-Resolution and Cross-Modality Synthesis in MRI](https://arxiv.org/abs/1706.04954)
 # Registration
   - arxiv
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
