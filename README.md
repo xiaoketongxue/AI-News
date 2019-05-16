@@ -363,7 +363,7 @@ CV-News
 ## 2019
   - Medical
     + [Medical image super-resolution method based on dense blended attention network](https://arxiv.org/abs/1905.05084)
-    + [Progressive Generative Adversarial Networks for Medical Image Super resolution(Feb 2019](https://arxiv.org/abs/1902.02144)
+    + [Progressive Generative Adversarial Networks for Medical Image Super resolution(Feb 2019)](https://arxiv.org/abs/1902.02144)
     + [How Can We Make GAN Perform Better in Single Medical Image Super-Resolution? A Lesion Focused Multi-Scale Approach](https://arxiv.org/abs/1901.03419)[ISBI2019]
   - Arxiv
     + [Lightweight Image Super-Resolution with Adaptive Weighted Learning Network(Apr 2019)](https://arxiv.org/abs/1904.02358)[[Code]](https://github.com/ChaofWang/AWSRN)
