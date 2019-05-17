@@ -20,6 +20,7 @@ CV-News
 ### 2019
   - CVPR2019   
     + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)[[Pytorch]](https://github.com/MenghaoGuo/AutoDeeplab)
+    + [Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images](https://arxiv.org/abs/1905.06368)[oral]
     + [Bidirectional Learning for Domain Adaptation of Semantic Segmentation(Apr 2019)](https://arxiv.org/abs/1904.10620)[[Pytoch]](https://github.com/liyunsheng13/BDL)
     + [DFANet：Deep Feature Aggregation for Real-Time Semantic Segmentation](https://share.weiyun.com/5NgHbWH)
     + [Seamless Scene Segmentation](https://arxiv.org/abs/1905.01220)
