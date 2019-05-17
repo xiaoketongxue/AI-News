@@ -450,9 +450,9 @@ CV-News
  Submission Deadline:February 19, 2019   
  Accept/Reject Notification：April 12, 2019   
  
- [BIBM](https://www.myhuiban.com/conference/731?lang=ja)[CCF B]    
- Submission Deadline:2018-08-25  
- Accept/Reject Notification：2018-10-06  
+ [BIBM2019](http://ieeebibm.org/BIBM2019/CallPapers.html)[CCF B]    
+ Submission Deadline: Aug 17, 2019  
+ Accept/Reject Notification：Oct 1, 2019  
  
  [ICASSP](https://2019.ieeeicassp.org/)[CCF B]   
  Submission Deadline:October 29  
