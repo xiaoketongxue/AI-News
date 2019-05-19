@@ -1,9 +1,9 @@
 CV-News
 ======
 - [x] [Semantation](#Segmentation)
-- [x] [Classification](#Classification)
-- [x] [Super-Resolution](#Super-Resolution )
-- [x] [Registration](#Registration)
+- [x] [Classification](#Classification)  
+- [x] [Super-Resolution](#Super-Resolution )  
+- [x] [Registration](#Registration)  
 - [x] [Survey](#Survey)   
 - [x] [Dataset](#Dataset)  
 - [x] [Conference and Journal ](#Conference-and-Journal )  
