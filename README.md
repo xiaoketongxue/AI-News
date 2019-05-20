@@ -225,6 +225,7 @@ CV-News
     + [Patch-based Output Space Adversarial Learning for Joint Optic Disc and Cup Segmentation](https://arxiv.org/abs/1902.07519)[IEEE Transactions on Medical Imaging,TMI]
     
   - other
+    + [Transfer Learning based Detection of Diabetic Retinopathy from Small Dataset(May 2019)](https://arxiv.org/abs/1905.07203)
     + [iRA-Net: Bilinear Attention Net for Diabetic Retinopathy Grading(May 2019)](https://arxiv.org/abs/1905.06312)
     + [Liver Lesion Segmentation with slice-wise 2D Tiramisu and Tversky loss function(May 2019)](https://arxiv.org/pdf/1905.03639.pdf)
     + [T-Net: Encoder-Decoder in Encoder-Decoder architecture for the main vessel segmentation in coronary angiography](https://arxiv.org/abs/1905.04197)
@@ -324,6 +325,7 @@ CV-News
 ## 2019
   - Exploring Randomly Wired Neural Networks
     + [Exploring Randomly Wired Neural Networks for Image Recognition（Apr 2019）](https://arxiv.org/abs/1904.01569)[[Pyroech]](https://github.com/yoheikikuta/senet-keras/tree/master/model)
+    + [AM-LFS: AutoML for Loss Function Search](https://arxiv.org/abs/1905.07375)
   - CVPR 2019
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
@@ -332,6 +334,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [TRk-CNN: Transferable Ranking-CNN for image classification of glaucoma, glaucoma suspect, and normal eyes](https://arxiv.org/abs/1905.06509)
     + [ISBNet: Instance-aware Selective Branching Network](https://arxiv.org/abs/1905.04849)
     + [Convolutional neural networks with fractional order gradient method(May 2019)](https://arxiv.org/abs/1905.05336)
     + [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)[[Pytorch]](https://github.com/xiaolai-sqlai/mobilenetv3)
