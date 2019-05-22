@@ -257,6 +257,7 @@ CV-News
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [3D Dense Separated Convolution Module for Volumetric Image Analysis(May 2019)](https://arxiv.org/abs/1905.08608)
     + [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud（May 2019)]（https://arxiv.org/abs/1905.08748）
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://github.com/MASILab/SLANTbrainSeg)  
     + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
@@ -337,6 +338,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [TopoResNet: A hybrid deep learning architecture and its application to skin lesion classification(May 2019)](https://arxiv.org/abs/1905.08607)
     + [Skin Cancer Recognition using Deep Residual Network(May 2019)](https://arxiv.org/abs/1905.08610)
     + [Vehicle Shape and Color Classification Using Convolutional Neural Network(May 2019)](https://arxiv.org/abs/1905.08612)
     + [TRk-CNN: Transferable Ranking-CNN for image classification of glaucoma, glaucoma suspect, and normal eyes](https://arxiv.org/abs/1905.06509)
