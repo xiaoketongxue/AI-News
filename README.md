@@ -337,6 +337,8 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Skin Cancer Recognition using Deep Residual Network(May 2019)](https://arxiv.org/abs/1905.08610)
+    + [Vehicle Shape and Color Classification Using Convolutional Neural Network(May 2019)](https://arxiv.org/abs/1905.08612)
     + [TRk-CNN: Transferable Ranking-CNN for image classification of glaucoma, glaucoma suspect, and normal eyes](https://arxiv.org/abs/1905.06509)
     + [ISBNet: Instance-aware Selective Branching Network](https://arxiv.org/abs/1905.04849)
     + [Convolutional neural networks with fractional order gradient method(May 2019)](https://arxiv.org/abs/1905.05336)
