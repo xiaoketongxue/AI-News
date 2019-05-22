@@ -1,7 +1,8 @@
 CV-News
 ======
 - [x] [Semantation](#Segmentation)
-- [x] [Classification](#Classification)  
+- [x] [Classification](#Classification)
+- [x] [Graph Neural Networks](#Graph Neural Networks)
 - [x] [Super-Resolution](#Super-Resolution )  
 - [x] [Registration](#Registration)  
 - [x] [Survey](#Survey)   
@@ -330,6 +331,10 @@ CV-News
   - other
     + [Video Instance Segmentation](https://arxiv.org/abs/1905.04804)
     + [MAIN: Multi-Attention Instance Network for Video Segmentation](https://arxiv.org/abs/1904.05847)
+    
+# Graph Neural Networks
+  - 2019
+    + [Neighborhood Enlargement in Graph Neural Networks(May 2019)](https://arxiv.org/abs/1905.08509)[[Pytorch]](https://github.com/CODE-SUBMIT/Neighborhood-Enlargement-in-Graph-Network)
 # Classification
 ## 2019
   - Exploring Randomly Wired Neural Networks
