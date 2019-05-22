@@ -227,6 +227,7 @@ CV-News
     + [Task Decomposition and Synchronization for Semantic Biomedical Image Segmentation(May 2019)](https://arxiv.org/abs/1905.08720)[IEEE Transactions on Medical Imaging,TMI]
     
   - other
+    + [A novel algorithm for segmentation of leukocytes in peripheral blood(May 2019)](https://arxiv.org/abs/1905.08416)
     + [Transfer Learning based Detection of Diabetic Retinopathy from Small Dataset(May 2019)](https://arxiv.org/abs/1905.07203)
     + [iRA-Net: Bilinear Attention Net for Diabetic Retinopathy Grading(May 2019)](https://arxiv.org/abs/1905.06312)
     + [Liver Lesion Segmentation with slice-wise 2D Tiramisu and Tversky loss function(May 2019)](https://arxiv.org/pdf/1905.03639.pdf)
