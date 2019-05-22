@@ -215,7 +215,8 @@ CV-News
     + [Residual Pyramid FCN for Robust Follicle Segmentation](https://arxiv.org/abs/1901.03760)
     + [Classification and Detection in Mammograms with Weak Supervision via Dual Branch Deep Neural(Net Apr 2019)](https://arxiv.org/abs/1904.12319)[oral]
   - EMBC 2019
-    + [Ultrasound segmentation using U-Net: learning from simulated data and testing on real data](https://arxiv.org/abs/1904.11031)
+    + [Ultrasound segmentation using U-Net: learning from simulated data and testing on real data](https://arxiv.org/abs/1904.11031)[]
+    + [RASNet: Segmentation for Tracking Surgical Instruments in Surgical Videos Using Refined Attention Segmentation Network(May 2019)](https://arxiv.org/abs/1905.08663)
   - MIDI 2019
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
   - SCI
