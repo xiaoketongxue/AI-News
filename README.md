@@ -39,6 +39,8 @@ CV-News
   - ICIP2019
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [U-Net Based Multi-instance Video Object Segmentation(May 2019)](https://arxiv.org/abs/1905.07826)
+    + [Boundary Loss for Remote Sensing Imagery Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.07852)
     + [Efficient Ladder-style DenseNets for Semantic Segmentation of Large Images(May 2019)](https://arxiv.org/abs/1905.05661)
     + [Simultaneous Object Detection and Semantic Segmentation](https://arxiv.org/abs/1905.02285)
     + [Unsupervised Domain Adaptation using Generative Adversarial Networks for Semantic Segmentation of Aerial Images](https://arxiv.org/abs/1905.03198)
@@ -227,6 +229,7 @@ CV-News
     + [Task Decomposition and Synchronization for Semantic Biomedical Image Segmentation(May 2019)](https://arxiv.org/abs/1905.08720)[IEEE Transactions on Medical Imaging,TMI]
     
   - other
+    + [Dual-branch residual network for lung nodule segmentation(May 2019)](https://arxiv.org/abs/1905.08413)
     + [A novel algorithm for segmentation of leukocytes in peripheral blood(May 2019)](https://arxiv.org/abs/1905.08416)
     + [Transfer Learning based Detection of Diabetic Retinopathy from Small Dataset(May 2019)](https://arxiv.org/abs/1905.07203)
     + [iRA-Net: Bilinear Attention Net for Diabetic Retinopathy Grading(May 2019)](https://arxiv.org/abs/1905.06312)
