@@ -229,6 +229,7 @@ CV-News
     + [Task Decomposition and Synchronization for Semantic Biomedical Image Segmentation(May 2019)](https://arxiv.org/abs/1905.08720)[IEEE Transactions on Medical Imaging,TMI]
     
   - other
+    + [A 2D dilated residual U-Net for multi-organ segmentation in thoracic CT(May 2019)](https://arxiv.org/abs/1905.07710)
     + [Dual-branch residual network for lung nodule segmentation(May 2019)](https://arxiv.org/abs/1905.08413)
     + [A novel algorithm for segmentation of leukocytes in peripheral blood(May 2019)](https://arxiv.org/abs/1905.08416)
     + [Transfer Learning based Detection of Diabetic Retinopathy from Small Dataset(May 2019)](https://arxiv.org/abs/1905.07203)
