@@ -223,6 +223,7 @@ CV-News
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)[IEEE Transactions on Medical Imaging,TMI] 
     + [The Mutex Watershed and its Objective: Efficient, Parameter-Free Image Partitioning](https://arxiv.org/abs/1904.12654)[IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE]
     + [Patch-based Output Space Adversarial Learning for Joint Optic Disc and Cup Segmentation](https://arxiv.org/abs/1902.07519)[IEEE Transactions on Medical Imaging,TMI]
+    + [Task Decomposition and Synchronization for Semantic Biomedical Image Segmentation(May 2019)](https://arxiv.org/abs/1905.08720)[IEEE Transactions on Medical Imaging,TMI]
     
   - other
     + [Transfer Learning based Detection of Diabetic Retinopathy from Small Dataset(May 2019)](https://arxiv.org/abs/1905.07203)
@@ -255,6 +256,7 @@ CV-News
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud（May 2019)]（https://arxiv.org/abs/1905.08748）
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://github.com/MASILab/SLANTbrainSeg)  
     + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
     + [Spherical U-Net on Cortical Surfaces: Methods and Applications(Apr 2019)](https://arxiv.org/abs/1904.00906)
