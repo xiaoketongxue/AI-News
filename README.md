@@ -37,6 +37,8 @@ CV-News
     + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
     + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
     + [Large-scale interactive object segmentation with human annotators](https://arxiv.org/abs/1903.10830)
+  - AAAI 2019
+    + [Learning Fully Dense Neural Networks for Image Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.08929)
   - ICIP2019
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
@@ -263,6 +265,7 @@ CV-News
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [Automated Segmentation for Hyperdense Middle Cerebral Artery Sign of Acute Ischemic Stroke on Non-Contrast CT Images(May 2019)](https://arxiv.org/abs/1905.09049)
     + [3D Dense Separated Convolution Module for Volumetric Image Analysis(May 2019)](https://arxiv.org/abs/1905.08608)
     + [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud（May 2019)]（https://arxiv.org/abs/1905.08748）
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://github.com/MASILab/SLANTbrainSeg)  
@@ -335,6 +338,7 @@ CV-News
 # Graph Neural Networks
   - 2019
     + [Neighborhood Enlargement in Graph Neural Networks(May 2019)](https://arxiv.org/abs/1905.08509)[[Pytorch]](https://github.com/CODE-SUBMIT/Neighborhood-Enlargement-in-Graph-Network)
+    + [A Comparison of Stereo-Matching Cost between Convolutional Neural Network and Census for Satellite Images(May 2019)](https://arxiv.org/abs/1905.09147)
 # Classification
 ## 2019
   - Exploring Randomly Wired Neural Networks
