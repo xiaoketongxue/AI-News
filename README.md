@@ -1,9 +1,9 @@
 CV-News
 ======
 - [x] [Semantation](#Segmentation)
-- [x] [Classification](#Classification)
-- [x] [Graph Neural Networks](#Graph Neural Networks)
-- [x] [Super-Resolution](#Super-Resolution )  
+- [x] [Classification](#Classification)  
+- [x] [Graph Neural Networks](#Graph-Neural-Networks)    
+- [x] [Super-Resolution](#Super-Resolution )    
 - [x] [Registration](#Registration)  
 - [x] [Survey](#Survey)   
 - [x] [Dataset](#Dataset)  
@@ -42,6 +42,7 @@ CV-News
   - ICIP2019
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [Incorporating Human Domain Knowledge in 3D LiDAR-based Semantic Segmentation](https://arxiv.org/abs/1905.09533)
     + [U-Net Based Multi-instance Video Object Segmentation(May 2019)](https://arxiv.org/abs/1905.07826)
     + [Boundary Loss for Remote Sensing Imagery Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.07852)
     + [Efficient Ladder-style DenseNets for Semantic Segmentation of Large Images(May 2019)](https://arxiv.org/abs/1905.05661)
@@ -343,7 +344,12 @@ CV-News
 ## 2019
   - Exploring Randomly Wired Neural Networks
     + [Exploring Randomly Wired Neural Networks for Image Recognition（Apr 2019）](https://arxiv.org/abs/1904.01569)[[Pyroech]](https://github.com/yoheikikuta/senet-keras/tree/master/model)
+    + [Network Pruning via Transformable Architecture Search(May 2019)](https://arxiv.org/abs/1905.09717)[[Code]](https://github.com/D-X-Y/TAS)
     + [AM-LFS: AutoML for Loss Function Search](https://arxiv.org/abs/1905.07375)
+  - Attention Module
+    + [AttentionRNN: A Structured Spatial Attention Mechanism(May 2019)](https://arxiv.org/abs/1905.09400)
+  - Knowledge distillation
+    + [Adversarially Robust Distillation](https://arxiv.org/abs/1905.09747)
   - CVPR 2019
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
@@ -352,6 +358,8 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Multi-Sample Dropout for Accelerated Training and Better Generalization](https://arxiv.org/abs/1905.09788)
+    + [Spatial Group-wise Enhance: Improving Semantic Feature Learning in Convolutional Networks](https://arxiv.org/abs/1905.09646)
     + [TopoResNet: A hybrid deep learning architecture and its application to skin lesion classification(May 2019)](https://arxiv.org/abs/1905.08607)
     + [Skin Cancer Recognition using Deep Residual Network(May 2019)](https://arxiv.org/abs/1905.08610)
     + [Vehicle Shape and Color Classification Using Convolutional Neural Network(May 2019)](https://arxiv.org/abs/1905.08612)
