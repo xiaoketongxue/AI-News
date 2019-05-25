@@ -105,6 +105,7 @@ CV-News
     + [Unified Perceptual Parsing for Scene Understanding(Jul 2018)](https://arxiv.org/abs/1807.10221)
     + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
   - NeurIPS 2018
+    + [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction(Sep 2018)](https://arxiv.org/abs/1809.04184)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)
     + [A Probabilistic U-Net for Segmentation of Ambiguous Images(Jun 2018)](https://arxiv.org/abs/1806.05034)
     + [DifNet: Semantic Segmentation by DiffusionNetworks(May 2018)](https://arxiv.org/abs/1805.08015v1)
   - AAAI 2018
