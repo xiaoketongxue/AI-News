@@ -67,6 +67,7 @@ CV-News
     + [Blurring the Line Between Structure and Learning to Optimize and Adapt Receptive Fields( Apr 2019)](https://arxiv.org/abs/1904.11487)
 ### 2018
   - CVPR 2018
+    + [Enhancing Salient Object Segmentation Through Attention](https://arxiv.org/abs/1905.11522)[CVPRW]
     + [Context Encoding for Semantic Segmentation(Mar 2018)](https://hangzhang.org/PyTorch-Encoding/experiments/segmentation.html)
     + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
     + [PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing(May 2018)](https://arxiv.org/abs/1805.04409)
@@ -235,6 +236,7 @@ CV-News
     + [NAS-Unet: Neural Architecture Search for Medical Image Segmentation(Apr 2019)](https://ieeexplore.ieee.org/iel7/6287639/8600701/08681706.pdf)[IEEE Access]
     
   - other
+    + [A multi-path 2.5 dimensional convolutional neural network system for segmenting stroke lesions in brain MRI images(May 2019)](https://arxiv.org/abs/1905.10835)
     + [A 2D dilated residual U-Net for multi-organ segmentation in thoracic CT(May 2019)](https://arxiv.org/abs/1905.07710)
     + [Dual-branch residual network for lung nodule segmentation(May 2019)](https://arxiv.org/abs/1905.08413)
     + [A novel algorithm for segmentation of leukocytes in peripheral blood(May 2019)](https://arxiv.org/abs/1905.08416)
@@ -318,6 +320,7 @@ CV-News
     + [Interactive Full Image Segmentation by Considering All Regions Jointly](https://arxiv.org/abs/1812.01888)
     + [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
   - other
+    + [Straight to Shapes++: Real-time Instance Segmentation Made More Accurate(May 2019)](https://arxiv.org/abs/1905.11358)
     + [DeeperLab: Single-Shot Image Parser(Feb 2019)](https://arxiv.org/abs/1902.05093)[[Code]]
     + [An End-to-End Network for Panoptic Segmentation(Mar 2019](https://arxiv.org/abs/1903.05027)
     + [Single Network Panoptic Segmentation for Street Scene Understanding](https://arxiv.org/abs/1902.02678)
@@ -360,6 +363,11 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [DIANet: Dense-and-Implicit Attention Network](https://arxiv.org/abs/1905.10671)[[Pytorch]](https://github.com/gbup-group/DIANet)
+    + [HadaNets: Flexible Quantization Strategies for Neural Networks](https://arxiv.org/abs/1905.10759)
+    + [FAN: Focused Attention Networks](https://arxiv.org/abs/1905.11498)
+    + [Network Deconvolution](https://arxiv.org/abs/1905.11926)[[Pytorch]](https://github.com/deconvolutionpaper/deconvolution)
+    + [SpecNet: Spectral Domain Convolutional Neural Network](https://arxiv.org/abs/1905.10915)
     + [Multi-Sample Dropout for Accelerated Training and Better Generalization](https://arxiv.org/abs/1905.09788)
     + [Spatial Group-wise Enhance: Improving Semantic Feature Learning in Convolutional Networks](https://arxiv.org/abs/1905.09646)
     + [TopoResNet: A hybrid deep learning architecture and its application to skin lesion classification(May 2019)](https://arxiv.org/abs/1905.08607)
