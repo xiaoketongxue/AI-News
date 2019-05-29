@@ -69,7 +69,7 @@ CV-News
   - CVPR 2018
     + [Enhancing Salient Object Segmentation Through Attention](https://arxiv.org/abs/1905.11522)[CVPRW]
     + [Context Encoding for Semantic Segmentation(Mar 2018)](https://hangzhang.org/PyTorch-Encoding/experiments/segmentation.html)
-    + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
+    + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)[[Pytorch]](https://github.com/DeepMotionAIResearch/DenseASPP/tree/master/models)
     + [PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing(May 2018)](https://arxiv.org/abs/1805.04409)
     + [Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bilinski_Dense_Decoder_Shortcut_CVPR_2018_paper.pdf)
     + [Learning a Discriminative Feature Network for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Learning_a_Discriminative_CVPR_2018_paper.pdf)
