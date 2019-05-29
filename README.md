@@ -72,7 +72,7 @@ CV-News
     + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)[[Pytorch]](https://github.com/DeepMotionAIResearch/DenseASPP/tree/master/models)
     + [PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing(May 2018)](https://arxiv.org/abs/1805.04409)
     + [Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bilinski_Dense_Decoder_Shortcut_CVPR_2018_paper.pdf)
-    + [Learning a Discriminative Feature Network for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Learning_a_Discriminative_CVPR_2018_paper.pdf)
+    + [DFN:Learning a Discriminative Feature Network for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Learning_a_Discriminative_CVPR_2018_paper.pdf)
     + [Guided Proofreading of Automatic Segmentations for Connectomics](http://openaccess.thecvf.com/content_cvpr_2018/papers/Haehn_Guided_Proofreading_of_CVPR_2018_paper.pdf)
     + [Recurrent Scene Parsing with Perspective Understanding in the Loop](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0534.pdf)
     + [Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf)
