@@ -42,6 +42,7 @@ CV-News
   - ICIP2019
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [Closed-Loop Adaptation for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/1905.12190)
     + [Incorporating Human Domain Knowledge in 3D LiDAR-based Semantic Segmentation](https://arxiv.org/abs/1905.09533)
     + [U-Net Based Multi-instance Video Object Segmentation(May 2019)](https://arxiv.org/abs/1905.07826)
     + [Boundary Loss for Remote Sensing Imagery Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.07852)
@@ -236,6 +237,8 @@ CV-News
     + [NAS-Unet: Neural Architecture Search for Medical Image Segmentation(Apr 2019)](https://ieeexplore.ieee.org/iel7/6287639/8600701/08681706.pdf)[IEEE Access]
     
   - other
+    + [Deep Dilated Convolutional Nets for the Automatic Segmentation of Retinal Vessels](https://arxiv.org/abs/1905.12120)
+    + [Segmentation of blood vessels in retinal fundus images](https://arxiv.org/abs/1905.12596)
     + [A multi-path 2.5 dimensional convolutional neural network system for segmenting stroke lesions in brain MRI images(May 2019)](https://arxiv.org/abs/1905.10835)
     + [A 2D dilated residual U-Net for multi-organ segmentation in thoracic CT(May 2019)](https://arxiv.org/abs/1905.07710)
     + [Dual-branch residual network for lung nodule segmentation(May 2019)](https://arxiv.org/abs/1905.08413)
