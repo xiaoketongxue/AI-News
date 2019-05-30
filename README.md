@@ -101,7 +101,7 @@ CV-News
     + [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(Mar 2018 )](https://arxiv.org/abs/1803.06815)[[Pytorch]](https://github.com/sacmehta/ESPNet)
     + [PSANet: Point-wise Spatial Attention Network for Scene Parsing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
     + [ICNet for Real-Time Semantic Segmentation on High-Resolution Images(Apr 2017)](https://arxiv.org/abs/1704.08545)[[Pytorch]](https://github.com/hszhao/ICNet)
-    + [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation(Feb 2018)](https://arxiv.org/abs/1802.02611v1)
+    + [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation(Feb 2018)](https://arxiv.org/abs/1802.02611v1)[Deeplab V3+]
     + [Adaptive Affinity Fields for Semantic Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10335)
     + [ExFuse: Enhancing Feature Fusion for Semantic Segmentation(Apr 2018)](https://arxiv.org/abs/1804.03821)
     + [Unified Perceptual Parsing for Scene Understanding(Jul 2018)](https://arxiv.org/abs/1807.10221)
