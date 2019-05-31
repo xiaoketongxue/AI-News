@@ -37,6 +37,7 @@ CV-News
     + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
     + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
     + [Large-scale interactive object segmentation with human annotators](https://arxiv.org/abs/1903.10830)
+    + [Enhancing Salient Object Segmentation Through Attention](https://arxiv.org/abs/1905.11522)[CVPRW】
   - AAAI 2019
     + [Learning Fully Dense Neural Networks for Image Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.08929)
   - ICIP2019
@@ -68,7 +69,6 @@ CV-News
     + [Blurring the Line Between Structure and Learning to Optimize and Adapt Receptive Fields( Apr 2019)](https://arxiv.org/abs/1904.11487)
 ### 2018
   - CVPR 2018
-    + [Enhancing Salient Object Segmentation Through Attention](https://arxiv.org/abs/1905.11522)[CVPRW]
     + [Context Encoding for Semantic Segmentation(Mar 2018)](https://hangzhang.org/PyTorch-Encoding/experiments/segmentation.html)
     + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)[[Pytorch]](https://github.com/DeepMotionAIResearch/DenseASPP/tree/master/models)
     + [PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing(May 2018)](https://arxiv.org/abs/1805.04409)
@@ -362,6 +362,7 @@ CV-News
     + [SKNet:Selective Kernel Networks(Mar 2019)](https://arxiv.org/abs/1903.06586?context=cs)[[Coffe]](https://github.com/implus/SKNet)[[Pytorch]](https://github.com/xiaoketongxue/SKNet-1)
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
     + [Bag of Tricks for Image Classification with Convolutional Neural Networks(Dec 2018)](https://arxiv.org/abs/1812.01187)[[Code]](https://gluon-cv.mxnet.io/)
+    + [An attention-based multi-resolution model for prostate whole slide imageclassification and localization](https://arxiv.org/abs/1905.13208)[CVPRW]
   - ICML 2019
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
