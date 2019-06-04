@@ -44,6 +44,7 @@ CV-News
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)
     + [Closed-Loop Adaptation for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/1905.12190)
     + [Closed-Loop Adaptation for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/1905.12190)
     + [Incorporating Human Domain Knowledge in 3D LiDAR-based Semantic Segmentation](https://arxiv.org/abs/1905.09533)
