@@ -44,6 +44,7 @@ CV-News
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)
     + [Consistency regularization and CutMix for semi-supervised semantic segmentation](https://arxiv.org/abs/1906.01916)
     + [RGB and LiDAR fusion based 3D Semantic Segmentation for Autonomous Driving](https://arxiv.org/abs/1906.00208)
     + [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)
@@ -208,6 +209,8 @@ CV-News
     + [Nonparametric Scene Parsing via Label Transfer](http://people.csail.mit.edu/celiu/pdfs/LabelTransferTPAMI.pdf)[TPAMI2011][[Project]](http://people.csail.mit.edu/celiu/LabelTransfer/code.html)
 ## 2D Medical Segmentation
 ### 2019
+  - MICCAI 2019
+    + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -279,6 +282,10 @@ CV-News
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [OctopusNet: A Deep Learning Segmentation Network for Multi-modal Medical Images](https://arxiv.org/abs/1906.02031)
+    + [AssemblyNet: A Novel Deep Decision-Making Process for Whole Brain MRI Segmentation](https://arxiv.org/abs/1906.01862)
+    + [Fully Automated Pancreas Segmentation with Two-stage 3D Convolutional Neural Networks](https://arxiv.org/abs/1906.01795)
+    + [Generative Model-Based Ischemic Stroke Lesion Segmentation](https://arxiv.org/abs/1906.02392)
     + [Automated Segmentation for Hyperdense Middle Cerebral Artery Sign of Acute Ischemic Stroke on Non-Contrast CT Images(May 2019)](https://arxiv.org/abs/1905.09049)
     + [3D Dense Separated Convolution Module for Volumetric Image Analysis(May 2019)](https://arxiv.org/abs/1905.08608)
     + [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud（May 2019)]（https://arxiv.org/abs/1905.08748）
@@ -373,6 +380,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Visual Tree Convolutional Neural Network in Image Classification](https://arxiv.org/abs/1906.01536)
     + [DIANet: Dense-and-Implicit Attention Network](https://arxiv.org/abs/1905.10671)[[Pytorch]](https://github.com/gbup-group/DIANet)
     + [HadaNets: Flexible Quantization Strategies for Neural Networks](https://arxiv.org/abs/1905.10759)
     + [FAN: Focused Attention Networks](https://arxiv.org/abs/1905.11498)
@@ -417,6 +425,8 @@ CV-News
     + [DenseNet:Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)  
 # Super-Resolution 
 ## 2019
+  - CVPR 2019
+     + [3D Appearance Super-Resolution with Deep Learning](https://arxiv.org/abs/1906.00925)[[Pytorch]](https://github.com/ofsoundof/3D_Appearance_SR)
   - Medical
     + [Medical image super-resolution method based on dense blended attention network](https://arxiv.org/abs/1905.05084)
     + [Progressive Generative Adversarial Networks for Medical Image Super resolution(Feb 2019)](https://arxiv.org/abs/1902.02144)
