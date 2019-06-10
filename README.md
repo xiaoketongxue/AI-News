@@ -44,6 +44,7 @@ CV-News
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [Seeing Behind Things: Extending Semantic Segmentation to Occluded Regions](https://arxiv.org/abs/1906.02885)
     + [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)
     + [Consistency regularization and CutMix for semi-supervised semantic segmentation](https://arxiv.org/abs/1906.01916)
     + [RGB and LiDAR fusion based 3D Semantic Segmentation for Autonomous Driving](https://arxiv.org/abs/1906.00208)
@@ -245,6 +246,9 @@ CV-News
     + [NAS-Unet: Neural Architecture Search for Medical Image Segmentation(Apr 2019)](https://ieeexplore.ieee.org/iel7/6287639/8600701/08681706.pdf)[IEEE Access]
     
   - other
+    + [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1906.02817)
+    + [Multi-scale guided attention for medical image segmentation](https://arxiv.org/abs/1906.02849)[[Pytorch]](https://github.com/sinAshish/Multi-Scale-Attention)
+    + [Decompose-and-Integrate Learning for Multi-class Segmentation in Medical Images](https://arxiv.org/abs/1906.02901)
     + [A Hierarchical Probabilistic U-Net for Modeling Multi-Scale Ambiguities](https://arxiv.org/abs/1905.13077)
     + [Deep Dilated Convolutional Nets for the Automatic Segmentation of Retinal Vessels](https://arxiv.org/abs/1905.12120)
     + [Segmentation of blood vessels in retinal fundus images](https://arxiv.org/abs/1905.12596)
