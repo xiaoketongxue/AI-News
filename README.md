@@ -44,6 +44,10 @@ CV-News
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [DiCENet: Dimension-wise Convolutions for Efficient Networks](https://arxiv.org/abs/1906.03516)
+    + [Cross-view Semantic Segmentation for Sensing Surroundings](https://arxiv.org/abs/1906.03560)
+    + [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://arxiv.org/abs/1906.04423)
+    + [Gated CRF Loss for Weakly Supervised Semantic Image Segmentation](https://arxiv.org/abs/1906.04651)
     + [Seeing Behind Things: Extending Semantic Segmentation to Occluded Regions](https://arxiv.org/abs/1906.02885)
     + [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)
     + [Consistency regularization and CutMix for semi-supervised semantic segmentation](https://arxiv.org/abs/1906.01916)
@@ -244,6 +248,7 @@ CV-News
     + [Patch-based Output Space Adversarial Learning for Joint Optic Disc and Cup Segmentation](https://arxiv.org/abs/1902.07519)[IEEE Transactions on Medical Imaging,TMI]
     + [Task Decomposition and Synchronization for Semantic Biomedical Image Segmentation(May 2019)](https://arxiv.org/abs/1905.08720)[IEEE Transactions on Medical Imaging,TMI]
     + [NAS-Unet: Neural Architecture Search for Medical Image Segmentation(Apr 2019)](https://ieeexplore.ieee.org/iel7/6287639/8600701/08681706.pdf)[IEEE Access]
+    + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
     + [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1906.02817)
@@ -280,6 +285,9 @@ CV-News
     + [U-Net: Convolutional Networks for Biomedical Image Segmentation(May 2015)](https://arxiv.org/abs/1505.04597) 
 ## 3D Medical Segmentation
 ### 2019
+  - MICCAI 2019
+    + [Project & Excite Modules for Segmentation of Volumetric Medical Scans](https://arxiv.org/abs/1906.04649)[[Pytorch]](https://github.com/ai-med/squeeze_and_excitation)
+    + [Generative adversarial network for segmentation of motion affected neonatal brain MRI](https://arxiv.org/abs/1906.04704)
   - IPMI
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
   - ISBI2019
@@ -384,6 +392,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [HGC: Hierarchical Group Convolution for Highly Efficient Neural Network](https://arxiv.org/abs/1906.03657)
     + [Visual Tree Convolutional Neural Network in Image Classification](https://arxiv.org/abs/1906.01536)
     + [DIANet: Dense-and-Implicit Attention Network](https://arxiv.org/abs/1905.10671)[[Pytorch]](https://github.com/gbup-group/DIANet)
     + [HadaNets: Flexible Quantization Strategies for Neural Networks](https://arxiv.org/abs/1905.10759)
