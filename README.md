@@ -288,6 +288,11 @@ CV-News
   - MICCAI 2019
     + [Project & Excite Modules for Segmentation of Volumetric Medical Scans](https://arxiv.org/abs/1906.04649)[[Pytorch]](https://github.com/ai-med/squeeze_and_excitation)
     + [Generative adversarial network for segmentation of motion affected neonatal brain MRI](https://arxiv.org/abs/1906.04704)
+    + [Learning Shape Representation on Sparse Point Clouds for Volumetric Image Segmentation](https://arxiv.org/abs/1906.02281)
+    + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
+    + [Decompose-and-Integrate Learning for Multi-class Segmentation in Medical Images](https://arxiv.org/abs/1906.02901)
+    + [PseudoEdgeNet: Nuclei Segmentation only with Point Annotations](https://arxiv.org/abs/1906.02924)
+    + [PHiSeg: Capturing Uncertainty in Medical Image Segmentation](https://arxiv.org/search/?query=MICCAI+2019&searchtype=all&source=header)
   - IPMI
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
   - ISBI2019
