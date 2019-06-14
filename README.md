@@ -44,6 +44,9 @@ CV-News
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [Recurrent U-Net for Resource-Constrained Segmentation](https://arxiv.org/abs/1906.04913)
+    + [Topology-Preserving Deep Image Segmentation](https://arxiv.org/abs/1906.05404)
+    + [Show, Match and Segment: Joint Learning of Semantic Matching and Object Co-segmentation](https://arxiv.org/pdf/1906.05857.pdf)
     + [DiCENet: Dimension-wise Convolutions for Efficient Networks](https://arxiv.org/abs/1906.03516)
     + [Cross-view Semantic Segmentation for Sensing Surroundings](https://arxiv.org/abs/1906.03560)
     + [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://arxiv.org/abs/1906.04423)
@@ -251,6 +254,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network](https://arxiv.org/abs/1906.05251)
     + [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1906.02817)
     + [Multi-scale guided attention for medical image segmentation](https://arxiv.org/abs/1906.02849)[[Pytorch]](https://github.com/sinAshish/Multi-Scale-Attention)
     + [Decompose-and-Integrate Learning for Multi-class Segmentation in Medical Images](https://arxiv.org/abs/1906.02901)
