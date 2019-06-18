@@ -290,6 +290,7 @@ CV-News
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation](https://arxiv.org/abs/1906.06148)
     + [Project & Excite Modules for Segmentation of Volumetric Medical Scans](https://arxiv.org/abs/1906.04649)[[Pytorch]](https://github.com/ai-med/squeeze_and_excitation)
     + [Generative adversarial network for segmentation of motion affected neonatal brain MRI](https://arxiv.org/abs/1906.04704)
     + [Learning Shape Representation on Sparse Point Clouds for Volumetric Image Segmentation](https://arxiv.org/abs/1906.02281)
