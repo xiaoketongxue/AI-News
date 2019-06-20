@@ -254,6 +254,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Multiclass segmentation as multitask learning for drusen segmentation in retinal optical coherence tomography](https://arxiv.org/abs/1906.07679)
     + [Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network](https://arxiv.org/abs/1906.05251)
     + [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1906.02817)
     + [Multi-scale guided attention for medical image segmentation](https://arxiv.org/abs/1906.02849)[[Pytorch]](https://github.com/sinAshish/Multi-Scale-Attention)
@@ -304,6 +305,11 @@ CV-News
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [Scalable Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1906.05956)
+    + [Enforcing temporal consistency in Deep Learning segmentation of brain MR images](https://arxiv.org/abs/1906.07160)
+    + [4D CNN for semantic segmentation of cardiac volumetric sequences](https://arxiv.org/abs/1906.07295)
+    + [Cardiac Segmentation from LGE MRI Using Deep Neural Network Incorporating Shape and Spatial Priors](https://arxiv.org/abs/1906.07347)
+    + [A sparse annotation strategy based on attention-guided active learning for 3D medical image segmentation](https://arxiv.org/abs/1906.07367)
     + [OctopusNet: A Deep Learning Segmentation Network for Multi-modal Medical Images](https://arxiv.org/abs/1906.02031)
     + [AssemblyNet: A Novel Deep Decision-Making Process for Whole Brain MRI Segmentation](https://arxiv.org/abs/1906.01862)
     + [Fully Automated Pancreas Segmentation with Two-stage 3D Convolutional Neural Networks](https://arxiv.org/abs/1906.01795)
@@ -349,6 +355,7 @@ CV-News
     + [YOLACT: Real-time Instance Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02689)
     + [Concatenated Feature Pyramid Network for Instance Segmentation(Mar 2019)](https://arxiv.org/abs/1904.00768)
     + [Single Pixel Reconstruction for One-stage Instance Segmentation(Apr 2019 ](https://arxiv.org/abs/1904.07426)
+    + [Learning Instance Occlusion for Panoptic Segmentation](https://arxiv.org/abs/1906.05896)
 ## Panoptic Segmentation
 ### 2019
   - CVPR2019
@@ -389,6 +396,7 @@ CV-News
     + [Exploring Randomly Wired Neural Networks for Image Recognition（Apr 2019）](https://arxiv.org/abs/1904.01569)[[Pyroech]](https://github.com/yoheikikuta/senet-keras/tree/master/model)
     + [Network Pruning via Transformable Architecture Search(May 2019)](https://arxiv.org/abs/1905.09717)[[Code]](https://github.com/D-X-Y/TAS)
     + [AM-LFS: AutoML for Loss Function Search](https://arxiv.org/abs/1905.07375)
+    + [XNAS: Neural Architecture Search with Expert Advice](https://arxiv.org/abs/1906.08031)
   - Attention Module
     + [AttentionRNN: A Structured Spatial Attention Mechanism(May 2019)](https://arxiv.org/abs/1905.09400)
   - Knowledge distillation
@@ -402,6 +410,10 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Efficient N-Dimensional Convolutions via Higher-Order Factorization](https://arxiv.org/abs/1906.06196)
+    + [TensorNetwork for Machine Learning](https://arxiv.org/abs/1906.06329)
+    + [A One-step Pruning-recovery Framework for Acceleration of Convolutional Neural Networks](https://arxiv.org/abs/1906.07488)
+    + [ADA-Tucker: Compressing Deep Neural Networks via Adaptive Dimension Adjustment Tucker Decomposition](https://arxiv.org/abs/1906.07671)
     + [HGC: Hierarchical Group Convolution for Highly Efficient Neural Network](https://arxiv.org/abs/1906.03657)
     + [Visual Tree Convolutional Neural Network in Image Classification](https://arxiv.org/abs/1906.01536)
     + [DIANet: Dense-and-Implicit Attention Network](https://arxiv.org/abs/1905.10671)[[Pytorch]](https://github.com/gbup-group/DIANet)
