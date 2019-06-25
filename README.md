@@ -411,6 +411,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Dense Scale Network for Crowd Counting](https://arxiv.org/abs/1906.09707)
     + [Efficient N-Dimensional Convolutions via Higher-Order Factorization](https://arxiv.org/abs/1906.06196)
     + [TensorNetwork for Machine Learning](https://arxiv.org/abs/1906.06329)
     + [A One-step Pruning-recovery Framework for Acceleration of Convolutional Neural Networks](https://arxiv.org/abs/1906.07488)
