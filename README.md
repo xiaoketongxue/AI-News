@@ -255,6 +255,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Multi-Scale Attentional Network for Multi-Focal Segmentation of Active Bleed after Pelvic Fractures](https://arxiv.org/abs/1906.09540)
     + [Multiclass segmentation as multitask learning for drusen segmentation in retinal optical coherence tomography](https://arxiv.org/abs/1906.07679)
     + [Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network](https://arxiv.org/abs/1906.05251)
     + [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1906.02817)
