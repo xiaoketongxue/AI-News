@@ -44,6 +44,7 @@ CV-News
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1906.09826)[[Pytorch]](https://github.com/xiaoyufenfei/ESNet)
     + [Recurrent U-Net for Resource-Constrained Segmentation](https://arxiv.org/abs/1906.04913)
     + [Topology-Preserving Deep Image Segmentation](https://arxiv.org/abs/1906.05404)
     + [Show, Match and Segment: Joint Learning of Semantic Matching and Object Co-segmentation](https://arxiv.org/pdf/1906.05857.pdf)
