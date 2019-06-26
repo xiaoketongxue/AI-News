@@ -307,6 +307,7 @@ CV-News
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [https://arxiv.org/ftp/arxiv/papers/1906/1906.10486.pdf](https://arxiv.org/abs/1906.10486)
     + [Scalable Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1906.05956)
     + [Enforcing temporal consistency in Deep Learning segmentation of brain MR images](https://arxiv.org/abs/1906.07160)
     + [4D CNN for semantic segmentation of cardiac volumetric sequences](https://arxiv.org/abs/1906.07295)
@@ -332,6 +333,7 @@ CV-News
     + [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation(Jun 2016)](https://arxiv.org/abs/1606.06650)   
 ### Brain Tissue Segmentation
   - Paper
+    + [Brain MR Image Segmentation in Small Dataset with Adversarial Defense and Task Reorganization](https://arxiv.org/abs/1906.10400)
     + [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation(Rank 1)](https://www.springerprofessional.de/en/3d-patchwise-u-net-with-transition-layers-for-mr-brain-segmentat/16457542)[[TensorFlow]](https://github.com/xiaoketongxue/mrbrains18-1)  
     + [MixNet: Multi-modality Mix Network for Brain Segmentation(Rank3)](https://link.springer.com/chapter/10.1007%2F978-3-030-11723-8_37)[[tensorflow]](https://github.com/xiaoketongxue/MRBrainS-Brain-Segmentation)
     + [Robust 3D Convolutional Neural Network with Boundary Correction for Accurate Brain Tissue Segmentation(Rank3)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543143)[[Keras]]()
@@ -412,6 +414,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Zero-Shot Image Classification Using Coupled Dictionary Embedding](https://arxiv.org/abs/1906.10509)
     + [Dense Scale Network for Crowd Counting](https://arxiv.org/abs/1906.09707)
     + [Efficient N-Dimensional Convolutions via Higher-Order Factorization](https://arxiv.org/abs/1906.06196)
     + [TensorNetwork for Machine Learning](https://arxiv.org/abs/1906.06329)
@@ -498,6 +501,7 @@ CV-News
     + [Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)
     + [AI in the media and creative industries](https://arxiv.org/abs/1905.04175)
     + [Advancements in Image Classification using Convolutional Neural Network](https://arxiv.org/abs/1905.03288)
+    + [A Review on Deep Learning in Medical Image Reconstruction](https://arxiv.org/abs/1906.10643)
 # Dataset
 ## Medical
   - [All Challenges](https://grand-challenge.org/challenges/)
