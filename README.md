@@ -37,6 +37,7 @@ CV-News
     + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
     + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
     + [Large-scale interactive object segmentation with human annotators](https://arxiv.org/abs/1903.10830)
+    + [Deep Modular Co-Attention Networks for Visual Question Answering](https://arxiv.org/abs/1906.10770)
     + [Enhancing Salient Object Segmentation Through Attention](https://arxiv.org/abs/1905.11522)[CVPRW】
   - AAAI 2019
     + [Learning Fully Dense Neural Networks for Image Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.08929)
@@ -220,6 +221,7 @@ CV-News
 ### 2019
   - MICCAI 2019
     + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
+    + [Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation](https://arxiv.org/abs/1906.11143)[[Pytorch]](https://github.com/EmmaW8/BEAL)
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -355,6 +357,7 @@ CV-News
     + [Pose2Seg: Detection Free Human Instance Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10683)[[Code]](https://github.com/liruilong940607/OCHumanApi)  
     + [Budget-aware Semi-Supervised Semantic and Instance Segmentation](https://arxiv.org/abs/1905.05880)[[Workshop]]
   - other
+    + [Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth](https://arxiv.org/abs/1906.11109)[[Code]](https://github.com/davyneven/SpatialEmbeddings)
     + [DARNet: Deep Active Ray Network for Building Segmentation](https://arxiv.org/abs/1905.05889)
     + [YOLACT: Real-time Instance Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02689)
     + [Concatenated Feature Pyramid Network for Instance Segmentation(Mar 2019)](https://arxiv.org/abs/1904.00768)
@@ -414,6 +417,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Mapped Convolutions](https://arxiv.org/abs/1906.11096)[[Code]](https://github.com/meder411/MappedConvolutions)
     + [Zero-Shot Image Classification Using Coupled Dictionary Embedding](https://arxiv.org/abs/1906.10509)
     + [Dense Scale Network for Crowd Counting](https://arxiv.org/abs/1906.09707)
     + [Efficient N-Dimensional Convolutions via Higher-Order Factorization](https://arxiv.org/abs/1906.06196)
