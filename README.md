@@ -45,6 +45,8 @@ CV-News
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [ELKPPNet: An Edge-aware Neural Network with Large Kernel Pyramid Pooling for Learning Discriminative Features in Semantic Segmentation](https://arxiv.org/abs/1906.11428)
+    + [Hard Pixels Mining: Learning Using Privileged Information for Semantic Segmentation](https://arxiv.org/abs/1906.11437)
     + [ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1906.09826)[[Pytorch]](https://github.com/xiaoyufenfei/ESNet)
     + [Recurrent U-Net for Resource-Constrained Segmentation](https://arxiv.org/abs/1906.04913)
     + [Topology-Preserving Deep Image Segmentation](https://arxiv.org/abs/1906.05404)
@@ -257,6 +259,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [CaDSS: Cataract Dataset for Semantic Segmentation](https://arxiv.org/abs/1906.11586)
     + [Multi-Scale Attentional Network for Multi-Focal Segmentation of Active Bleed after Pelvic Fractures](https://arxiv.org/abs/1906.09540)
     + [Multiclass segmentation as multitask learning for drusen segmentation in retinal optical coherence tomography](https://arxiv.org/abs/1906.07679)
     + [Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network](https://arxiv.org/abs/1906.05251)
@@ -357,6 +360,7 @@ CV-News
     + [Pose2Seg: Detection Free Human Instance Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10683)[[Code]](https://github.com/liruilong940607/OCHumanApi)  
     + [Budget-aware Semi-Supervised Semantic and Instance Segmentation](https://arxiv.org/abs/1905.05880)[[Workshop]]
   - other
+    + [A Generalized Framework for Agglomerative Clustering of Signed Graphs applied to Instance Segmentation](https://arxiv.org/abs/1906.11713)
     + [Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth](https://arxiv.org/abs/1906.11109)[[Code]](https://github.com/davyneven/SpatialEmbeddings)
     + [DARNet: Deep Active Ray Network for Building Segmentation](https://arxiv.org/abs/1905.05889)
     + [YOLACT: Real-time Instance Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02689)
