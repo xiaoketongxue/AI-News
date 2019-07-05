@@ -39,12 +39,14 @@ CV-News
     + [Large-scale interactive object segmentation with human annotators](https://arxiv.org/abs/1903.10830)
     + [Deep Modular Co-Attention Networks for Visual Question Answering](https://arxiv.org/abs/1906.10770)
     + [Enhancing Salient Object Segmentation Through Attention](https://arxiv.org/abs/1905.11522)[CVPRW】
+    + [The Ethical Dilemma when (not) Setting up Cost-based Decision Rules in Semantic Segmentation](https://arxiv.org/abs/1907.01342)
   - AAAI 2019
     + [Learning Fully Dense Neural Networks for Image Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.08929)
   - ICIP2019
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - other
+    + [Slim-CNN: A Light-Weight CNN for Face Attribute Prediction](https://arxiv.org/abs/1907.02157)
     + [ELKPPNet: An Edge-aware Neural Network with Large Kernel Pyramid Pooling for Learning Discriminative Features in Semantic Segmentation](https://arxiv.org/abs/1906.11428)
     + [Hard Pixels Mining: Learning Using Privileged Information for Semantic Segmentation](https://arxiv.org/abs/1906.11437)
     + [ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1906.09826)[[Pytorch]](https://github.com/xiaoyufenfei/ESNet)
@@ -222,8 +224,10 @@ CV-News
 ## 2D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [INN: Inflated Neural Networks for IPMN Diagnosis(30 Jun)](https://arxiv.org/abs/1907.00437)
     + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
     + [Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation](https://arxiv.org/abs/1906.11143)[[Pytorch]](https://github.com/EmmaW8/BEAL)
+    + [Supervised Uncertainty Quantification for Segmentation with Multiple Annotations](https://arxiv.org/abs/1907.01949)
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -259,6 +263,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [An Efficient Solution for Breast Tumor Segmentation and Classification in Ultrasound Images Using Deep Adversarial LearningJul 2019)](https://arxiv.org/abs/1907.00887)
     + [CaDSS: Cataract Dataset for Semantic Segmentation](https://arxiv.org/abs/1906.11586)
     + [Multi-Scale Attentional Network for Multi-Focal Segmentation of Active Bleed after Pelvic Fractures](https://arxiv.org/abs/1906.09540)
     + [Multiclass segmentation as multitask learning for drusen segmentation in retinal optical coherence tomography](https://arxiv.org/abs/1906.07679)
@@ -298,6 +303,7 @@ CV-News
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Permutohedral Attention Module for Efficient Non-Local Neural Networks(Jul 2019)](https://arxiv.org/abs/1907.00641)
     + [A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation](https://arxiv.org/abs/1906.06148)[[Pytorch]](https://github.com/RobinBruegger)[[Pytorch2]](https://github.com/RobinBruegger/PartiallyReversibleUnet)
     + [Project & Excite Modules for Segmentation of Volumetric Medical Scans](https://arxiv.org/abs/1906.04649)[[Pytorch]](https://github.com/ai-med/squeeze_and_excitation)
     + [Generative adversarial network for segmentation of motion affected neonatal brain MRI](https://arxiv.org/abs/1906.04704)
@@ -312,6 +318,9 @@ CV-News
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [Improving the generalizability of convolutional neural network-based segmentation on CMR images](https://arxiv.org/abs/1907.01268)
+    + [CSSegNet: Fine-Grained Cardiac Structures Segmentation Using Dilated Pyramid Pooling in U-net](https://arxiv.org/abs/1907.01390)
+    + [Anatomically Consistent Segmentation of Organs at Risk in MRI with Convolutional Neural Networks](https://arxiv.org/abs/1907.02003)
     + [https://arxiv.org/ftp/arxiv/papers/1906/1906.10486.pdf](https://arxiv.org/abs/1906.10486)
     + [Scalable Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1906.05956)
     + [Enforcing temporal consistency in Deep Learning segmentation of brain MR images](https://arxiv.org/abs/1906.07160)
@@ -338,6 +347,7 @@ CV-News
     + [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation(Jun 2016)](https://arxiv.org/abs/1606.06650)   
 ### Brain Tissue Segmentation
   - Paper
+    + [DeepMRSeg: A convolutional deep neural network for anatomy and abnormality segmentation on MR images](https://arxiv.org/abs/1907.02110)
     + [Brain MR Image Segmentation in Small Dataset with Adversarial Defense and Task Reorganization](https://arxiv.org/abs/1906.10400)
     + [3D Patchwise U-Net with Transition Layers for MR Brain Segmentation(Rank 1)](https://www.springerprofessional.de/en/3d-patchwise-u-net-with-transition-layers-for-mr-brain-segmentat/16457542)[[TensorFlow]](https://github.com/xiaoketongxue/mrbrains18-1)  
     + [MixNet: Multi-modality Mix Network for Brain Segmentation(Rank3)](https://link.springer.com/chapter/10.1007%2F978-3-030-11723-8_37)[[tensorflow]](https://github.com/xiaoketongxue/MRBrainS-Brain-Segmentation)
@@ -394,6 +404,7 @@ CV-News
   - CVPR 2019
     + [Spatiotemporal CNN for Video Object Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02363)[[Code]](https://github.com/longyin880815/STCNN)
   - other
+    + [Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation(Jul 2019)](https://arxiv.org/abs/1907.01203)
     + [Video Instance Segmentation](https://arxiv.org/abs/1905.04804)
     + [MAIN: Multi-Attention Instance Network for Video Segmentation](https://arxiv.org/abs/1904.05847)
     
@@ -403,6 +414,8 @@ CV-News
     + [A Comparison of Stereo-Matching Cost between Convolutional Neural Network and Census for Satellite Images(May 2019)](https://arxiv.org/abs/1905.09147)
 # Classification
 ## 2019
+  - MICCAI2019
+    + [Multi-Instance Multi-Scale CNN for Medical Image Classification](https://arxiv.org/abs/1907.02413)
   - Exploring Randomly Wired Neural Networks
     + [Exploring Randomly Wired Neural Networks for Image Recognition（Apr 2019）](https://arxiv.org/abs/1904.01569)[[Pyroech]](https://github.com/yoheikikuta/senet-keras/tree/master/model)
     + [Network Pruning via Transformable Architecture Search(May 2019)](https://arxiv.org/abs/1905.09717)[[Code]](https://github.com/D-X-Y/TAS)
@@ -417,10 +430,13 @@ CV-News
     + [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs(Mar 2019)](https://arxiv.org/abs/1903.04120)   
     + [Bag of Tricks for Image Classification with Convolutional Neural Networks(Dec 2018)](https://arxiv.org/abs/1812.01187)[[Code]](https://gluon-cv.mxnet.io/)
     + [An attention-based multi-resolution model for prostate whole slide imageclassification and localization](https://arxiv.org/abs/1905.13208)[CVPRW]
+    + [On-Device Neural Net Inference with Mobile GPUs](https://arxiv.org/abs/1907.01989)[CVPRW]
   - ICML 2019
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Attention routing between capsules](https://arxiv.org/abs/1907.01750)
+    + [Deep Saliency Models : The Quest For The Loss Function](https://arxiv.org/abs/1907.02336)
     + [Mapped Convolutions](https://arxiv.org/abs/1906.11096)[[Code]](https://github.com/meder411/MappedConvolutions)
     + [Zero-Shot Image Classification Using Coupled Dictionary Embedding](https://arxiv.org/abs/1906.10509)
     + [Dense Scale Network for Crowd Counting](https://arxiv.org/abs/1906.09707)
@@ -476,11 +492,14 @@ CV-News
 ## 2019
   - CVPR 2019
      + [3D Appearance Super-Resolution with Deep Learning](https://arxiv.org/abs/1906.00925)[[Pytorch]](https://github.com/ofsoundof/3D_Appearance_SR)
+     + [Multi-scale GANs for Memory-efficient Generation of High Resolution Medical Images](https://arxiv.org/abs/1907.01376)
   - Medical
     + [Medical image super-resolution method based on dense blended attention network](https://arxiv.org/abs/1905.05084)
     + [Progressive Generative Adversarial Networks for Medical Image Super resolution(Feb 2019)](https://arxiv.org/abs/1902.02144)
     + [How Can We Make GAN Perform Better in Single Medical Image Super-Resolution? A Lesion Focused Multi-Scale Approach](https://arxiv.org/abs/1901.03419)[ISBI2019]
   - Arxiv
+    + [Super-Resolution of PROBA-V Images Using Convolutional Neural Networks](https://arxiv.org/abs/1907.01821)
+    + [Edge-Aware Deep Image Deblurring](https://arxiv.org/abs/1907.02282)
     + [Lightweight Image Super-Resolution with Adaptive Weighted Learning Network(Apr 2019)](https://arxiv.org/abs/1904.02358)[[Code]](https://github.com/ChaofWang/AWSRN)
     + [Multi-scale deep neural networks for real image super-resolution(Apr 2019)](https://arxiv.org/abs/1904.10698)
     + [Adaptive Transform Domain Image Super-resolution Via Orthogonally Regularized Deep Networks](https://arxiv.org/abs/1904.10082)
@@ -497,7 +516,12 @@ CV-News
     + [Bayesian Image Quality Transfer with CNNs: Exploring Uncertainty in dMRI Super-Resolution](https://arxiv.org/abs/1705.00664)
     + [DOTE: Dual cOnvolutional filTer lEarning for Super-Resolution and Cross-Modality Synthesis in MRI](https://arxiv.org/abs/1706.04954)
 # Registration
+  - MICCAI2019
+    + [Probabilistic Multilayer Regularization Network for Unsupervised 3D Brain Image Registration](https://arxiv.org/abs/1907.01922)
+    + [Unsupervised Deformable Image Registration Using Cycle-Consistent CNN](https://arxiv.org/abs/1907.01319)
+    + [Bayesian Optimization on Large Graphs via a Graph Convolutional Generative Model: Application in Cardiac Model Personalization(Jul 2019)](https://arxiv.org/abs/1907.01406)
   - arxiv
+    + [Automated Image Registration Quality Assessment Utilizing Deep-learning based Ventricle Extraction in Clinical Data(Jul 2019))](https://arxiv.org/abs/1907.00695)
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
     + [3DRegNet: A Deep Neural Network for 3D Point Registration( Apr 2019)](https://arxiv.org/abs/1904.01701)
     + [Non-Rigid Point Set Registration Networks(Apr 2019)](https://arxiv.org/abs/1904.01428)[[Pytorch]](https://github.com/Lingjing324/PR-Net)   
