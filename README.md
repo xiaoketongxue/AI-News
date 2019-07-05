@@ -265,6 +265,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [A multi-task U-net for segmentation with lazy labels(20 Jun)](https://arxiv.org/abs/1906.12177)
     + [An Efficient Solution for Breast Tumor Segmentation and Classification in Ultrasound Images Using Deep Adversarial LearningJul 2019)](https://arxiv.org/abs/1907.00887)
     + [CaDSS: Cataract Dataset for Semantic Segmentation](https://arxiv.org/abs/1906.11586)
     + [Multi-Scale Attentional Network for Multi-Focal Segmentation of Active Bleed after Pelvic Fractures](https://arxiv.org/abs/1906.09540)
