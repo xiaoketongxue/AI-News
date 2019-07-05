@@ -45,6 +45,8 @@ CV-News
   - ICIP2019
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
+  - SPL
+    + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
     + [Slim-CNN: A Light-Weight CNN for Face Attribute Prediction](https://arxiv.org/abs/1907.02157)
     + [ELKPPNet: An Edge-aware Neural Network with Large Kernel Pyramid Pooling for Learning Discriminative Features in Semantic Segmentation](https://arxiv.org/abs/1906.11428)
@@ -318,6 +320,7 @@ CV-News
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [Improving 3D U-Net for Brain Tumor Segmentation by Utilizing Lesion Prior(29 Jun )](https://arxiv.org/abs/1907.00281)
     + [Improving the generalizability of convolutional neural network-based segmentation on CMR images](https://arxiv.org/abs/1907.01268)
     + [CSSegNet: Fine-Grained Cardiac Structures Segmentation Using Dilated Pyramid Pooling in U-net](https://arxiv.org/abs/1907.01390)
     + [Anatomically Consistent Segmentation of Organs at Risk in MRI with Convolutional Neural Networks](https://arxiv.org/abs/1907.02003)
@@ -431,10 +434,14 @@ CV-News
     + [Bag of Tricks for Image Classification with Convolutional Neural Networks(Dec 2018)](https://arxiv.org/abs/1812.01187)[[Code]](https://gluon-cv.mxnet.io/)
     + [An attention-based multi-resolution model for prostate whole slide imageclassification and localization](https://arxiv.org/abs/1905.13208)[CVPRW]
     + [On-Device Neural Net Inference with Mobile GPUs](https://arxiv.org/abs/1907.01989)[CVPRW]
+  - ISBI 2019
+    + [Improved ICH classification using task-dependent learning(29 Jun )](https://arxiv.org/list/cs.CV/pastweek?skip=125&show=25)
   - ICML 2019
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Dissecting Pruned Neural Networks(29 Jun)](https://arxiv.org/abs/1907.00262)
+    + [Difficulty-aware Meta-Learning for Rare Disease Diagnosis( 30 Jun )](https://arxiv.org/abs/1907.00354)
     + [Attention routing between capsules](https://arxiv.org/abs/1907.01750)
     + [Deep Saliency Models : The Quest For The Loss Function](https://arxiv.org/abs/1907.02336)
     + [Mapped Convolutions](https://arxiv.org/abs/1906.11096)[[Code]](https://github.com/meder411/MappedConvolutions)
@@ -520,6 +527,7 @@ CV-News
     + [Probabilistic Multilayer Regularization Network for Unsupervised 3D Brain Image Registration](https://arxiv.org/abs/1907.01922)
     + [Unsupervised Deformable Image Registration Using Cycle-Consistent CNN](https://arxiv.org/abs/1907.01319)
     + [Bayesian Optimization on Large Graphs via a Graph Convolutional Generative Model: Application in Cardiac Model Personalization(Jul 2019)](https://arxiv.org/abs/1907.01406)
+    + [Conditional Segmentation in Lieu of Image Registration(30 Jun)](https://arxiv.org/abs/1907.00438)
   - arxiv
     + [Automated Image Registration Quality Assessment Utilizing Deep-learning based Ventricle Extraction in Clinical Data(Jul 2019))](https://arxiv.org/abs/1907.00695)
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
