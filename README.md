@@ -230,6 +230,7 @@ CV-News
     + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
     + [Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation](https://arxiv.org/abs/1906.11143)[[Pytorch]](https://github.com/EmmaW8/BEAL)
     + [Supervised Uncertainty Quantification for Segmentation with Multiple Annotations](https://arxiv.org/abs/1907.01949)
+    + [Adversarial Learning with Multiscale Features and Kernel Factorization for Retinal Blood Vessel Segmentation(5 Jul)](https://arxiv.org/abs/1907.02742)
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -315,6 +316,8 @@ CV-News
     + [Decompose-and-Integrate Learning for Multi-class Segmentation in Medical Images](https://arxiv.org/abs/1906.02901)
     + [PseudoEdgeNet: Nuclei Segmentation only with Point Annotations](https://arxiv.org/abs/1906.02924)
     + [PHiSeg: Capturing Uncertainty in Medical Image Segmentation](https://arxiv.org/search/?query=MICCAI+2019&searchtype=all&source=header)
+    + [Cardiac MRI Segmentation with Strong Anatomical Guarantees(5 Jul)](https://arxiv.org/abs/1907.02865)
+    + [Data Efficient Unsupervised Domain Adaptation for Cross-Modality Image Segmentation(5 Jul)](https://arxiv.org/abs/1907.02766)
   - IPMI
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
   - ISBI2019
@@ -420,6 +423,7 @@ CV-News
 ## 2019
   - MICCAI2019
     + [Multi-Instance Multi-Scale CNN for Medical Image Classification](https://arxiv.org/abs/1907.02413)
+    + [Degenerative Adversarial NeuroImage Nets: Generating Images that Mimic Disease Progression](https://arxiv.org/abs/1907.02787)
   - Exploring Randomly Wired Neural Networks
     + [Exploring Randomly Wired Neural Networks for Image Recognition（Apr 2019）](https://arxiv.org/abs/1904.01569)[[Pyroech]](https://github.com/yoheikikuta/senet-keras/tree/master/model)
     + [Network Pruning via Transformable Architecture Search(May 2019)](https://arxiv.org/abs/1905.09717)[[Code]](https://github.com/D-X-Y/TAS)
