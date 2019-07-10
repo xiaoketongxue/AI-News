@@ -507,6 +507,8 @@ CV-News
   - CVPR 2019
      + [3D Appearance Super-Resolution with Deep Learning](https://arxiv.org/abs/1906.00925)[[Pytorch]](https://github.com/ofsoundof/3D_Appearance_SR)
      + [Multi-scale GANs for Memory-efficient Generation of High Resolution Medical Images](https://arxiv.org/abs/1907.01376)
+  - BMVC2019
+     + [Gated Multiple Feedback Network for Image Super-Resolution](https://arxiv.org/abs/1907.04253)[[Code]](https://github.com/liqilei/GMFN)
   - Medical
     + [Medical image super-resolution method based on dense blended attention network](https://arxiv.org/abs/1905.05084)
     + [Progressive Generative Adversarial Networks for Medical Image Super resolution(Feb 2019)](https://arxiv.org/abs/1902.02144)
