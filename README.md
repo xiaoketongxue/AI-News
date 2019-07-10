@@ -1,6 +1,6 @@
 CV-News
 ======
-- [x] [Semantation](#Segmentation) [Semantation](https://github.com/xiaoketongxue/CV-News/blob/master/Semantation.md)
+- [x] [Semantation](#Segmentation) [Semantation(new)](https://github.com/xiaoketongxue/CV-News/blob/master/Semantation.md)
 - [x] [Classification](#Classification)  
 - [x] [Graph Neural Networks](#Graph-Neural-Networks)    
 - [x] [Super-Resolution](#Super-Resolution )    
