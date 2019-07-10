@@ -447,6 +447,8 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Multi-level Wavelet Convolutional Neural Networks](https://arxiv.org/abs/1907.03128)[[Pytorch]](https://github.com/lpj-github-io/MWCNNv2)
+    + [Point-Voxel CNN for Efficient 3D Deep Learning](https://arxiv.org/abs/1907.03739)
     + [AutoSlim: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates](https://arxiv.org/abs/1907.03141)
     + [Dissecting Pruned Neural Networks(29 Jun)](https://arxiv.org/abs/1907.00262)
     + [Difficulty-aware Meta-Learning for Rare Disease Diagnosis( 30 Jun )](https://arxiv.org/abs/1907.00354)
@@ -515,6 +517,7 @@ CV-News
     + [Progressive Generative Adversarial Networks for Medical Image Super resolution(Feb 2019)](https://arxiv.org/abs/1902.02144)
     + [How Can We Make GAN Perform Better in Single Medical Image Super-Resolution? A Lesion Focused Multi-Scale Approach](https://arxiv.org/abs/1901.03419)[ISBI2019]
   - Arxiv
+    + [FC2N: Fully Channel-Concatenated Network for Single Image Super-Resolution](https://arxiv.org/pdf/1907.03221.pdf)
     + [Super-Resolution of PROBA-V Images Using Convolutional Neural Networks](https://arxiv.org/abs/1907.01821)
     + [Edge-Aware Deep Image Deblurring](https://arxiv.org/abs/1907.02282)
     + [Lightweight Image Super-Resolution with Adaptive Weighted Learning Network(Apr 2019)](https://arxiv.org/abs/1904.02358)[[Code]](https://github.com/ChaofWang/AWSRN)
