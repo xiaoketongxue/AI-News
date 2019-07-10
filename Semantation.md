@@ -396,3 +396,11 @@
     + [Weakly- and Semi-Supervised Panoptic Segmentation(Aug 2018)](https://arxiv.org/abs/1808.03575)
   other 
     + [Learning to Fuse Things and Stuff(Dec 2018)](https://arxiv.org/abs/1812.01192)
+ ## Video-Segmentation
+ ### 2019
+  - CVPR 2019
+    + [Spatiotemporal CNN for Video Object Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02363)[[Code]](https://github.com/longyin880815/STCNN)
+  - other
+    + [Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation(Jul 2019)](https://arxiv.org/abs/1907.01203)
+    + [Video Instance Segmentation](https://arxiv.org/abs/1905.04804)
+    + [MAIN: Multi-Attention Instance Network for Video Segmentation](https://arxiv.org/abs/1904.05847)
