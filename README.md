@@ -447,6 +447,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [AutoSlim: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates](https://arxiv.org/abs/1907.03141)
     + [Dissecting Pruned Neural Networks(29 Jun)](https://arxiv.org/abs/1907.00262)
     + [Difficulty-aware Meta-Learning for Rare Disease Diagnosis( 30 Jun )](https://arxiv.org/abs/1907.00354)
     + [Attention routing between capsules](https://arxiv.org/abs/1907.01750)
