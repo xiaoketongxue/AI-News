@@ -37,6 +37,7 @@
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [SAN: Scale-Aware Network for Semantic Segmentation of High-Resolution Aerial Images](https://arxiv.org/abs/1907.03089)
     + [Slim-CNN: A Light-Weight CNN for Face Attribute Prediction](https://arxiv.org/abs/1907.02157)
     + [ELKPPNet: An Edge-aware Neural Network with Large Kernel Pyramid Pooling for Learning Discriminative Features in Semantic Segmentation](https://arxiv.org/abs/1906.11428)
     + [Hard Pixels Mining: Learning Using Privileged Information for Semantic Segmentation](https://arxiv.org/abs/1906.11437)
@@ -215,6 +216,8 @@
 ## 2D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Assessing Reliability and Challenges of Uncertainty Estimations for Medical Image Segmentation](https://arxiv.org/abs/1907.03338)
+    + [Learning joint lesion and tissue segmentation from task-specific hetero-modal datasets](https://arxiv.org/abs/1907.03327)
     + [INN: Inflated Neural Networks for IPMN Diagnosis(30 Jun)](https://arxiv.org/abs/1907.00437)
     + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
     + [Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation](https://arxiv.org/abs/1906.11143)[[Pytorch]](https://github.com/EmmaW8/BEAL)
@@ -255,6 +258,7 @@
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [ASCNet: Adaptive-Scale Convolutional Neural Networks for Multi-Scale Feature Learning](https://arxiv.org/abs/1907.03241)
     + [DSNet: Automatic Dermoscopic Skin Lesion Segmentation](https://arxiv.org/abs/1907.04305)[[Code]](https://github.com/kamruleee51/Skin-Lesion-Segmentation-Using-Proposed-DSNet)
     + [A multi-task U-net for segmentation with lazy labels(20 Jun)](https://arxiv.org/abs/1906.12177)
     + [An Efficient Solution for Breast Tumor Segmentation and Classification in Ultrasound Images Using Deep Adversarial LearningJul 2019)](https://arxiv.org/abs/1907.00887)
