@@ -297,6 +297,7 @@
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Improving Deep Lesion Detection Using 3D Contextual and Spatial Attention](https://arxiv.org/abs/1907.04052)
     + [Permutohedral Attention Module for Efficient Non-Local Neural Networks(Jul 2019)](https://arxiv.org/abs/1907.00641)
     + [A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation](https://arxiv.org/abs/1906.06148)[[Pytorch]](https://github.com/RobinBruegger)[[Pytorch2]](https://github.com/RobinBruegger/PartiallyReversibleUnet)
     + [Project & Excite Modules for Segmentation of Volumetric Medical Scans](https://arxiv.org/abs/1906.04649)[[Pytorch]](https://github.com/ai-med/squeeze_and_excitation)
@@ -308,12 +309,14 @@
     + [PHiSeg: Capturing Uncertainty in Medical Image Segmentation](https://arxiv.org/search/?query=MICCAI+2019&searchtype=all&source=header)
     + [Cardiac MRI Segmentation with Strong Anatomical Guarantees(5 Jul)](https://arxiv.org/abs/1907.02865)
     + [Data Efficient Unsupervised Domain Adaptation for Cross-Modality Image Segmentation(5 Jul)](https://arxiv.org/abs/1907.02766)
-  - IPMI
+  - IPMI2019
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
+    + [Accurate Nuclear Segmentation with \\Center Vector Encoding](https://arxiv.org/abs/1907.03951)
   - ISBI2019
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [Brain Tissues Segmentation on MR Perfusion Images Using CUSUM Filter for Boundary Pixels](https://arxiv.org/abs/1907.03865)
     + [Improving 3D U-Net for Brain Tumor Segmentation by Utilizing Lesion Prior(29 Jun )](https://arxiv.org/abs/1907.00281)
     + [Improving the generalizability of convolutional neural network-based segmentation on CMR images](https://arxiv.org/abs/1907.01268)
     + [CSSegNet: Fine-Grained Cardiac Structures Segmentation Using Dilated Pyramid Pooling in U-net](https://arxiv.org/abs/1907.01390)
