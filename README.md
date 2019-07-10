@@ -5,6 +5,7 @@ CV-News
 - [x] [Graph Neural Networks](#Graph-Neural-Networks)    
 - [x] [Super-Resolution](#Super-Resolution )    
 - [x] [Registration](#Registration)  
+- [x] [Normalization](#Normalization)   
 - [x] [Survey](#Survey)   
 - [x] [Dataset](#Dataset)  
 - [x] [Conference and Journal ](#Conference-and-Journal )  
@@ -266,6 +267,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [DSNet: Automatic Dermoscopic Skin Lesion Segmentation](https://arxiv.org/abs/1907.04305)[[Code]](https://github.com/kamruleee51/Skin-Lesion-Segmentation-Using-Proposed-DSNet)
     + [A multi-task U-net for segmentation with lazy labels(20 Jun)](https://arxiv.org/abs/1906.12177)
     + [An Efficient Solution for Breast Tumor Segmentation and Classification in Ultrasound Images Using Deep Adversarial LearningJul 2019)](https://arxiv.org/abs/1907.00887)
     + [CaDSS: Cataract Dataset for Semantic Segmentation](https://arxiv.org/abs/1906.11586)
@@ -540,6 +542,9 @@ CV-News
     + [Non-Rigid Point Set Registration Networks(Apr 2019)](https://arxiv.org/abs/1904.01428)[[Pytorch]](https://github.com/Lingjing324/PR-Net)   
     + [Automatic Nonrigid Histological Image Registration with Adaptive Multistep Algorithm(Apr 2019)](https://arxiv.org/abs/1904.00982)
     + [Palmprint image registration using convolutional neural networks and Hough transform(Apr 2019)](https://arxiv.org/abs/1904.00579)
+# Normalization
+  - 2019
+    [Positional Normalization](https://arxiv.org/abs/1907.04312)
 # Survey
   - 2019
     + [An Attentive Survey of Attention Models(Apr 2019)](https://arxiv.org/abs/1904.02874)
