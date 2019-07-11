@@ -253,7 +253,8 @@ CV-News
  Accept/Reject Notification：	2019-05-09    
  
  BMVC   
- BMVC2019 received 1008 submissions, of which 815 were valid. 
+ BMVC2019   
+ received 1008 submissions, of which 815 were valid. 
  Of these, a total of 231 papers were accepted 
  (38 as Oral Presentations, 193 as Poster Presentations).
  This amounts to a 28% acceptance rate
