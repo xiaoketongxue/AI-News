@@ -10,10 +10,6 @@ CV-News
 - [x] [Dataset](#Dataset)  
 - [x] [Conference and Journal ](#Conference-and-Journal )  
     
-# Graph Neural Networks
-  - 2019
-    + [Neighborhood Enlargement in Graph Neural Networks(May 2019)](https://arxiv.org/abs/1905.08509)[[Pytorch]](https://github.com/CODE-SUBMIT/Neighborhood-Enlargement-in-Graph-Network)
-    + [A Comparison of Stereo-Matching Cost between Convolutional Neural Network and Census for Satellite Images(May 2019)](https://arxiv.org/abs/1905.09147)
 # Classification
 ## 2019
   - MICCAI2019
@@ -97,7 +93,13 @@ CV-News
     + [Resource Efficient 3D Convolutional Neural Networks(Apr 2019)](https://arxiv.org/abs/1904.02422)[[Code]](https://github.com/okankop/Efficient-3DCNNs)
 ## 2017
   - CVPR 2017
-    + [DenseNet:Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)  
+    + [DenseNet:Densely Connected Convolutional Networks(Aug 2016)](https://arxiv.org/abs/1608.06993)
+    
+# Graph Neural Networks
+  - 2019
+    + [Neighborhood Enlargement in Graph Neural Networks(May 2019)](https://arxiv.org/abs/1905.08509)[[Pytorch]](https://github.com/CODE-SUBMIT/Neighborhood-Enlargement-in-Graph-Network)
+    + [A Comparison of Stereo-Matching Cost between Convolutional Neural Network and Census for Satellite Images(May 2019)](https://arxiv.org/abs/1905.09147)
+
 # Super-Resolution 
 ## 2019
   - CVPR 2019
