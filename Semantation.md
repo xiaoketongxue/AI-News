@@ -37,6 +37,7 @@
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation(12 Jul)](https://arxiv.org/abs/1907.05740)[Code](https://nv-tlabs.github.io/GSCNN/)
     + [SAN: Scale-Aware Network for Semantic Segmentation of High-Resolution Aerial Images](https://arxiv.org/abs/1907.03089)
     + [Slim-CNN: A Light-Weight CNN for Face Attribute Prediction](https://arxiv.org/abs/1907.02157)
     + [ELKPPNet: An Edge-aware Neural Network with Large Kernel Pyramid Pooling for Learning Discriminative Features in Semantic Segmentation](https://arxiv.org/abs/1906.11428)
