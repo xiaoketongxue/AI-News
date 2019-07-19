@@ -8,6 +8,8 @@
 
 ## Semantic Segmentation
 ### 2019
+  - NIPS 2019
+    + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - CVPR2019   
     + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)[[Pytorch]](https://github.com/MenghaoGuo/AutoDeeplab)
     + [Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images](https://arxiv.org/abs/1905.06368)[oral]
@@ -37,6 +39,10 @@
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [Adaptive Context Encoding Module for Semantic Segmentation](https://arxiv.org/abs/1907.06082)
+    + [Mango Tree Net -- A fully convolutional network for semantic segmentation and individual crown detection of mango trees](https://arxiv.org/abs/1907.06915)
+    + [Data Selection for training Semantic Segmentation CNNs with cross-dataset weak supervision](https://arxiv.org/abs/1907.07023)
+    + [Efficient Segmentation: Learning Downsampling Near Semantic Boundaries](https://arxiv.org/abs/1907.07156)
     + [VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing](https://arxiv.org/abs/1907.05653)
     + [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation(12 Jul)](https://arxiv.org/abs/1907.05740)[Code](https://nv-tlabs.github.io/GSCNN/)
     + [SAN: Scale-Aware Network for Semantic Segmentation of High-Resolution Aerial Images](https://arxiv.org/abs/1907.03089)
@@ -251,6 +257,7 @@
   - MIDI 2019
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
   - SCI
+    + [CA-RefineNet:A Dual Input WSI Image Segmentation Algorithm Based on Attention](https://arxiv.org/abs/1907.06358)
     + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,TMI]
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)[IEEE Transactions on Medical Imaging,TMI] 
     + [The Mutex Watershed and its Objective: Efficient, Parameter-Free Image Partitioning](https://arxiv.org/abs/1904.12654)[IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE]
@@ -318,10 +325,15 @@
   - IPMI2019
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
     + [Accurate Nuclear Segmentation with \\Center Vector Encoding](https://arxiv.org/abs/1907.03951)
+    + [X-Net: Brain Stroke Lesion Segmentation Based on Depthwise Separable Convolution and Long-range Dependencies](https://arxiv.org/abs/1907.07000)[[Keras]](https://github.com/Andrewsher/X-Net)
   - ISBI2019
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [AirwayNet: A Voxel-Connectivity Aware Approach for Accurate Airway Segmentation Using Convolutional Neural Networks](https://arxiv.org/abs/1907.06852)
+    + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)
+    + [CU-Net: Cascaded U-Net with Loss Weighted Sampling for Brain Tumor Segmentation](https://arxiv.org/abs/1907.07677)
+    + [A fully 3D multi-path convolutional neural network with feature fusion and feature weighting for automatic lesion identification in brain MRI images](https://arxiv.org/abs/1907.07807)
     + [Brain Tissues Segmentation on MR Perfusion Images Using CUSUM Filter for Boundary Pixels](https://arxiv.org/abs/1907.03865)
     + [Improving 3D U-Net for Brain Tumor Segmentation by Utilizing Lesion Prior(29 Jun )](https://arxiv.org/abs/1907.00281)
     + [Improving the generalizability of convolutional neural network-based segmentation on CMR images](https://arxiv.org/abs/1907.01268)
