@@ -310,6 +310,7 @@
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [X-Net: Brain Stroke Lesion Segmentation Based on Depthwise Separable Convolution and Long-range Dependencies](https://arxiv.org/abs/1907.07000)[[Keras]](https://github.com/Andrewsher/X-Net)
     + [Improving Deep Lesion Detection Using 3D Contextual and Spatial Attention](https://arxiv.org/abs/1907.04052)
     + [Permutohedral Attention Module for Efficient Non-Local Neural Networks(Jul 2019)](https://arxiv.org/abs/1907.00641)
     + [A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation](https://arxiv.org/abs/1906.06148)[[Pytorch]](https://github.com/RobinBruegger)[[Pytorch2]](https://github.com/RobinBruegger/PartiallyReversibleUnet)
@@ -325,7 +326,6 @@
   - IPMI2019
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
     + [Accurate Nuclear Segmentation with \\Center Vector Encoding](https://arxiv.org/abs/1907.03951)
-    + [X-Net: Brain Stroke Lesion Segmentation Based on Depthwise Separable Convolution and Long-range Dependencies](https://arxiv.org/abs/1907.07000)[[Keras]](https://github.com/Andrewsher/X-Net)
   - ISBI2019
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
