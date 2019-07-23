@@ -316,7 +316,7 @@
     + [Project & Excite Modules for Segmentation of Volumetric Medical Scans](https://arxiv.org/abs/1906.04649)[[Pytorch]](https://github.com/ai-med/squeeze_and_excitation)
     + [A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation](https://arxiv.org/abs/1906.06148)[[Pytorch]](https://github.com/RobinBruegger)[[Pytorch2]](https://github.com/RobinBruegger/PartiallyReversibleUnet)
     + [Improving Deep Lesion Detection Using 3D Contextual and Spatial Attention](https://arxiv.org/abs/1907.04052)
-    + [Permutohedral Attention Module for Efficient Non-Local Neural Networks(Jul 2019)](https://arxiv.org/abs/1907.00641)
+    + [Permutohedral Attention Module for Efficient Non-Local Neural Networks(Jul 2019)](https://arxiv.org/abs/1907.00641)[[Pytorch]](https://github.com/xiaoketongxue/Permutohedral_attention_module)
     + [Generative adversarial network for segmentation of motion affected neonatal brain MRI](https://arxiv.org/abs/1906.04704)
     + [Learning Shape Representation on Sparse Point Clouds for Volumetric Image Segmentation](https://arxiv.org/abs/1906.02281)
     + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
