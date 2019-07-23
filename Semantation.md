@@ -39,6 +39,7 @@
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks](https://arxiv.org/abs/1907.09438)
     + [Adaptive Context Encoding Module for Semantic Segmentation](https://arxiv.org/abs/1907.06082)
     + [Mango Tree Net -- A fully convolutional network for semantic segmentation and individual crown detection of mango trees](https://arxiv.org/abs/1907.06915)
     + [Data Selection for training Semantic Segmentation CNNs with cross-dataset weak supervision](https://arxiv.org/abs/1907.07023)
@@ -267,6 +268,7 @@
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Automated Muscle Segmentation from Clinical CT using Bayesian U-Net for Personalization of a Musculoskeletal Model](https://arxiv.org/abs/1907.08915)
     + [ASCNet: Adaptive-Scale Convolutional Neural Networks for Multi-Scale Feature Learning](https://arxiv.org/abs/1907.03241)
     + [DSNet: Automatic Dermoscopic Skin Lesion Segmentation](https://arxiv.org/abs/1907.04305)[[Code]](https://github.com/kamruleee51/Skin-Lesion-Segmentation-Using-Proposed-DSNet)
     + [A multi-task U-net for segmentation with lazy labels(20 Jun)](https://arxiv.org/abs/1906.12177)
@@ -330,6 +332,8 @@
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [Unsupervised Segmentation of Hyperspectral Images Using 3D Convolutional Autoencoders](https://arxiv.org/abs/1907.08870)
+    + [FD-FCN: 3D Fully Dense and Fully Convolutional Network for Semantic Segmentation of Brain Anatomy](https://arxiv.org/abs/1907.09194)
     + [AirwayNet: A Voxel-Connectivity Aware Approach for Accurate Airway Segmentation Using Convolutional Neural Networks](https://arxiv.org/abs/1907.06852)
     + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)
     + [CU-Net: Cascaded U-Net with Loss Weighted Sampling for Brain Tumor Segmentation](https://arxiv.org/abs/1907.07677)
