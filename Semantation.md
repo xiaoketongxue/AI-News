@@ -332,10 +332,10 @@
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)[Keras](https://github.com/YH0517/CLCI_Net)
     + [Unsupervised Segmentation of Hyperspectral Images Using 3D Convolutional Autoencoders](https://arxiv.org/abs/1907.08870)
     + [FD-FCN: 3D Fully Dense and Fully Convolutional Network for Semantic Segmentation of Brain Anatomy](https://arxiv.org/abs/1907.09194)
     + [AirwayNet: A Voxel-Connectivity Aware Approach for Accurate Airway Segmentation Using Convolutional Neural Networks](https://arxiv.org/abs/1907.06852)
-    + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)
     + [CU-Net: Cascaded U-Net with Loss Weighted Sampling for Brain Tumor Segmentation](https://arxiv.org/abs/1907.07677)
     + [A fully 3D multi-path convolutional neural network with feature fusion and feature weighting for automatic lesion identification in brain MRI images](https://arxiv.org/abs/1907.07807)
     + [Brain Tissues Segmentation on MR Perfusion Images Using CUSUM Filter for Boundary Pixels](https://arxiv.org/abs/1907.03865)
