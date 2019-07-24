@@ -235,7 +235,7 @@
   - MICCAI 2019
     + [Assessing Reliability and Challenges of Uncertainty Estimations for Medical Image Segmentation](https://arxiv.org/abs/1907.03338)
     + [Learning joint lesion and tissue segmentation from task-specific hetero-modal datasets](https://arxiv.org/abs/1907.03327)
-    + [INN: Inflated Neural Networks for IPMN Diagnosis(30 Jun)](https://arxiv.org/abs/1907.00437)
+    + [INN: Inflated Neural Networks for IPMN Diagnosis(30 Jun)](https://arxiv.org/abs/1907.00437)[[Code]](https://github.com/lalonderodney/INN-Inflated-Neural-Nets)
     + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
     + [Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation](https://arxiv.org/abs/1906.11143)[[Pytorch]](https://github.com/EmmaW8/BEAL)
     + [Supervised Uncertainty Quantification for Segmentation with Multiple Annotations](https://arxiv.org/abs/1907.01949)
