@@ -8,6 +8,9 @@
 
 ## Semantic Segmentation
 ### 2019
+  - ICCV2019
+    + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/abs/1907.10008)
+    + [Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682)
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - CVPR2019   
@@ -39,6 +42,9 @@
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [Make Skeleton-based Action Recognition Model Smaller, Faster and Better](https://arxiv.org/abs/1907.09658)
+    + [LYTNet: A Convolutional Neural Network for Real-Time Pedestrian Traffic Lights and Zebra Crossing Recognition for the Visually Impaired](https://arxiv.org/abs/1907.09706)
+    + [RRNet: Repetition-Reduction Network for Energy Efficient Decoder of Depth Estimation](https://arxiv.org/abs/1907.09707)
     + [Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks](https://arxiv.org/abs/1907.09438)
     + [Adaptive Context Encoding Module for Semantic Segmentation](https://arxiv.org/abs/1907.06082)
     + [Mango Tree Net -- A fully convolutional network for semantic segmentation and individual crown detection of mango trees](https://arxiv.org/abs/1907.06915)
