@@ -161,6 +161,7 @@ CV-News
   - IJCAI 2018
     + [High Resolution Feature Recovering for Accelerating Urban Scene Parsing](https://www.ijcai.org/proceedings/2018/0161.pdf)
   - Othes
+    + [Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation](https://arxiv.org/pdf/1907.10303.pdf)
     + [RelationNet: Learning Deep-Aligned Representation for Semantic Image Segmentation][ICPR]
     + [CCNet: Criss-Cross Attention for Semantic Segmentation(Nov 2018)](https://arxiv.org/abs/1811.11721)[[Pytorch]](https://github.com/speedinghzl/CCNet)
     + [OCNet: Object Context Network for Scene Parsing(Sep 2018)](https://arxiv.org/abs/1809.00916)[[Pytorch]](https://github.com/PkuRainBow/OCNet.pytorch)
