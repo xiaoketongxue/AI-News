@@ -1,3 +1,15 @@
+CV-News
+======
+- [x] [Semantation(new)](#Semantic-Segmentation)
+- [x] [Classification](#Classification)  
+- [x] [Graph Neural Networks](#Graph-Neural-Networks)    
+- [x] [Super-Resolution](#Super-Resolution )    
+- [x] [Registration](#Registration)  
+- [x] [Normalization](#Normalization)   
+- [x] [Survey](#Survey)   
+- [x] [Dataset](#Dataset)  
+- [x] [Conference and Journal ](#Conference-and-Journal ) 
+
 # Segmentation
 - [x] [Semantic Segmentation](#Semantic-Segmentation)
 - [x] [2D Medical Segmentation](#2D-Medical-Segmentation)
