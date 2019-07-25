@@ -32,7 +32,7 @@ CV-News
     + [On-Device Neural Net Inference with Mobile GPUs](https://arxiv.org/abs/1907.01989)[CVPRW]
   - ISBI 2019
     + [Improved ICH classification using task-dependent learning(29 Jun )](https://arxiv.org/list/cs.CV/pastweek?skip=125&show=25)
-  - ICML 2019
+  - ICML 2019   
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
