@@ -1,14 +1,14 @@
 CV-News
 ======
 - [x] [Semantation(new)](#Semantic-Segmentation)
-- [x] [Classification](#Classification)  
-- [x] [Graph Neural Networks](#Graph-Neural-Networks)    
-- [x] [Super-Resolution](#Super-Resolution )    
-- [x] [Registration](#Registration)  
-- [x] [Normalization](#Normalization)   
-- [x] [Survey](#Survey)   
-- [x] [Dataset](#Dataset)  
-- [x] [Conference and Journal ](#Conference-and-Journal ) 
+- [x] [Classification](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)  
+- [x] [Graph Neural Networks](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)    
+- [x] [Super-Resolution](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)    
+- [x] [Registration](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)  
+- [x] [Normalization](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)   
+- [x] [Survey](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)   
+- [x] [Dataset](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)  
+- [x] [Conference and Journal ](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md) 
 
 # Segmentation
 - [x] [Semantic Segmentation](#Semantic-Segmentation)
