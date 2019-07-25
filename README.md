@@ -246,6 +246,8 @@ CV-News
 ## 2D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Multi-task Localization and Segmentation for X-ray Guided Planning in Knee Surgery](https://arxiv.org/abs/1907.10465)
+    + [Mixed-Supervised Dual-Network for Medical Image Segmentation](https://arxiv.org/abs/1907.10209)
     + [Assessing Reliability and Challenges of Uncertainty Estimations for Medical Image Segmentation](https://arxiv.org/abs/1907.03338)[[Code]](https://github.com/alainjungo/reliability-challenges-uncertainty)
     + [INN: Inflated Neural Networks for IPMN Diagnosis(30 Jun)](https://arxiv.org/abs/1907.00437)[[Code]](https://github.com/lalonderodney/INN-Inflated-Neural-Nets)
     + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
@@ -353,6 +355,7 @@ CV-News
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - arxiv
+    + [Convolutional neural network stacking for medical image segmentation in CT scans](https://arxiv.org/abs/1907.10132)
     + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)[Keras](https://github.com/YH0517/CLCI_Net)
     + [Unsupervised Segmentation of Hyperspectral Images Using 3D Convolutional Autoencoders](https://arxiv.org/abs/1907.08870)
     + [FD-FCN: 3D Fully Dense and Fully Convolutional Network for Semantic Segmentation of Brain Anatomy](https://arxiv.org/abs/1907.09194)
