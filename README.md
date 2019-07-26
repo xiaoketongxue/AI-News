@@ -56,6 +56,8 @@ CV-News
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [SDNet: Semantically Guided Depth Estimation Network](https://arxiv.org/abs/1907.10659)
+    + [Self-supervised Domain Adaptation for Computer Vision Tasks](https://arxiv.org/abs/1907.10915)[Pytorch](https://github.com/Jiaolong/self-supervised-da)
     + [Make Skeleton-based Action Recognition Model Smaller, Faster and Better](https://arxiv.org/abs/1907.09658)
     + [LYTNet: A Convolutional Neural Network for Real-Time Pedestrian Traffic Lights and Zebra Crossing Recognition for the Visually Impaired](https://arxiv.org/abs/1907.09706)
     + [RRNet: Repetition-Reduction Network for Energy Efficient Decoder of Depth Estimation](https://arxiv.org/abs/1907.09707)
