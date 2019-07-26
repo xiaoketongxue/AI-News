@@ -133,6 +133,7 @@ CV-News
     + [DOTE: Dual cOnvolutional filTer lEarning for Super-Resolution and Cross-Modality Synthesis in MRI](https://arxiv.org/abs/1706.04954)
 # Registration
   - MICCAI2019
+    + [Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks](https://arxiv.org/abs/1907.10931)[Code](https://github.com/multimodallearning/pdd_net)
     + [Probabilistic Multilayer Regularization Network for Unsupervised 3D Brain Image Registration](https://arxiv.org/abs/1907.01922)
     + [Unsupervised Deformable Image Registration Using Cycle-Consistent CNN](https://arxiv.org/abs/1907.01319)
     + [Bayesian Optimization on Large Graphs via a Graph Convolutional Generative Model: Application in Cardiac Model Personalization(Jul 2019)](https://arxiv.org/abs/1907.01406)
