@@ -377,11 +377,11 @@ CV-News
     + [A sparse annotation strategy based on attention-guided active learning for 3D medical image segmentation](https://arxiv.org/abs/1906.07367)
     + [OctopusNet: A Deep Learning Segmentation Network for Multi-modal Medical Images](https://arxiv.org/abs/1906.02031)
     + [AssemblyNet: A Novel Deep Decision-Making Process for Whole Brain MRI Segmentation](https://arxiv.org/abs/1906.01862)
-    + [Fully Automated Pancreas Segmentation with Two-stage 3D Convolutional Neural Networks](https://arxiv.org/abs/1906.01795)
-    + [Generative Model-Based Ischemic Stroke Lesion Segmentation](https://arxiv.org/abs/1906.02392)
+    + [Fully Automated Pancreas Segmentation with Two-stage 3D Convolutional Neural Networks(Jun 2019)](https://arxiv.org/abs/1906.01795)[ cross-validation]
+    + [Generative Model-Based Ischemic Stroke Lesion Segmentation(Jun 2019)](https://arxiv.org/abs/1906.02392)
     + [Automated Segmentation for Hyperdense Middle Cerebral Artery Sign of Acute Ischemic Stroke on Non-Contrast CT Images(May 2019)](https://arxiv.org/abs/1905.09049)
-    + [3D Dense Separated Convolution Module for Volumetric Image Analysis(May 2019)](https://arxiv.org/abs/1905.08608)
-    + [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud（May 2019)]（https://arxiv.org/abs/1905.08748）  
+    + [3D Dense Separated Convolution Module for Volumetric Image Analysis(May 2019)](https://arxiv.org/abs/1905.08608)[[cross validation]]
+    + [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud（May 2019)](https://arxiv.org/abs/1905.08748)  
     + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
     + [Spherical U-Net on Cortical Surfaces: Methods and Applications(Apr 2019)](https://arxiv.org/abs/1904.00906)[cross-validation] 
     + [3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI(Apr 2019)](https://arxiv.org/abs/1904.03355)[[Pytorch]](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)[online-evaluation]
