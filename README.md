@@ -246,6 +246,7 @@ CV-News
 ## 2D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [ET-Net: A Generic Edge-aTtention Guidance Network for Medical Image Segmentation](https://arxiv.org/abs/1907.10936)[Code](https://github.com/ZzzJzzZ/ETNet)
     + [Multi-task Localization and Segmentation for X-ray Guided Planning in Knee Surgery](https://arxiv.org/abs/1907.10465)
     + [Mixed-Supervised Dual-Network for Medical Image Segmentation](https://arxiv.org/abs/1907.10209)
     + [Assessing Reliability and Challenges of Uncertainty Estimations for Medical Image Segmentation](https://arxiv.org/abs/1907.03338)[[Code]](https://github.com/alainjungo/reliability-challenges-uncertainty)
