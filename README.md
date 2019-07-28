@@ -26,7 +26,7 @@ CV-News
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - BMVC2019
-    + [MixNet: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595)
+    + [MixNet: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595)[Code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
   - CVPR2019   
     + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)[[Pytorch]](https://github.com/MenghaoGuo/AutoDeeplab)
     + [Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images](https://arxiv.org/abs/1905.06368)[oral]
