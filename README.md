@@ -27,6 +27,7 @@ CV-News
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - BMVC2019
     + [MixNet: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595)[Code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
+    + [DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation](https://arxiv.org/abs/1907.11357)[[Pytorch]](https://github.com/Reagan1311/DABNet)
   - CVPR2019   
     + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)[[Pytorch]](https://github.com/MenghaoGuo/AutoDeeplab)
     + [Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images](https://arxiv.org/abs/1905.06368)[oral]
@@ -50,8 +51,6 @@ CV-News
     + [The Ethical Dilemma when (not) Setting up Cost-based Decision Rules in Semantic Segmentation](https://arxiv.org/abs/1907.01342)
   - AAAI 2019
     + [Learning Fully Dense Neural Networks for Image Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.08929)
-  - BMVC2019
-    + [DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation](https://arxiv.org/abs/1907.11357)[[Pytorch]](https://github.com/Reagan1311/DABNet/new/master)
   - ICIP2019
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
