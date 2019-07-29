@@ -50,12 +50,15 @@ CV-News
     + [The Ethical Dilemma when (not) Setting up Cost-based Decision Rules in Semantic Segmentation](https://arxiv.org/abs/1907.01342)
   - AAAI 2019
     + [Learning Fully Dense Neural Networks for Image Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.08929)
+  - BMVC2019
+    + [DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation](https://arxiv.org/abs/1907.11357)[[Pytorch]](https://github.com/Reagan1311/DABNet/new/master)
   - ICIP2019
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [A Comparative Study of High-Recall Real-Time Semantic Segmentation Based on Swift Factorized Network](https://arxiv.org/abs/1907.11394)
     + [Semantic Deep Intermodal Feature Transfer: Transferring Feature Descriptors Between Imaging Modalities](https://arxiv.org/list/cs.CV/recent)
     + [Context-Integrated and Feature-Refined Network for Lightweight Urban Scene Parsing](https://arxiv.org/pdf/1907.11474.pdf)
     + [Single Level Feature-to-Feature Forecasting with Deformable Convolutions](https://arxiv.org/abs/1907.11475)
@@ -251,6 +254,8 @@ CV-News
 ## 2D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Recurrent Aggregation Learning for Multi-View Echocardiographic Sequences Segmentation](https://arxiv.org/abs/1907.11292)
+    + [NoduleNet: Decoupled False Positive Reductionfor Pulmonary Nodule Detection and Segmentation](https://arxiv.org/abs/1907.11320)
     + [ET-Net: A Generic Edge-aTtention Guidance Network for Medical Image Segmentation](https://arxiv.org/abs/1907.10936)[Code](https://github.com/ZzzJzzZ/ETNet)
     + [Multi-task Localization and Segmentation for X-ray Guided Planning in Knee Surgery](https://arxiv.org/abs/1907.10465)
     + [Mixed-Supervised Dual-Network for Medical Image Segmentation](https://arxiv.org/abs/1907.10209)
@@ -297,6 +302,8 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Annotation-Free Cardiac Vessel Segmentation via Knowledge Transfer from Retinal Images](https://arxiv.org/abs/1907.11483)
+    + [Self-Adaptive 2D-3D Ensemble of Fully Convolutional Networks for Medical Image Segmentation](https://arxiv.org/abs/1907.11587)
     + [Automated Muscle Segmentation from Clinical CT using Bayesian U-Net for Personalization of a Musculoskeletal Model](https://arxiv.org/abs/1907.08915)
     + [ASCNet: Adaptive-Scale Convolutional Neural Networks for Multi-Scale Feature Learning](https://arxiv.org/abs/1907.03241)
     + [DSNet: Automatic Dermoscopic Skin Lesion Segmentation](https://arxiv.org/abs/1907.04305)[[Code]](https://github.com/kamruleee51/Skin-Lesion-Segmentation-Using-Proposed-DSNet)
