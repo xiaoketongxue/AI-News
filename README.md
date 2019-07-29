@@ -56,6 +56,7 @@ CV-News
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [Semantic Deep Intermodal Feature Transfer: Transferring Feature Descriptors Between Imaging Modalities](https://arxiv.org/list/cs.CV/recent)
     + [Context-Integrated and Feature-Refined Network for Lightweight Urban Scene Parsing](https://arxiv.org/pdf/1907.11474.pdf)
     + [Single Level Feature-to-Feature Forecasting with Deformable Convolutions](https://arxiv.org/abs/1907.11475)
     + [SDNet: Semantically Guided Depth Estimation Network](https://arxiv.org/abs/1907.10659)
