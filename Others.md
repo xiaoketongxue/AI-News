@@ -36,6 +36,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [LinearConv: Regenerating Redundancy in Convolution Filters as Linear Combinations for Parameter Reduction](https://arxiv.org/abs/1907.11432)
     + [Universal Pooling -- A New Pooling Method for Convolutional Neural Networks](https://arxiv.org/abs/1907.11440)
     + [Context-Aware Multipath Networks](https://arxiv.org/list/cs.CV/recent)
     + [Multi-level Wavelet Convolutional Neural Networks](https://arxiv.org/abs/1907.03128)[[Pytorch]](https://github.com/lpj-github-io/MWCNNv2)
