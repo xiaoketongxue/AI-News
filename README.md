@@ -56,6 +56,7 @@ CV-News
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [Single Level Feature-to-Feature Forecasting with Deformable Convolutions](https://arxiv.org/abs/1907.11475)
     + [SDNet: Semantically Guided Depth Estimation Network](https://arxiv.org/abs/1907.10659)
     + [Self-supervised Domain Adaptation for Computer Vision Tasks](https://arxiv.org/abs/1907.10915)[Pytorch](https://github.com/Jiaolong/self-supervised-da)
     + [Make Skeleton-based Action Recognition Model Smaller, Faster and Better](https://arxiv.org/abs/1907.09658)
