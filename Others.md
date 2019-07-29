@@ -36,6 +36,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Context-Aware Multipath Networks](https://arxiv.org/list/cs.CV/recent)
     + [Multi-level Wavelet Convolutional Neural Networks](https://arxiv.org/abs/1907.03128)[[Pytorch]](https://github.com/lpj-github-io/MWCNNv2)
     + [Point-Voxel CNN for Efficient 3D Deep Learning](https://arxiv.org/abs/1907.03739)
     + [AutoSlim: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates](https://arxiv.org/abs/1907.03141)
