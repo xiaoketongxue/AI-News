@@ -60,6 +60,7 @@ CV-News
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [Grid Saliency for Context Explanations of Semantic Segmentation](https://arxiv.org/abs/1907.13054)
     + [A Comparative Study of High-Recall Real-Time Semantic Segmentation Based on Swift Factorized Network](https://arxiv.org/abs/1907.11394)
     + [Semantic Deep Intermodal Feature Transfer: Transferring Feature Descriptors Between Imaging Modalities](https://arxiv.org/list/cs.CV/recent)
     + [Context-Integrated and Feature-Refined Network for Lightweight Urban Scene Parsing](https://arxiv.org/pdf/1907.11474.pdf)
