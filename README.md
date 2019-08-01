@@ -256,6 +256,7 @@ CV-News
 ## 2D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation](https://arxiv.org/abs/1907.13124)[[Code]](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)
     + [Recurrent Aggregation Learning for Multi-View Echocardiographic Sequences Segmentation](https://arxiv.org/abs/1907.11292)
     + [NoduleNet: Decoupled False Positive Reductionfor Pulmonary Nodule Detection and Segmentation](https://arxiv.org/abs/1907.11320)
     + [ET-Net: A Generic Edge-aTtention Guidance Network for Medical Image Segmentation](https://arxiv.org/abs/1907.10936)[Code](https://github.com/ZzzJzzZ/ETNet)
@@ -304,6 +305,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation](https://arxiv.org/abs/1907.13590)
     + [Annotation-Free Cardiac Vessel Segmentation via Knowledge Transfer from Retinal Images](https://arxiv.org/abs/1907.11483)
     + [Self-Adaptive 2D-3D Ensemble of Fully Convolutional Networks for Medical Image Segmentation](https://arxiv.org/abs/1907.11587)
     + [Automated Muscle Segmentation from Clinical CT using Bayesian U-Net for Personalization of a Musculoskeletal Model](https://arxiv.org/abs/1907.08915)
