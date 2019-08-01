@@ -23,7 +23,8 @@ CV-News
   - ICCV2019
     + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/abs/1907.10008)
     + [Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682)
-    + [Expectation-Maximization Attention Networks for Semantic Segmentation(31 Jul)](https://arxiv.org/abs/1907.13426)[[Code]](https://github.com/XiaLiPKU/EMANet)
+    + [Expectation-Maximization Attention Networks for Semantic Segmentation(31 Jul)](https://arxiv.org/abs/1907.13426)[[Code]](https://github.com/XiaLiPKU/EMANet) 
+    + [Orientation-aware Semantic Segmentation on Icosahedron Spheres](https://arxiv.org/abs/1907.12849)
     + [Incremental Learning Techniques for Semantic Segmentation](https://arxiv.org/abs/1907.13372)
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
@@ -60,6 +61,9 @@ CV-News
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [DAR-Net: Dynamic Aggregation Network for Semantic Scene Segmentation](https://arxiv.org/abs/1907.12022)
+    + [Dilated Point Convolutions: On the Receptive Field of Point Convolutions](https://arxiv.org/abs/1907.12046)
+    + [ColorMapGAN: Unsupervised Domain Adaptation for Semantic Segmentation Using Color Mapping Generative Adversarial Networks](https://arxiv.org/abs/1907.12859)
     + [Grid Saliency for Context Explanations of Semantic Segmentation](https://arxiv.org/abs/1907.13054)
     + [A Comparative Study of High-Recall Real-Time Semantic Segmentation Based on Swift Factorized Network](https://arxiv.org/abs/1907.11394)
     + [Semantic Deep Intermodal Feature Transfer: Transferring Feature Descriptors Between Imaging Modalities](https://arxiv.org/list/cs.CV/recent)
@@ -257,6 +261,8 @@ CV-News
 ## 2D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Automated Lesion Detection by Regressing Intensity-Based Distance with a Neural Network](https://arxiv.org/abs/1907.12452)
+    + [Attention Guided Network for Retinal Image Segmentation](https://arxiv.org/abs/1907.12930)[Pytorch](https://github.com/HzFu/AGNet)
     + [Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation](https://arxiv.org/abs/1907.13124)[[Code]](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)
     + [Recurrent Aggregation Learning for Multi-View Echocardiographic Sequences Segmentation](https://arxiv.org/abs/1907.11292)
     + [NoduleNet: Decoupled False Positive Reductionfor Pulmonary Nodule Detection and Segmentation](https://arxiv.org/abs/1907.11320)
@@ -269,6 +275,7 @@ CV-News
     + [Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation](https://arxiv.org/abs/1906.11143)[[Pytorch]](https://github.com/EmmaW8/BEAL)[[Dataset]](https://refuge.grand-challenge.org/)
     + [Supervised Uncertainty Quantification for Segmentation with Multiple Annotations](https://arxiv.org/abs/1907.01949)
     + [Adversarial Learning with Multiscale Features and Kernel Factorization for Retinal Blood Vessel Segmentation(5 Jul)](https://arxiv.org/abs/1907.02742)
+    + [FocusNet: Imbalanced Large and Small Organ Segmentation with an End-to-End Deep Neural Network for Head and Neck CT Images](https://arxiv.org/abs/1907.12056)
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -306,6 +313,10 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Regularizing Proxies with Multi-Adversarial Training for Unsupervised Domain-Adaptive Semantic Segmentation](https://arxiv.org/abs/1907.12282)
+    + [A Two Stage GAN for High Resolution Retinal Image Generation and Segmentation](https://arxiv.org/abs/1907.12296)
+    + [Multi-Task Attention-Based Semi-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/1907.12303)
+    + [Lung image segmentation by generative adversarial networks](https://arxiv.org/abs/1907.13033)
     + [Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation](https://arxiv.org/abs/1907.13590)
     + [Annotation-Free Cardiac Vessel Segmentation via Knowledge Transfer from Retinal Images](https://arxiv.org/abs/1907.11483)
     + [Self-Adaptive 2D-3D Ensemble of Fully Convolutional Networks for Medical Image Segmentation](https://arxiv.org/abs/1907.11587)
@@ -375,6 +386,7 @@ CV-News
   - SCI
      + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [2D and 3D Segmentation of uncertain local collagen fiber orientations in SHG microscopy](https://arxiv.org/abs/1907.12868)
     + [Convolutional neural network stacking for medical image segmentation in CT scans](https://arxiv.org/abs/1907.10132)
     + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)[Keras](https://github.com/YH0517/CLCI_Net)
     + [Unsupervised Segmentation of Hyperspectral Images Using 3D Convolutional Autoencoders](https://arxiv.org/abs/1907.08870)
