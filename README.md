@@ -386,6 +386,7 @@ CV-News
   - SCI
      + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [A Unified Point-Based Framework for 3D Segmentation](https://arxiv.org/abs/1908.00478)
     + [2D and 3D Segmentation of uncertain local collagen fiber orientations in SHG microscopy](https://arxiv.org/abs/1907.12868)
     + [Convolutional neural network stacking for medical image segmentation in CT scans](https://arxiv.org/abs/1907.10132)
     + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)[Keras](https://github.com/YH0517/CLCI_Net)
