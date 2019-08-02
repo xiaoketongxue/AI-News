@@ -26,6 +26,7 @@ CV-News
     + [Expectation-Maximization Attention Networks for Semantic Segmentation(31 Jul)](https://arxiv.org/abs/1907.13426)[[Code]](https://github.com/XiaLiPKU/EMANet) 
     + [Orientation-aware Semantic Segmentation on Icosahedron Spheres](https://arxiv.org/abs/1907.12849)
     + [Incremental Learning Techniques for Semantic Segmentation](https://arxiv.org/abs/1907.13372)
+    + [Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion](https://arxiv.org/abs/1908.00382)
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - BMVC2019
@@ -61,6 +62,7 @@ CV-News
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [Learning Densities in Feature Space for Reliable Segmentation of Indoor Scenes](https://arxiv.org/abs/1908.00448)
     + [DAR-Net: Dynamic Aggregation Network for Semantic Scene Segmentation](https://arxiv.org/abs/1907.12022)
     + [Dilated Point Convolutions: On the Receptive Field of Point Convolutions](https://arxiv.org/abs/1907.12046)
     + [ColorMapGAN: Unsupervised Domain Adaptation for Semantic Segmentation Using Color Mapping Generative Adversarial Networks](https://arxiv.org/abs/1907.12859)
