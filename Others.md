@@ -156,6 +156,7 @@ CV-News
     [Positional Normalization](https://arxiv.org/abs/1907.04312)
 # Survey
   - 2019
+    + [A Survey on Deep Learning of Small Sample in Biomedical Image Analysis](https://arxiv.org/abs/1908.00473)
     + [Understanding Deep Learning Techniques for Image Segmentation](https://arxiv.org/abs/1907.06119)
     + [An Attentive Survey of Attention Models(Apr 2019)](https://arxiv.org/abs/1904.02874)
     + [Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)
