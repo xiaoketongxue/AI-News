@@ -63,6 +63,8 @@ CV-News
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [I Bet You Are Wrong: Gambling Adversarial Networks for Structured Semantic Segmentation](https://arxiv.org/abs/1908.02711)
+    + [EdgeNet: Semantic Scene Completion from RGB-D images](https://arxiv.org/abs/1908.02893)
     + [ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules](https://arxiv.org/abs/1908.03093)
     + [Learning Densities in Feature Space for Reliable Segmentation of Indoor Scenes](https://arxiv.org/abs/1908.00448)
     + [DAR-Net: Dynamic Aggregation Network for Semantic Scene Segmentation](https://arxiv.org/abs/1907.12022)
@@ -317,6 +319,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Learning Cross-Modal Deep Representations for Multi-Modal MR Image Segmentation](https://arxiv.org/abs/1908.01997)
     + [Regularizing Proxies with Multi-Adversarial Training for Unsupervised Domain-Adaptive Semantic Segmentation](https://arxiv.org/abs/1907.12282)
     + [A Two Stage GAN for High Resolution Retinal Image Generation and Segmentation](https://arxiv.org/abs/1907.12296)
     + [Multi-Task Attention-Based Semi-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/1907.12303)
@@ -390,6 +393,7 @@ CV-News
   - SCI
      + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [An attempt at beating the 3D U-Net](https://arxiv.org/abs/1908.02182)
     + [Multi Scale Supervised 3D U-Net for Kidney and Tumor Segmentation](https://arxiv.org/abs/1908.03204)
     + [A Unified Point-Based Framework for 3D Segmentation](https://arxiv.org/abs/1908.00478)
     + [2D and 3D Segmentation of uncertain local collagen fiber orientations in SHG microscopy](https://arxiv.org/abs/1907.12868)
