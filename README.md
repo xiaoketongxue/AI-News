@@ -448,6 +448,7 @@ CV-News
 ## Instance Segmentation
 ### 2019
   - CVPR 2019   
+    + [LVIS: A Dataset for Large Vocabulary Instance Segmentation](https://arxiv.org/abs/1908.03195)
     + [Hybrid Task Cascade for Instance Segmentation(Jan 2019)](https://arxiv.org/abs/1901.07518)[[Pytorch]](https://github.com/open-mmlab/mmdetection)
     + [Pose2Seg: Detection Free Human Instance Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10683)[[Code]](https://github.com/liruilong940607/OCHumanApi)  
     + [Budget-aware Semi-Supervised Semantic and Instance Segmentation](https://arxiv.org/abs/1905.05880)[[Workshop]]
