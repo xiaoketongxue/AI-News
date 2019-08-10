@@ -64,6 +64,7 @@ CV-News
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [MoGA: Searching Beyond MobileNetV3](https://arxiv.org/pdf/1908.01314.pdf)
     + [I Bet You Are Wrong: Gambling Adversarial Networks for Structured Semantic Segmentation](https://arxiv.org/abs/1908.02711)
     + [EdgeNet: Semantic Scene Completion from RGB-D images](https://arxiv.org/abs/1908.02893)
     + [ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules](https://arxiv.org/abs/1908.03093)
@@ -320,6 +321,8 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Automatic segmentation of kidney and liver tumors in CT images](https://arxiv.org/abs/1908.01279)
+    + [Unsupervised Microvascular Image Segmentation Using an Active Contours Mimicking Neural Network](https://arxiv.org/abs/1908.01373)
     + [Learning Cross-Modal Deep Representations for Multi-Modal MR Image Segmentation](https://arxiv.org/abs/1908.01997)
     + [Regularizing Proxies with Multi-Adversarial Training for Unsupervised Domain-Adaptive Semantic Segmentation](https://arxiv.org/abs/1907.12282)
     + [A Two Stage GAN for High Resolution Retinal Image Generation and Segmentation](https://arxiv.org/abs/1907.12296)
