@@ -63,6 +63,7 @@ CV-News
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules](https://arxiv.org/abs/1908.03093)
     + [Learning Densities in Feature Space for Reliable Segmentation of Indoor Scenes](https://arxiv.org/abs/1908.00448)
     + [DAR-Net: Dynamic Aggregation Network for Semantic Scene Segmentation](https://arxiv.org/abs/1907.12022)
     + [Dilated Point Convolutions: On the Receptive Field of Point Convolutions](https://arxiv.org/abs/1907.12046)
