@@ -12,6 +12,8 @@ CV-News
     
 # Classification
 ## 2019
+  - TIP
+    + [Learning Guided Convolutional Network for Depth Completion](https://arxiv.org/abs/1908.01238)
   - MICCAI2019
     + [Multi-Instance Multi-Scale CNN for Medical Image Classification](https://arxiv.org/abs/1907.02413)
     + [Degenerative Adversarial NeuroImage Nets: Generating Images that Mimic Disease Progression](https://arxiv.org/abs/1907.02787)
