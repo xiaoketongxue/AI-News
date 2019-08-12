@@ -29,6 +29,7 @@ CV-News
     + [Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion](https://arxiv.org/abs/1908.00382)
     + [Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821)[[tensorflow]](https://github.com/cardwing/Codes-for-Lane-Detection)
     + [SqueezeNAS: Fast neural architecture search for faster semantic segmentation](https://arxiv.org/abs/1908.01748)[[ICCVW]]
+    + [GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing](https://arxiv.org/abs/1908.03245)
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - BMVC2019
