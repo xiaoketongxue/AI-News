@@ -30,6 +30,8 @@ CV-News
     + [Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821)[[tensorflow]](https://github.com/cardwing/Codes-for-Lane-Detection)
     + [SqueezeNAS: Fast neural architecture search for faster semantic segmentation](https://arxiv.org/abs/1908.01748)[[ICCVW]]
     + [GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing](https://arxiv.org/abs/1908.03245)
+    + [Interpolated Convolutional Networks for 3D Point Cloud Understanding](https://arxiv.org/abs/1908.04512)
+
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - BMVC2019
@@ -309,6 +311,7 @@ CV-News
     + [Ultrasound segmentation using U-Net: learning from simulated data and testing on real data](https://arxiv.org/abs/1904.11031)[]
     + [RASNet: Segmentation for Tracking Surgical Instruments in Surgical Videos Using Refined Attention Segmentation Network(May 2019)](https://arxiv.org/abs/1905.08663)
   - MIDL 2019
+    + [Distance Map Loss Penalty Term for Semantic Segmentation](https://arxiv.org/abs/1908.03679)
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
    + [Learning joint lesion and tissue segmentation from task-specific hetero-modal datasets](https://arxiv.org/abs/1907.03327)
   - SCI
@@ -398,6 +401,9 @@ CV-News
   - SCI
      + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Automatic acute ischemic stroke lesion segmentation using semi-supervised learning](https://arxiv.org/abs/1908.03735)
+    + [Automated Brain Tumour Segmentation Using Deep Fully Convolutional Residual Networks](https://arxiv.org/abs/1908.04250)
+    + [Generalizing Deep Whole Brain Segmentation for Pediatric and Post-Contrast MRI with Augmented Transfer Learning](https://arxiv.org/abs/1908.04702)
     + [An attempt at beating the 3D U-Net](https://arxiv.org/abs/1908.02182)
     + [Multi Scale Supervised 3D U-Net for Kidney and Tumor Segmentation](https://arxiv.org/abs/1908.03204)
     + [A Unified Point-Based Framework for 3D Segmentation](https://arxiv.org/abs/1908.00478)
