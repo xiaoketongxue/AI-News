@@ -67,6 +67,7 @@ CV-News
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   - other
+    + [PS^2-Net: A Locally and Globally Aware Network for Point-Based Semantic Segmentation](https://arxiv.org/abs/1908.05425)
     + [MoGA: Searching Beyond MobileNetV3](https://arxiv.org/pdf/1908.01314.pdf)
     + [I Bet You Are Wrong: Gambling Adversarial Networks for Structured Semantic Segmentation](https://arxiv.org/abs/1908.02711)
     + [EdgeNet: Semantic Scene Completion from RGB-D images](https://arxiv.org/abs/1908.02893)
@@ -287,6 +288,7 @@ CV-News
     + [Supervised Uncertainty Quantification for Segmentation with Multiple Annotations](https://arxiv.org/abs/1907.01949)
     + [Adversarial Learning with Multiscale Features and Kernel Factorization for Retinal Blood Vessel Segmentation(5 Jul)](https://arxiv.org/abs/1907.02742)
     + [FocusNet: Imbalanced Large and Small Organ Segmentation with an End-to-End Deep Neural Network for Head and Neck CT Images](https://arxiv.org/abs/1907.12056)
+    + [Graph Convolutional Networks for Coronary Artery Segmentation in Cardiac CT Angiography](https://arxiv.org/abs/1908.05343)[Workshop]
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -325,6 +327,8 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems](https://arxiv.org/abs/1908.05480)
+    + [Conv-MCD: A Plug-and-Play Multi-task Module for Medical Image Segmentation](https://arxiv.org/abs/1908.05311)
     + [Automatic segmentation of kidney and liver tumors in CT images](https://arxiv.org/abs/1908.01279)
     + [Unsupervised Microvascular Image Segmentation Using an Active Contours Mimicking Neural Network](https://arxiv.org/abs/1908.01373)
     + [Learning Cross-Modal Deep Representations for Multi-Modal MR Image Segmentation](https://arxiv.org/abs/1908.01997)
@@ -401,6 +405,9 @@ CV-News
   - SCI
      + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Boosting Liver and Lesion Segmentation from CT Scans By Mask Mining](https://arxiv.org/abs/1908.05062)
+    + [Segmentation of Multimodal Myocardial Images Using Shape-Transfer GAN](https://arxiv.org/abs/1908.05094)
+    + [D-UNet: a dimension-fusion U shape network for chronic stroke lesion segmentation](https://arxiv.org/abs/1908.05104)
     + [Automatic acute ischemic stroke lesion segmentation using semi-supervised learning](https://arxiv.org/abs/1908.03735)
     + [Automated Brain Tumour Segmentation Using Deep Fully Convolutional Residual Networks](https://arxiv.org/abs/1908.04250)
     + [Generalizing Deep Whole Brain Segmentation for Pediatric and Post-Contrast MRI with Augmented Transfer Learning](https://arxiv.org/abs/1908.04702)
