@@ -51,7 +51,7 @@ CV-News
     + [Structured Knowledge Distillation for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04197)
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
     + [Cross-Modal Self-Attention Network for Referring Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.04745)
-    + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)   
+    + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)[[Pytorch]](https://github.com/xiaoketongxue/DUpsampling)
     + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/abs/1903.02351)
     + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
     + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
