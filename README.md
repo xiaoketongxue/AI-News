@@ -67,6 +67,8 @@ CV-News
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
+  -  IJCV
+    + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)
   - other
     + [PS^2-Net: A Locally and Globally Aware Network for Point-Based Semantic Segmentation](https://arxiv.org/abs/1908.05425)
     + [MoGA: Searching Beyond MobileNetV3](https://arxiv.org/pdf/1908.01314.pdf)
