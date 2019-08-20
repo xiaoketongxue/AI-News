@@ -31,6 +31,7 @@ CV-News
     + [SqueezeNAS: Fast neural architecture search for faster semantic segmentation](https://arxiv.org/abs/1908.01748)[[ICCVW]]
     + [GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing](https://arxiv.org/abs/1908.03245)
     + [Interpolated Convolutional Networks for 3D Point Cloud Understanding](https://arxiv.org/abs/1908.04512)
+    + [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)[Project]（https://nv-tlabs.github.io/GSCNN/）
 
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
