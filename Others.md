@@ -12,6 +12,8 @@ CV-News
     
 # Classification
 ## 2019
+  - ICCV 2019
+    + [Differentiable Learning-to-Group Channels via Groupable Convolutional Neural Networks](https://arxiv.org/abs/1908.05867)
   - TIP
     + [Learning Guided Convolutional Network for Depth Completion](https://arxiv.org/abs/1908.01238)
   - MICCAI2019
@@ -38,6 +40,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification](https://arxiv.org/abs/1908.06673)
     + [Pay attention to the activations: a modular attention mechanism for fine-grained image recognition](https://arxiv.org/abs/1907.13075)
     + [LinearConv: Regenerating Redundancy in Convolution Filters as Linear Combinations for Parameter Reduction](https://arxiv.org/abs/1907.11432)
     + [Universal Pooling -- A New Pooling Method for Convolutional Neural Networks](https://arxiv.org/abs/1907.11440)
@@ -108,6 +111,8 @@ CV-News
 
 # Super-Resolution 
 ## 2019
+  - ICCV 2019
+    + [RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution](https://arxiv.org/abs/1908.06382)[[Code]](https://wenlongzhang0724.github.io/Projects/RankSRGAN)
   - CVPR 2019
      + [3D Appearance Super-Resolution with Deep Learning](https://arxiv.org/abs/1906.00925)[[Pytorch]](https://github.com/ofsoundof/3D_Appearance_SR)
      + [Multi-scale GANs for Memory-efficient Generation of High Resolution Medical Images](https://arxiv.org/abs/1907.01376)
@@ -141,12 +146,14 @@ CV-News
   - ICCV
     + [Recursive Cascaded Networks for Unsupervised Medical Image Registration](https://arxiv.org/abs/1907.12353)
   - MICCAI2019
+    + [Conv2Warp: An unsupervised deformable image registration with continuous convolution and warping](https://arxiv.org/abs/1908.06194)
     + [Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks](https://arxiv.org/abs/1907.10931)[Code](https://github.com/multimodallearning/pdd_net)
     + [Probabilistic Multilayer Regularization Network for Unsupervised 3D Brain Image Registration](https://arxiv.org/abs/1907.01922)
     + [Unsupervised Deformable Image Registration Using Cycle-Consistent CNN](https://arxiv.org/abs/1907.01319)
     + [Bayesian Optimization on Large Graphs via a Graph Convolutional Generative Model: Application in Cardiac Model Personalization(Jul 2019)](https://arxiv.org/abs/1907.01406)
     + [Conditional Segmentation in Lieu of Image Registration(30 Jun)](https://arxiv.org/abs/1907.00438)
   - arxiv
+    + [Zero Shot Learning for Multi-Modal Real Time Image Registration](https://arxiv.org/abs/1908.06213)
     + [Automated Image Registration Quality Assessment Utilizing Deep-learning based Ventricle Extraction in Clinical Data(Jul 2019))](https://arxiv.org/abs/1907.00695)
     + [Robust, fast and accurate: a 3-step method for automatic histological image registration(Mar 2019)](https://arxiv.org/abs/1903.12063)
     + [3DRegNet: A Deep Neural Network for 3D Point Registration( Apr 2019)](https://arxiv.org/abs/1904.01701)
