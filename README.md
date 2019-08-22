@@ -21,6 +21,8 @@ CV-News
 ## Semantic Segmentation
 ### 2019
   - ICCV2019
+    + [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678)[[Code]](https://github.com/MendelXu/ANN)
+    + [Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation](https://arxiv.org/abs/1908.07669)
     + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/abs/1907.10008)
     + [Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682)
     + [Expectation-Maximization Attention Networks for Semantic Segmentation(31 Jul)](https://arxiv.org/abs/1907.13426)[[Code]](https://github.com/XiaLiPKU/EMANet) 
@@ -32,6 +34,7 @@ CV-News
     + [GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing](https://arxiv.org/abs/1908.03245)
     + [Interpolated Convolutional Networks for 3D Point Cloud Understanding](https://arxiv.org/abs/1908.04512)
     + [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)[Project]（https://nv-tlabs.github.io/GSCNN/）
+    + [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://arxiv.org/abs/1908.07325)[[Code]](https://github.com/HCPLab-SYSU/SSGRL)
 
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
@@ -70,6 +73,7 @@ CV-News
   -  IJCV
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)
   - other
+    + [Dynamic Graph Message Passing Networks](https://arxiv.org/abs/1908.06955)
     + [PS^2-Net: A Locally and Globally Aware Network for Point-Based Semantic Segmentation](https://arxiv.org/abs/1908.05425)
     + [MoGA: Searching Beyond MobileNetV3](https://arxiv.org/pdf/1908.01314.pdf)
     + [I Bet You Are Wrong: Gambling Adversarial Networks for Structured Semantic Segmentation](https://arxiv.org/abs/1908.02711)
@@ -330,6 +334,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Lung segmentation on chest x-ray images in patients with severe abnormal findings using deep learning](https://arxiv.org/abs/1908.07704)
     + [Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems](https://arxiv.org/abs/1908.05480)
     + [Conv-MCD: A Plug-and-Play Multi-task Module for Medical Image Segmentation](https://arxiv.org/abs/1908.05311)
     + [Automatic segmentation of kidney and liver tumors in CT images](https://arxiv.org/abs/1908.01279)
@@ -399,6 +404,9 @@ CV-News
     + [PHiSeg: Capturing Uncertainty in Medical Image Segmentation](https://arxiv.org/search/?query=MICCAI+2019&searchtype=all&source=header)
     + [Cardiac MRI Segmentation with Strong Anatomical Guarantees(5 Jul)](https://arxiv.org/abs/1907.02865)
     + [Data Efficient Unsupervised Domain Adaptation for Cross-Modality Image Segmentation(5 Jul)](https://arxiv.org/abs/1907.02766)
+    + [Automated Multi-sequence Cardiac MRI Segmentation Using Supervised Domain Adaptation](https://arxiv.org/abs/1908.07726)
+    + [Unsupervised Multi-modal Style Transfer for Cardiac MR Segmentation](https://arxiv.org/abs/1908.07344)
+    + [Endotracheal Tube Detection and Segmentation in Chest Radiographs using Synthetic Data](https://arxiv.org/abs/1908.07170)
   - IPMI2019
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
     + [Accurate Nuclear Segmentation with \\Center Vector Encoding](https://arxiv.org/abs/1907.03951)
@@ -408,6 +416,7 @@ CV-News
   - SCI
      + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Pixel-wise Segmentation of Right Ventricle of Heart](https://arxiv.org/abs/1908.08004)
     + [Boosting Liver and Lesion Segmentation from CT Scans By Mask Mining](https://arxiv.org/abs/1908.05062)
     + [Segmentation of Multimodal Myocardial Images Using Shape-Transfer GAN](https://arxiv.org/abs/1908.05094)
     + [D-UNet: a dimension-fusion U shape network for chronic stroke lesion segmentation](https://arxiv.org/abs/1908.05104)
@@ -473,6 +482,8 @@ CV-News
     
 ## Instance Segmentation
 ### 2019
+  - ICCV 2019
+    + [InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting](https://arxiv.org/abs/1908.07801)
   - CVPR 2019   
     + [LVIS: A Dataset for Large Vocabulary Instance Segmentation](https://arxiv.org/abs/1908.03195)
     + [Hybrid Task Cascade for Instance Segmentation(Jan 2019)](https://arxiv.org/abs/1901.07518)[[Pytorch]](https://github.com/open-mmlab/mmdetection)
