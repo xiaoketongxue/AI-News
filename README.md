@@ -304,6 +304,7 @@ CV-News
     + [Adversarial Learning with Multiscale Features and Kernel Factorization for Retinal Blood Vessel Segmentation(5 Jul)](https://arxiv.org/abs/1907.02742)
     + [FocusNet: Imbalanced Large and Small Organ Segmentation with an End-to-End Deep Neural Network for Head and Neck CT Images](https://arxiv.org/abs/1907.12056)
     + [Graph Convolutional Networks for Coronary Artery Segmentation in Cardiac CT Angiography](https://arxiv.org/abs/1908.05343)[Workshop]
+    + [U-Net Training with Instance-Layer Normalization](https://arxiv.org/abs/1908.08466)[[Workshop]]
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -334,6 +335,7 @@ CV-News
   - MLMI
    + [Deep Active Lesion Segmentation](https://arxiv.org/abs/1908.06933)
    + [Weakly Supervised Segmentation by A Deep Geodesic Prior](https://arxiv.org/abs/1908.06498)
+   + [Boundary Aware Networks for Medical Image Segmentation](https://arxiv.org/abs/1908.08071)
   - SCI
     + [CA-RefineNet:A Dual Input WSI Image Segmentation Algorithm Based on Attention](https://arxiv.org/abs/1907.06358)
     + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,TMI]
@@ -430,6 +432,7 @@ CV-News
   - SCI
      + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Optimal input configuration of dynamic contrast enhanced MRI in convolutional neural networks for liver segmentation](https://arxiv.org/abs/1908.08251)
     + [Discretely-constrained deep network for weakly supervised segmentation](https://arxiv.org/abs/1908.05770)
     + [Pixel-wise Segmentation of Right Ventricle of Heart](https://arxiv.org/abs/1908.08004)
     + [Boosting Liver and Lesion Segmentation from CT Scans By Mask Mining](https://arxiv.org/abs/1908.05062)
