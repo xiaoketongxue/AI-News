@@ -41,6 +41,7 @@ CV-News
     + [A Fast and Accurate One-Stage Approach to Visual Grounding](https://arxiv.org/abs/1908.06354)
     + [Context-Aware Emotion Recognition Networks](https://arxiv.org/abs/1908.05913)[[Code]](https://arxiv.org/abs/1908.05913)
     + [Mixed High-Order Attention Network for Person Re-Identification](https://arxiv.org/abs/1908.05819)[[Code]](http://www.bhchen.cn/)
+    + [Learning Filter Basis for Convolutional Neural Network Compression](https://arxiv.org/pdf/1908.08932.pdf)[[Pytorch]](https://github.com/ofsoundof/learning_filter_basis)
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - BMVC2019
@@ -305,6 +306,7 @@ CV-News
     + [FocusNet: Imbalanced Large and Small Organ Segmentation with an End-to-End Deep Neural Network for Head and Neck CT Images](https://arxiv.org/abs/1907.12056)
     + [Graph Convolutional Networks for Coronary Artery Segmentation in Cardiac CT Angiography](https://arxiv.org/abs/1908.05343)[Workshop]
     + [U-Net Training with Instance-Layer Normalization](https://arxiv.org/abs/1908.08466)[[Workshop]]
+    + [Cephalometric Landmark Detection by AttentiveFeature Pyramid Fusion and Regression-Voting](https://arxiv.org/abs/1908.08841)
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -336,6 +338,7 @@ CV-News
    + [Deep Active Lesion Segmentation](https://arxiv.org/abs/1908.06933)
    + [Weakly Supervised Segmentation by A Deep Geodesic Prior](https://arxiv.org/abs/1908.06498)
    + [Boundary Aware Networks for Medical Image Segmentation](https://arxiv.org/abs/1908.08071)
+   + [Automatic Rodent Brain MRI Lesion Segmentation with Fully Convolutional Networks](https://arxiv.org/abs/1908.08746)
   - SCI
     + [CA-RefineNet:A Dual Input WSI Image Segmentation Algorithm Based on Attention](https://arxiv.org/abs/1907.06358)
     + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,TMI]
@@ -423,6 +426,7 @@ CV-News
     + [Unsupervised Multi-modal Style Transfer for Cardiac MR Segmentation](https://arxiv.org/abs/1908.07344)
     + [Endotracheal Tube Detection and Segmentation in Chest Radiographs using Synthetic Data](https://arxiv.org/abs/1908.07170)
     + [Multi-step Cascaded Networks for Brain Tumor Segmentation](https://arxiv.org/abs/1908.05887)[[Code]](https://github.com/JohnleeHIT/Brats2019)
+    + [Topology-preserving augmentation for CNN-based segmentation of congenital heart defects from 3D paediatric CMR](https://arxiv.org/abs/1908.08870)[[MICCAI PIPPI]]
   - IPMI2019
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
     + [Accurate Nuclear Segmentation with \\Center Vector Encoding](https://arxiv.org/abs/1907.03951)
@@ -432,6 +436,7 @@ CV-News
   - SCI
      + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [A joint 3D UNet-Graph Neural Network-based method for Airway Segmentation from chest CTs](https://arxiv.org/abs/1908.08588)
     + [Optimal input configuration of dynamic contrast enhanced MRI in convolutional neural networks for liver segmentation](https://arxiv.org/abs/1908.08251)
     + [Discretely-constrained deep network for weakly supervised segmentation](https://arxiv.org/abs/1908.05770)
     + [Pixel-wise Segmentation of Right Ventricle of Heart](https://arxiv.org/abs/1908.08004)
