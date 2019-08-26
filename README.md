@@ -79,6 +79,7 @@ CV-News
   -  IJCV
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)
   - other
+    + [Consensus Feature Network for Scene Parsing](https://arxiv.org/abs/1907.12411)
     + [Semi-Supervised Semantic Segmentation with High- and Low-level Consistency](https://arxiv.org/abs/1908.05724)
     + [See Clearer at Night: Towards Robust Nighttime Semantic Segmentation through Day-Night Image Conversion](https://arxiv.org/abs/1908.05868)
     + [Adaptative Inference Cost With Convolutional Neural Mixture Models](https://arxiv.org/abs/1908.06694)
