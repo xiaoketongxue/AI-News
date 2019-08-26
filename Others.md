@@ -173,6 +173,7 @@ CV-News
     + [AI in the media and creative industries](https://arxiv.org/abs/1905.04175)
     + [Advancements in Image Classification using Convolutional Neural Network](https://arxiv.org/abs/1905.03288)
     + [A Review on Deep Learning in Medical Image Reconstruction](https://arxiv.org/abs/1906.10643)
+    + [A Review of Point Cloud Semantic Segmentation](https://arxiv.org/abs/1908.08854)
 # Dataset
 ## Medical
   - [All Challenges](https://grand-challenge.org/challenges/)
