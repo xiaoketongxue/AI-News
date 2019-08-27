@@ -14,6 +14,7 @@ CV-News
 ## 2019
   - ICCV 2019
     + [Differentiable Learning-to-Group Channels via Groupable Convolutional Neural Networks](https://arxiv.org/abs/1908.05867)
+    + [Embarrassingly Simple Binary Representation Learning](https://arxiv.org/abs/1908.09573)[[Workshop]]
   - TIP
     + [Learning Guided Convolutional Network for Depth Completion](https://arxiv.org/abs/1908.01238)
   - MICCAI2019
@@ -40,6 +41,9 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Gated Convolutional Networks with Hybrid Connectivity for Image Classification](https://arxiv.org/abs/1908.09699)
+    + [A Semantics-Guided Class Imbalance Learning Model for Zero-Shot Classification](https://arxiv.org/abs/1908.09745)
+    + [Multi-Path Learnable Wavelet Neural Network for Image Classification](https://arxiv.org/abs/1908.09775)
     + [Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification](https://arxiv.org/abs/1908.06673)
     + [Pay attention to the activations: a modular attention mechanism for fine-grained image recognition](https://arxiv.org/abs/1907.13075)
     + [LinearConv: Regenerating Redundancy in Convolution Filters as Linear Combinations for Parameter Reduction](https://arxiv.org/abs/1907.11432)
