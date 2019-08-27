@@ -21,6 +21,7 @@ CV-News
 ## Semantic Segmentation
 ### 2019
   - ICCV2019
+    + [SPGNet: Semantic Prediction Guidance for Scene Parsing](https://arxiv.org/abs/1908.097980)
     + [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678)[[Code]](https://github.com/MendelXu/ANN)
     + [Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation](https://arxiv.org/abs/1908.07669)
     + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/abs/1907.10008)
@@ -42,6 +43,8 @@ CV-News
     + [Context-Aware Emotion Recognition Networks](https://arxiv.org/abs/1908.05913)[[Code]](https://arxiv.org/abs/1908.05913)
     + [Mixed High-Order Attention Network for Person Re-Identification](https://arxiv.org/abs/1908.05819)[[Code]](http://www.bhchen.cn/)
     + [Learning Filter Basis for Convolutional Neural Network Compression](https://arxiv.org/pdf/1908.08932.pdf)[[Pytorch]](https://github.com/ofsoundof/learning_filter_basis)
+    + [Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels](https://arxiv.org/abs/1908.09597)
+    + [Deep Camera: A Fully Convolutional Neural Network for Image Signal Processing](https://arxiv.org/abs/1908.09191)[[workshop]]
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - BMVC2019
@@ -79,6 +82,10 @@ CV-News
   -  IJCV
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)
   - other
+    + [Where Is My Mirror?](https://arxiv.org/abs/1908.09101)
+    + [Don't ignore Dropout in Fully Convolutional Networks](https://arxiv.org/abs/1908.09162)
+    + [See More Than Once -- Kernel-Sharing Atrous Convolution for Semantic Segmentation](https://arxiv.org/abs/1908.09443)
+    + [Constructing Self-motivated Pyramid Curriculums for Cross-Domain Semantic Segmentation: A Non-Adversarial Approach](https://arxiv.org/abs/1908.09547)
     + [Consensus Feature Network for Scene Parsing](https://arxiv.org/abs/1907.12411)
     + [Semi-Supervised Semantic Segmentation with High- and Low-level Consistency](https://arxiv.org/abs/1908.05724)
     + [See Clearer at Night: Towards Robust Nighttime Semantic Segmentation through Day-Night Image Conversion](https://arxiv.org/abs/1908.05868)
@@ -308,6 +315,7 @@ CV-News
     + [Graph Convolutional Networks for Coronary Artery Segmentation in Cardiac CT Angiography](https://arxiv.org/abs/1908.05343)[Workshop]
     + [U-Net Training with Instance-Layer Normalization](https://arxiv.org/abs/1908.08466)[[Workshop]]
     + [Cephalometric Landmark Detection by AttentiveFeature Pyramid Fusion and Regression-Voting](https://arxiv.org/abs/1908.08841)
+    + [Estimation of preterm birth markers with U-Net segmentation network](https://arxiv.org/abs/1908.09148)[[Workshop]]
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -437,6 +445,7 @@ CV-News
   - SCI
      + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Adversarial Convolutional Networks with Weak Domain-Transfer for Multi-Sequence Cardiac MR Images Segmentation](https://arxiv.org/abs/1908.09298)
     + [A joint 3D UNet-Graph Neural Network-based method for Airway Segmentation from chest CTs](https://arxiv.org/abs/1908.08588)
     + [Optimal input configuration of dynamic contrast enhanced MRI in convolutional neural networks for liver segmentation](https://arxiv.org/abs/1908.08251)
     + [Discretely-constrained deep network for weakly supervised segmentation](https://arxiv.org/abs/1908.05770)
@@ -530,6 +539,7 @@ CV-News
     + [Interactive Full Image Segmentation by Considering All Regions Jointly](https://arxiv.org/abs/1812.01888)
     + [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
   - other
+    + [Generator evaluator-selector net: a modular approach for panoptic segmentation](https://arxiv.org/abs/1908.09108)
     + [Straight to Shapes++: Real-time Instance Segmentation Made More Accurate(May 2019)](https://arxiv.org/abs/1905.11358)
     + [DeeperLab: Single-Shot Image Parser(Feb 2019)](https://arxiv.org/abs/1902.05093)[[Code]]
     + [An End-to-End Network for Panoptic Segmentation(Mar 2019](https://arxiv.org/abs/1903.05027)
