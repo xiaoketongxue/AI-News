@@ -5,6 +5,7 @@ CV-News
 - [x] [Graph Neural Networks](#Graph-Neural-Networks)    
 - [x] [Super-Resolution](#Super-Resolution )    
 - [x] [Registration](#Registration)  
+- [x] [Reconstruction](#Reconstruction)
 - [x] [Normalization](#Normalization)   
 - [x] [Survey](#Survey)   
 - [x] [Dataset](#Dataset)  
@@ -164,6 +165,10 @@ CV-News
     + [Non-Rigid Point Set Registration Networks(Apr 2019)](https://arxiv.org/abs/1904.01428)[[Pytorch]](https://github.com/Lingjing324/PR-Net)   
     + [Automatic Nonrigid Histological Image Registration with Adaptive Multistep Algorithm(Apr 2019)](https://arxiv.org/abs/1904.00982)
     + [Palmprint image registration using convolutional neural networks and Hough transform(Apr 2019)](https://arxiv.org/abs/1904.00579)
+# Reconstruction
+  - 2019
+    + [Recon-GLGAN: A Global-Local context based Generative Adversarial Network for MRI Reconstruction](https://github.com/Bala93/Recon-GLGAN)[[MLMI]]
+    +[Fast Dynamic Perfusion and Angiography Reconstruction using an end-to-end 3D Convolutional Neural Network](https://arxiv.org/abs/1908.08947)
 # Normalization
   - 2019
     [Positional Normalization](https://arxiv.org/abs/1907.04312)
