@@ -148,6 +148,8 @@ CV-News
     + [Bayesian Image Quality Transfer with CNNs: Exploring Uncertainty in dMRI Super-Resolution](https://arxiv.org/abs/1705.00664)
     + [DOTE: Dual cOnvolutional filTer lEarning for Super-Resolution and Cross-Modality Synthesis in MRI](https://arxiv.org/abs/1706.04954)
 # Registration
+  - SCI 
+    + [3D Convolutional Neural Networks Image Registration Based on Efficient Supervised Learning from Artificial Deformations](https://arxiv.org/abs/1908.10235)[[TMI]]
   - ICCV
     + [Recursive Cascaded Networks for Unsupervised Medical Image Registration](https://arxiv.org/abs/1907.12353)
   - MICCAI2019
