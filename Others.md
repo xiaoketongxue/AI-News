@@ -171,6 +171,7 @@ CV-News
   - 2019
     + [Recon-GLGAN: A Global-Local context based Generative Adversarial Network for MRI Reconstruction](https://github.com/Bala93/Recon-GLGAN)[[MLMI]]
     +[Fast Dynamic Perfusion and Angiography Reconstruction using an end-to-end 3D Convolutional Neural Network](https://arxiv.org/abs/1908.08947)
+    + [Self-supervised Recurrent Neural Network for 4D Abdominal and In-utero MR Imaging](https://arxiv.org/abs/1908.10842)
 # Normalization
   - 2019
     [Positional Normalization](https://arxiv.org/abs/1907.04312)
@@ -188,6 +189,8 @@ CV-News
 # Dataset
 ## Medical
   - [All Challenges](https://grand-challenge.org/challenges/)
+  - [SPair-71k: A Large-scale Benchmark for Semantic Correspondence](https://arxiv.org/abs/1908.10543)
+  - [Image Harmonization Datasets: HCOCO, HAdobe5k, HFlickr, and Hday2night](https://arxiv.org/abs/1908.10526)
 ### Brain
   - Brain Tissue Segmentation
     + [MRBrainS2018](https://mrbrains18.isi.uu.nl/)
