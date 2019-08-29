@@ -296,6 +296,8 @@ CV-News
     + [Nonparametric Scene Parsing via Label Transfer](http://people.csail.mit.edu/celiu/pdfs/LabelTransferTPAMI.pdf)[TPAMI2011][[Project]](http://people.csail.mit.edu/celiu/LabelTransfer/code.html)
 ## 2D Medical Segmentation
 ### 2019
+  - ICCV 2019
+    + [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://arxiv.org/abs/1908.10555)
   - MICCAI 2019
     + [Automated Lesion Detection by Regressing Intensity-Based Distance with a Neural Network](https://arxiv.org/abs/1907.12452)
     + [Attention Guided Network for Retinal Image Segmentation](https://arxiv.org/abs/1907.12930)[Pytorch](https://github.com/HzFu/AGNet)
@@ -362,6 +364,9 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation](https://arxiv.org/abs/1908.10454)
+    + [Domain-Agnostic Learning with Anatomy-Consistent Embedding for Cross-Modality Liver Segmentation](https://arxiv.org/abs/1908.10489)
+    + [O-MedAL: Online Active Deep Learning for Medical Image Analysis](https://arxiv.org/abs/1908.10508)
     + [IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation](https://arxiv.org/abs/1908.06623)
     + [A unified representation network for segmentation with missing modalities](https://arxiv.org/abs/1908.06683)
     + [Lung segmentation on chest x-ray images in patients with severe abnormal findings using deep learning](https://arxiv.org/abs/1908.07704)
@@ -448,6 +453,7 @@ CV-News
   - SCI
      + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Transfer Learning from Partial Annotations for Whole Brain Segmentation](https://arxiv.org/abs/1908.10851)
     + [Global Planar Convolutions for improved context aggregation in Brain Tumor Segmentation](https://arxiv.org/abs/1908.10281)
     + [Adversarial Convolutional Networks with Weak Domain-Transfer for Multi-Sequence Cardiac MR Images Segmentation](https://arxiv.org/abs/1908.09298)
     + [A joint 3D UNet-Graph Neural Network-based method for Airway Segmentation from chest CTs](https://arxiv.org/abs/1908.08588)
@@ -564,6 +570,7 @@ CV-News
   - CVPR 2019
     + [Spatiotemporal CNN for Video Object Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02363)[[Code]](https://github.com/longyin880815/STCNN)
   - other
+    + [Fast Video Object Segmentation via Mask Transfer Network](https://arxiv.org/abs/1908.10717)
     + [Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation(Jul 2019)](https://arxiv.org/abs/1907.01203)
     + [Video Instance Segmentation](https://arxiv.org/abs/1905.04804)
     + [MAIN: Multi-Attention Instance Network for Video Segmentation](https://arxiv.org/abs/1904.05847)
