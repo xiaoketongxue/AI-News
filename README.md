@@ -567,6 +567,7 @@ CV-News
  ### 2019
   - ICCV 2019
     + [RANet: Ranking Attention Network for Fast Video Object Segmentation](https://arxiv.org/abs/1908.06647)[[Cpde]](https://github.com/Storife/RANet)
+    + [Exploiting Temporality for Semi-Supervised Video Segmentation](https://arxiv.org/abs/1908.11309)
   - CVPR 2019
     + [Spatiotemporal CNN for Video Object Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02363)[[Code]](https://github.com/longyin880815/STCNN)
   - other
