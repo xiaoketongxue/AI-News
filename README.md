@@ -299,6 +299,7 @@ CV-News
   - ICCV 2019
     + [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://arxiv.org/abs/1908.10555)
   - MICCAI 2019
+    + [U-Net Fixed-Point Quantization for Medical Image Segmentation](https://github.com/hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation)
     + [Automated Lesion Detection by Regressing Intensity-Based Distance with a Neural Network](https://arxiv.org/abs/1907.12452)
     + [Attention Guided Network for Retinal Image Segmentation](https://arxiv.org/abs/1907.12930)[Pytorch](https://github.com/HzFu/AGNet)
     + [Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation](https://arxiv.org/abs/1907.13124)[[Code]](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)
