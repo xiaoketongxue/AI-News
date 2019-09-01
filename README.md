@@ -427,6 +427,7 @@ CV-News
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI(Apr 2019)](https://arxiv.org/abs/1904.03355)[[Pytorch]](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)[online-evaluation]
     + [X-Net: Brain Stroke Lesion Segmentation Based on Depthwise Separable Convolution and Long-range Dependencies](https://arxiv.org/abs/1907.07000)[[Keras]](https://github.com/Andrewsher/X-Net)
     + [Project & Excite Modules for Segmentation of Volumetric Medical Scans](https://arxiv.org/abs/1906.04649)[[Pytorch]](https://github.com/ai-med/squeeze_and_excitation)
     + [A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation](https://arxiv.org/abs/1906.06148)[[Pytorch]](https://github.com/RobinBruegger)[[Pytorch2]](https://github.com/RobinBruegger/PartiallyReversibleUnet)
@@ -498,7 +499,6 @@ CV-News
     + [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud（May 2019)](https://arxiv.org/abs/1905.08748)  
     + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
     + [Spherical U-Net on Cortical Surfaces: Methods and Applications(Apr 2019)](https://arxiv.org/abs/1904.00906)[cross-validation] 
-    + [3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI(Apr 2019)](https://arxiv.org/abs/1904.03355)[[Pytorch]](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)[online-evaluation]
     + [Fully Automatic Segmentation of 3D Brain Ultrasound: Learning from Coarse Annotations(Apr 2019)](https://arxiv.org/abs/1904.08655)[cross-validation]  
 ### 2018
   - MICCAI 2018
