@@ -473,7 +473,7 @@ CV-News
     + [A Unified Point-Based Framework for 3D Segmentation](https://arxiv.org/abs/1908.00478)
     + [2D and 3D Segmentation of uncertain local collagen fiber orientations in SHG microscopy](https://arxiv.org/abs/1907.12868)
     + [Convolutional neural network stacking for medical image segmentation in CT scans](https://arxiv.org/abs/1907.10132)
-    + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)[Keras](https://github.com/YH0517/CLCI_Net)
+    + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)[Keras](https://github.com/YH0517/CLCI_Net)[[Keras]](https://github.com/YH0517/CLCI_Net)
     + [Unsupervised Segmentation of Hyperspectral Images Using 3D Convolutional Autoencoders](https://arxiv.org/abs/1907.08870)
     + [FD-FCN: 3D Fully Dense and Fully Convolutional Network for Semantic Segmentation of Brain Anatomy](https://arxiv.org/abs/1907.09194)
     + [AirwayNet: A Voxel-Connectivity Aware Approach for Accurate Airway Segmentation Using Convolutional Neural Networks](https://arxiv.org/abs/1907.06852)
