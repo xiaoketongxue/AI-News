@@ -6,6 +6,7 @@ CV-News
 - [x] [Super-Resolution](#Super-Resolution )    
 - [x] [Registration](#Registration)  
 - [x] [Reconstruction](#Reconstruction)
+- [x] [Face](#Face)
 - [x] [Normalization](#Normalization)   
 - [x] [Survey](#Survey)   
 - [x] [Dataset](#Dataset)  
@@ -14,6 +15,7 @@ CV-News
 # Classification
 ## 2019
   - ICCV 2019
+    + [Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)[Code](https://github.com/sagiebenaim/DomainIntersectionDifference)
     + [Differentiable Learning-to-Group Channels via Groupable Convolutional Neural Networks](https://arxiv.org/abs/1908.05867)
     + [Embarrassingly Simple Binary Representation Learning](https://arxiv.org/abs/1908.09573)[[Workshop]]
   - TIP
@@ -42,6 +44,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [EBPC: Extended Bit-Plane Compression for Deep Neural Network Inference and Training Accelerators](https://arxiv.org/abs/1908.11645)
     + [Gated Convolutional Networks with Hybrid Connectivity for Image Classification](https://arxiv.org/abs/1908.09699)
     + [A Semantics-Guided Class Imbalance Learning Model for Zero-Shot Classification](https://arxiv.org/abs/1908.09745)
     + [Multi-Path Learnable Wavelet Neural Network for Image Classification](https://arxiv.org/abs/1908.09775)
@@ -167,6 +170,9 @@ CV-News
     + [Non-Rigid Point Set Registration Networks(Apr 2019)](https://arxiv.org/abs/1904.01428)[[Pytorch]](https://github.com/Lingjing324/PR-Net)   
     + [Automatic Nonrigid Histological Image Registration with Adaptive Multistep Algorithm(Apr 2019)](https://arxiv.org/abs/1904.00982)
     + [Palmprint image registration using convolutional neural networks and Hough transform(Apr 2019)](https://arxiv.org/abs/1904.00579)
+# Face
+  - 2019
+    
 # Reconstruction
   - 2019
     + [Recon-GLGAN: A Global-Local context based Generative Adversarial Network for MRI Reconstruction](https://github.com/Bala93/Recon-GLGAN)[[MLMI]]
