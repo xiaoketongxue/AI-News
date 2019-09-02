@@ -45,6 +45,7 @@ CV-News
     + [Learning Filter Basis for Convolutional Neural Network Compression](https://arxiv.org/pdf/1908.08932.pdf)[[Pytorch]](https://github.com/ofsoundof/learning_filter_basis)
     + [Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels](https://arxiv.org/abs/1908.09597)
     + [Deep Camera: A Fully Convolutional Neural Network for Image Signal Processing](https://arxiv.org/abs/1908.09191)[[workshop]]
+    + [Dual Attention MobDenseNet(DAMDNet) for Robust 3D Face Alignment](https://arxiv.org/abs/1908.11821)[Code](https://github.com/LeiJiangJNU/DAMDNet)[[workshop]]
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - BMVC2019
@@ -82,6 +83,9 @@ CV-News
   -  IJCV
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)
   - other
+    + [Class-Based Styling: Real-time Localized Style Transfer with Semantic Segmentation](https://arxiv.org/abs/1908.11525)
+    + [Revisiting CycleGAN for semi-supervised segmentation](https://arxiv.org/abs/1908.11569)
+    + [LU-Net: An Efficient Network for 3D LiDAR Point Cloud Semantic Segmentation Based on End-to-End-Learned 3D Features and U-Net](https://arxiv.org/abs/1908.11656)
     + [Where Is My Mirror?](https://arxiv.org/abs/1908.09101)
     + [Don't ignore Dropout in Fully Convolutional Networks](https://arxiv.org/abs/1908.09162)
     + [See More Than Once -- Kernel-Sharing Atrous Convolution for Semantic Segmentation](https://arxiv.org/abs/1908.09443)
