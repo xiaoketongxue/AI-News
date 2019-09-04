@@ -21,6 +21,8 @@ CV-News
 ## Semantic Segmentation
 ### 2019
   - ICCV2019
+    + [Boundary-Aware Feature Propagation for Scene Segmentation](https://arxiv.org/abs/1909.00179)
+    + [Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1909.00589)
     + [SPGNet: Semantic Prediction Guidance for Scene Parsing](https://arxiv.org/abs/1908.097980)
     + [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678)[[Code]](https://github.com/MendelXu/ANN)
     + [Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation](https://arxiv.org/abs/1908.07669)
@@ -83,6 +85,7 @@ CV-News
   -  IJCV
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)
   - other
+    + [Semantic Segmentation of Panoramic Images Using a Synthetic Dataset](https://arxiv.org/abs/1909.00532)
     + [Class-Based Styling: Real-time Localized Style Transfer with Semantic Segmentation](https://arxiv.org/abs/1908.11525)
     + [Revisiting CycleGAN for semi-supervised segmentation](https://arxiv.org/abs/1908.11569)
     + [LU-Net: An Efficient Network for 3D LiDAR Point Cloud Semantic Segmentation Based on End-to-End-Learned 3D Features and U-Net](https://arxiv.org/abs/1908.11656)
@@ -301,8 +304,11 @@ CV-News
 ## 2D Medical Segmentation
 ### 2019
   - ICCV 2019
+    + [Deep Plug-and-Play Prior for Parallel MRI Reconstruction](https://arxiv.org/abs/1909.00089)
     + [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://arxiv.org/abs/1908.10555)
   - MICCAI 2019
+    + [Kidney tumor segmentation using an ensembling multi-stage deep learning approach. A contribution to the KiTS19 challenge](https://arxiv.org/abs/1909.00735)[Challenge]
+    + [Hyper-Pairing Network for Multi-Phase Pancreatic Ductal Adenocarcinoma Segmentation](https://arxiv.org/abs/1909.00906)
     + [U-Net Fixed-Point Quantization for Medical Image Segmentation](https://github.com/hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation)
     + [Automated Lesion Detection by Regressing Intensity-Based Distance with a Neural Network](https://arxiv.org/abs/1907.12452)
     + [Attention Guided Network for Retinal Image Segmentation](https://arxiv.org/abs/1907.12930)[Pytorch](https://github.com/HzFu/AGNet)
@@ -369,6 +375,8 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Bi-Directional ConvLSTM U-Net with Densley Connected Convolutions](https://arxiv.org/list/cs.CV/pastweek?skip=75&show=25)
+    + [Combining Multi-Sequence and Synthetic Images for Improved Segmentation of Late Gadolinium Enhancement Cardiac MRI](https://arxiv.org/abs/1909.01182)
     + [Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation](https://arxiv.org/abs/1908.10454)
     + [Domain-Agnostic Learning with Anatomy-Consistent Embedding for Cross-Modality Liver Segmentation](https://arxiv.org/abs/1908.10489)
     + [O-MedAL: Online Active Deep Learning for Medical Image Analysis](https://arxiv.org/abs/1908.10508)
@@ -431,6 +439,7 @@ CV-News
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Resource Optimized Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1909.00548)
     + [3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI(Apr 2019)](https://arxiv.org/abs/1904.03355)[[Pytorch]](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)[online-evaluation]
     + [X-Net: Brain Stroke Lesion Segmentation Based on Depthwise Separable Convolution and Long-range Dependencies](https://arxiv.org/abs/1907.07000)[[Keras]](https://github.com/Andrewsher/X-Net)
     + [Project & Excite Modules for Segmentation of Volumetric Medical Scans](https://arxiv.org/abs/1906.04649)[[Pytorch]](https://github.com/ai-med/squeeze_and_excitation)
@@ -457,8 +466,10 @@ CV-News
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
   - SCI
-     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
+    + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
+    + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Gland Segmentation in Histopathology Images Using Deep Networks and Handcrafted Features](Gland Segmentation in Histopathology Images Using Deep Networks and Handcrafted Features)
     + [Transfer Learning from Partial Annotations for Whole Brain Segmentation](https://arxiv.org/abs/1908.10851)
     + [Global Planar Convolutions for improved context aggregation in Brain Tumor Segmentation](https://arxiv.org/abs/1908.10281)
     + [Adversarial Convolutional Networks with Weak Domain-Transfer for Multi-Sequence Cardiac MR Images Segmentation](https://arxiv.org/abs/1908.09298)
