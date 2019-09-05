@@ -462,6 +462,7 @@ CV-News
   - IPMI2019
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
     + [Accurate Nuclear Segmentation with \\Center Vector Encoding](https://arxiv.org/abs/1907.03951)
+    + [Learning-based Optimization of the Under-sampling Pattern in MRI](https://arxiv.org/abs/1901.01960)[Code](https://github.com/cagladbahadir/LOUPE)
   - ISBI2019
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
