@@ -308,6 +308,7 @@ CV-News
     + [Deep Plug-and-Play Prior for Parallel MRI Reconstruction](https://arxiv.org/abs/1909.00089)
     + [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://arxiv.org/abs/1908.10555)
   - MICCAI 2019
+    + [IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation](https://arxiv.org/abs/1908.06623?context=cs)
     + [Kidney tumor segmentation using an ensembling multi-stage deep learning approach. A contribution to the KiTS19 challenge](https://arxiv.org/abs/1909.00735)[Challenge]
     + [Hyper-Pairing Network for Multi-Phase Pancreatic Ductal Adenocarcinoma Segmentation](https://arxiv.org/abs/1909.00906)
     + [U-Net Fixed-Point Quantization for Medical Image Segmentation](https://github.com/hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation)
