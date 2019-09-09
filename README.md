@@ -54,6 +54,7 @@ CV-News
     + [MixNet: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595)[Code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
     + [DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation](https://arxiv.org/abs/1907.11357)[[Pytorch]](https://github.com/Reagan1311/DABNet)
   - CVPR2019   
+    + [Semantic Correlation Promoted Shape-Variant Context for Segmentation](https://arxiv.org/abs/1909.02651)
     + [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/search/?query=ESPNetv2&searchtype=all&source=header)[[Code]](https://github.com/sacmehta/ESPNetv2)
     + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)[[Pytorch]](https://github.com/MenghaoGuo/AutoDeeplab)
     + [Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images](https://arxiv.org/abs/1905.06368)[oral]
@@ -470,6 +471,8 @@ CV-News
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Deep Learning for Brain Tumor Segmentation in Radiosurgery: Prospective Clinical Evaluation](https://arxiv.org/abs/1909.02799)
+    + [Intensity augmentation for domain transfer of whole breast segmentation in MRI](https://arxiv.org/abs/1909.02642)
     + [Gland Segmentation in Histopathology Images Using Deep Networks and Handcrafted Features](Gland Segmentation in Histopathology Images Using Deep Networks and Handcrafted Features)
     + [Transfer Learning from Partial Annotations for Whole Brain Segmentation](https://arxiv.org/abs/1908.10851)
     + [Global Planar Convolutions for improved context aggregation in Brain Tumor Segmentation](https://arxiv.org/abs/1908.10281)
