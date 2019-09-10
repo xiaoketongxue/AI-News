@@ -86,6 +86,7 @@ CV-News
   -  IJCV
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)
   - other
+    + [Squeeze-and-Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1909.03402)
     + [Semantic Segmentation of Panoramic Images Using a Synthetic Dataset](https://arxiv.org/abs/1909.00532)
     + [Class-Based Styling: Real-time Localized Style Transfer with Semantic Segmentation](https://arxiv.org/abs/1908.11525)
     + [Revisiting CycleGAN for semi-supervised segmentation](https://arxiv.org/abs/1908.11569)
@@ -377,6 +378,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [On the Evaluation and Real-World Usage Scenarios of Deep Vessel Segmentation for Funduscopy](https://arxiv.org/abs/1909.03856)
     + [Bi-Directional ConvLSTM U-Net with Densley Connected Convolutions](https://arxiv.org/list/cs.CV/pastweek?skip=75&show=25)
     + [Combining Multi-Sequence and Synthetic Images for Improved Segmentation of Late Gadolinium Enhancement Cardiac MRI](https://arxiv.org/abs/1909.01182)
     + [Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation](https://arxiv.org/abs/1908.10454)
