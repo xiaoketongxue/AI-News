@@ -21,6 +21,7 @@ CV-News
 ## Semantic Segmentation
 ### 2019
   - ICCV2019
+    + [Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1909.04161)
     + [Boundary-Aware Feature Propagation for Scene Segmentation](https://arxiv.org/abs/1909.00179)
     + [Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1909.00589)
     + [SPGNet: Semantic Prediction Guidance for Scene Parsing](https://arxiv.org/abs/1908.097980)
@@ -309,6 +310,7 @@ CV-News
     + [Deep Plug-and-Play Prior for Parallel MRI Reconstruction](https://arxiv.org/abs/1909.00089)
     + [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://arxiv.org/abs/1908.10555)
   - MICCAI 2019
+    + [Integrating cross-modality hallucinated MRI with CT to aid mediastinal lung tumor segmentation](https://arxiv.org/abs/1909.04542)
     + [IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation](https://arxiv.org/abs/1908.06623?context=cs)
     + [Kidney tumor segmentation using an ensembling multi-stage deep learning approach. A contribution to the KiTS19 challenge](https://arxiv.org/abs/1909.00735)[Challenge]
     + [Hyper-Pairing Network for Multi-Phase Pancreatic Ductal Adenocarcinoma Segmentation](https://arxiv.org/abs/1909.00906)
@@ -378,6 +380,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [ACE-Net: Biomedical Image Segmentation with Augmented Contracting and Expansive Paths](https://arxiv.org/abs/1909.04148)
     + [On the Evaluation and Real-World Usage Scenarios of Deep Vessel Segmentation for Funduscopy](https://arxiv.org/abs/1909.03856)
     + [Bi-Directional ConvLSTM U-Net with Densley Connected Convolutions](https://arxiv.org/list/cs.CV/pastweek?skip=75&show=25)
     + [Combining Multi-Sequence and Synthetic Images for Improved Segmentation of Late Gadolinium Enhancement Cardiac MRI](https://arxiv.org/abs/1909.01182)
@@ -474,6 +477,7 @@ CV-News
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [High Resolution Medical Image Analysis with Spatial Partitioning](https://arxiv.org/abs/1909.03108)
     + [Deep Learning for Brain Tumor Segmentation in Radiosurgery: Prospective Clinical Evaluation](https://arxiv.org/abs/1909.02799)
     + [Intensity augmentation for domain transfer of whole breast segmentation in MRI](https://arxiv.org/abs/1909.02642)
     + [Gland Segmentation in Histopathology Images Using Deep Networks and Handcrafted Features](Gland Segmentation in Histopathology Images Using Deep Networks and Handcrafted Features)
