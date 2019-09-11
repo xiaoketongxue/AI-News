@@ -480,7 +480,7 @@ CV-News
     + [High Resolution Medical Image Analysis with Spatial Partitioning](https://arxiv.org/abs/1909.03108)
     + [Deep Learning for Brain Tumor Segmentation in Radiosurgery: Prospective Clinical Evaluation](https://arxiv.org/abs/1909.02799)
     + [Intensity augmentation for domain transfer of whole breast segmentation in MRI](https://arxiv.org/abs/1909.02642)
-    + [Gland Segmentation in Histopathology Images Using Deep Networks and Handcrafted Features](Gland Segmentation in Histopathology Images Using Deep Networks and Handcrafted Features)
+    + [Gland Segmentation in Histopathology Images Using Deep Networks and Handcrafted Features](https://www.baidu.com/link?url=qztifxKRTSMnCsBVaGx4FaZtQbsY5ZaVnfwgUWqQ9rFjJ80Ee8_0TeFJsfw2-FRilGZUmHMFdxw-_xXsqQpzlq&wd=&eqid=93f976b600088d2e000000035d788836)
     + [Transfer Learning from Partial Annotations for Whole Brain Segmentation](https://arxiv.org/abs/1908.10851)
     + [Global Planar Convolutions for improved context aggregation in Brain Tumor Segmentation](https://arxiv.org/abs/1908.10281)
     + [Adversarial Convolutional Networks with Weak Domain-Transfer for Multi-Sequence Cardiac MR Images Segmentation](https://arxiv.org/abs/1908.09298)
