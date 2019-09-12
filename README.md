@@ -380,6 +380,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Local block-wise self attention for normal organ segmentation](https://arxiv.org/abs/1909.05054)
     + [ACE-Net: Biomedical Image Segmentation with Augmented Contracting and Expansive Paths](https://arxiv.org/abs/1909.04148)
     + [On the Evaluation and Real-World Usage Scenarios of Deep Vessel Segmentation for Funduscopy](https://arxiv.org/abs/1909.03856)
     + [Bi-Directional ConvLSTM U-Net with Densley Connected Convolutions](https://arxiv.org/list/cs.CV/pastweek?skip=75&show=25)
@@ -477,6 +478,8 @@ CV-News
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Hybrid Cascaded Neural Network for Liver Lesion Segmentation](https://arxiv.org/abs/1909.04797)
+    + [CEREBRuM: a Convolutional Encoder-decodeR for Fully Volumetric Fast sEgmentation of BRain MRI](https://arxiv.org/abs/1909.05085)
     + [High Resolution Medical Image Analysis with Spatial Partitioning](https://arxiv.org/abs/1909.03108)
     + [Deep Learning for Brain Tumor Segmentation in Radiosurgery: Prospective Clinical Evaluation](https://arxiv.org/abs/1909.02799)
     + [Intensity augmentation for domain transfer of whole breast segmentation in MRI](https://arxiv.org/abs/1909.02642)
