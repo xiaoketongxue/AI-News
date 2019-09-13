@@ -478,6 +478,7 @@ CV-News
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [An Automatic Cardiac Segmentation Framework based on Multi-sequence MR Image](https://arxiv.org/abs/1909.05488)[[Keras]](https://github.com/Suiiyu/MS-CMR2019/tree/master/code)
     + [Hybrid Cascaded Neural Network for Liver Lesion Segmentation](https://arxiv.org/abs/1909.04797)
     + [CEREBRuM: a Convolutional Encoder-decodeR for Fully Volumetric Fast sEgmentation of BRain MRI](https://arxiv.org/abs/1909.05085)
     + [High Resolution Medical Image Analysis with Spatial Partitioning](https://arxiv.org/abs/1909.03108)
