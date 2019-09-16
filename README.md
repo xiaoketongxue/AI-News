@@ -54,6 +54,7 @@ CV-News
   - BMVC2019
     + [MixNet: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595)[Code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
     + [DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation](https://arxiv.org/abs/1907.11357)[[Pytorch]](https://github.com/Reagan1311/DABNet)
+    + [Dual Graph Convolutional Network for Semantic Segmentation](https://arxiv.org/abs/1909.06121)
   - CVPR2019   
     + [Semantic Correlation Promoted Shape-Variant Context for Segmentation](https://arxiv.org/abs/1909.02651)
     + [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/search/?query=ESPNetv2&searchtype=all&source=header)[[Code]](https://github.com/sacmehta/ESPNetv2)
@@ -447,6 +448,8 @@ CV-News
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation](https://arxiv.org/abs/1909.05962)
+    + [3D U2-Net: A 3D Universal U-Net for Multi-Domain Medical Image Segmentation](https://arxiv.org/abs/1909.06012)[[Pytorch]](https://github.com/huangmozhilv/u2net_torch/)[S. Kevin Zhou]
     + [Resource Optimized Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1909.00548)
     + [3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI(Apr 2019)](https://arxiv.org/abs/1904.03355)[[Pytorch]](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)[online-evaluation]
     + [X-Net: Brain Stroke Lesion Segmentation Based on Depthwise Separable Convolution and Long-range Dependencies](https://arxiv.org/abs/1907.07000)[[Keras]](https://github.com/Andrewsher/X-Net)
@@ -478,6 +481,7 @@ CV-News
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [MRI Brain Tumor Segmentation using Random Forests and Fully Convolutional Networks](https://arxiv.org/abs/1909.06337)
     + [An Automatic Cardiac Segmentation Framework based on Multi-sequence MR Image](https://arxiv.org/abs/1909.05488)[[Keras]](https://github.com/Suiiyu/MS-CMR2019/tree/master/code)
     + [Hybrid Cascaded Neural Network for Liver Lesion Segmentation](https://arxiv.org/abs/1909.04797)
     + [CEREBRuM: a Convolutional Encoder-decodeR for Fully Volumetric Fast sEgmentation of BRain MRI](https://arxiv.org/abs/1909.05085)
