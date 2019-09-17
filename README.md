@@ -55,6 +55,7 @@ CV-News
     + [MixNet: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595)[Code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
     + [DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation](https://arxiv.org/abs/1907.11357)[[Pytorch]](https://github.com/Reagan1311/DABNet)
     + [Dual Graph Convolutional Network for Semantic Segmentation](https://arxiv.org/abs/1909.06121)
+    + [Global Aggregation then Local Distribution in Fully Convolutional Networks](https://arxiv.org/abs/1909.07229)[Code](https://github.com/lxtGH/GALD-Net)
   - CVPR2019   
     + [Semantic Correlation Promoted Shape-Variant Context for Segmentation](https://arxiv.org/abs/1909.02651)
     + [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/search/?query=ESPNetv2&searchtype=all&source=header)[[Code]](https://github.com/sacmehta/ESPNetv2)
@@ -88,6 +89,8 @@ CV-News
   -  IJCV
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)
   - other
+    + [Graph-guided Architecture Search for Real-time Semantic Segmentation](https://arxiv.org/abs/1909.06793)
+    + [Boosting Real-Time Driving Scene Parsing with Shared Semantics](https://arxiv.org/abs/1909.07038)
     + [Squeeze-and-Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1909.03402)
     + [Semantic Segmentation of Panoramic Images Using a Synthetic Dataset](https://arxiv.org/abs/1909.00532)
     + [Class-Based Styling: Real-time Localized Style Transfer with Semantic Segmentation](https://arxiv.org/abs/1908.11525)
@@ -337,6 +340,7 @@ CV-News
     + [Estimation of preterm birth markers with U-Net segmentation network](https://arxiv.org/abs/1908.09148)[[Workshop]]
     + [A Weakly Supervised Method for Instance Segmentation of Biological Cells](https://arxiv.org/abs/1908.09891)[[Workshop]]
     + [A hybrid deep learning framework for integrated segmentation and registration: evaluation on longitudinal white matter tract changes](https://arxiv.org/abs/1908.10221)[[oral]]
+    + [CELNet: Evidence Localization for Pathology Images using Weakly Supervised Learning](https://arxiv.org/abs/1909.07097)
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -381,6 +385,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Fuzzy Semantic Segmentation of Breast Ultrasound Image with Breast Anatomy Constraints](https://arxiv.org/abs/1909.06645)
     + [Local block-wise self attention for normal organ segmentation](https://arxiv.org/abs/1909.05054)
     + [ACE-Net: Biomedical Image Segmentation with Augmented Contracting and Expansive Paths](https://arxiv.org/abs/1909.04148)
     + [On the Evaluation and Real-World Usage Scenarios of Deep Vessel Segmentation for Funduscopy](https://arxiv.org/abs/1909.03856)
@@ -448,6 +453,7 @@ CV-News
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [MSU-Net: Multiscale Statistical U-Net for Real-time 3D Cardiac MRI Video Segmentation](https://arxiv.org/abs/1909.06726)
     + [SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation](https://arxiv.org/abs/1909.05962)
     + [3D U2-Net: A 3D Universal U-Net for Multi-Domain Medical Image Segmentation](https://arxiv.org/abs/1909.06012)[[Pytorch]](https://github.com/huangmozhilv/u2net_torch/)[S. Kevin Zhou]
     + [Resource Optimized Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1909.00548)
@@ -481,6 +487,9 @@ CV-News
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [3D Deep Affine-Invariant Shape Learning for Brain MR Image Segmentation](https://arxiv.org/abs/1909.06629)
+    + [3D Kidneys and Kidney Tumor Semantic Segmentation using Boundary-Aware Networks](https://arxiv.org/abs/1909.06684)
+    + [Automated Multiclass Cardiac Volume Segmentation and Model Generation](https://arxiv.org/abs/1909.06685)
     + [MRI Brain Tumor Segmentation using Random Forests and Fully Convolutional Networks](https://arxiv.org/abs/1909.06337)
     + [An Automatic Cardiac Segmentation Framework based on Multi-sequence MR Image](https://arxiv.org/abs/1909.05488)[[Keras]](https://github.com/Suiiyu/MS-CMR2019/tree/master/code)
     + [Hybrid Cascaded Neural Network for Liver Lesion Segmentation](https://arxiv.org/abs/1909.04797)
