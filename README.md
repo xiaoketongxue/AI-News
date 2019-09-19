@@ -57,6 +57,7 @@ CV-News
     + [DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation](https://arxiv.org/abs/1907.11357)[[Pytorch]](https://github.com/Reagan1311/DABNet)
     + [Dual Graph Convolutional Network for Semantic Segmentation](https://arxiv.org/abs/1909.06121)
     + [Global Aggregation then Local Distribution in Fully Convolutional Networks](https://arxiv.org/abs/1909.07229)[Code](https://github.com/lxtGH/GALD-Net)
+    + [Feature Pyramid Encoding Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1909.08599)
   - CVPR2019   
     + [Semantic Correlation Promoted Shape-Variant Context for Segmentation](https://arxiv.org/abs/1909.02651)
     + [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/search/?query=ESPNetv2&searchtype=all&source=header)[[Code]](https://github.com/sacmehta/ESPNetv2)
