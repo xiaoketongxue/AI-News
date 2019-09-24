@@ -23,8 +23,8 @@ CV-News
   - ICCV2019
     + [ACFNet: Attentional Class Feature Network for Semantic Segmentation](https://arxiv.org/abs/1909.09408)
     + [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678)[[Code]](https://github.com/MendelXu/ANN)
-    + [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)[Project](https://nv-tlabs.github.io/GSCNN/)
-    + [CCNet: Criss-Cross Attention for Semantic Segmentation](https://arxiv.org/abs/1811.11721)[Pytorch](https://github.com/speedinghzl/CCNet)
+    + [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)[[Project]](https://nv-tlabs.github.io/GSCNN/)
+    + [CCNet: Criss-Cross Attention for Semantic Segmentation](https://arxiv.org/abs/1811.11721)[[Pytorch]](https://github.com/speedinghzl/CCNet)
     + [Expectation-Maximization Attention Networks for Semantic Segmentation(31 Jul)](https://arxiv.org/abs/1907.13426)[[Code]](https://github.com/XiaLiPKU/EMANet) 
     + [Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation](https://arxiv.org/abs/1909.10469)
     + [Explicit Shape Encoding for Real-Time Instance Segmentation](https://arxiv.org/abs/1908.04067)[[Code]](https://github.com/WenqiangX/ese_seg)
