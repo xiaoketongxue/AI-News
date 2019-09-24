@@ -22,17 +22,18 @@ CV-News
 ### 2019
   - ICCV2019
     + [ACFNet: Attentional Class Feature Network for Semantic Segmentation](https://arxiv.org/abs/1909.09408)
+    + [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678)[[Code]](https://github.com/MendelXu/ANN)
+    + [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)[Project](https://nv-tlabs.github.io/GSCNN/)
+    + [Expectation-Maximization Attention Networks for Semantic Segmentation(31 Jul)](https://arxiv.org/abs/1907.13426)[[Code]](https://github.com/XiaLiPKU/EMANet) 
     + [Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation](https://arxiv.org/abs/1909.10469)
     + [Explicit Shape Encoding for Real-Time Instance Segmentation](https://arxiv.org/abs/1908.04067)[[Code]](https://github.com/WenqiangX/ese_seg)
     + [Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1909.04161)
     + [Boundary-Aware Feature Propagation for Scene Segmentation](https://arxiv.org/abs/1909.00179)
     + [Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1909.00589)
     + [SPGNet: Semantic Prediction Guidance for Scene Parsing](https://arxiv.org/abs/1908.097980)
-    + [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678)[[Code]](https://github.com/MendelXu/ANN)
     + [Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation](https://arxiv.org/abs/1908.07669)
     + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/abs/1907.10008)
     + [Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682)
-    + [Expectation-Maximization Attention Networks for Semantic Segmentation(31 Jul)](https://arxiv.org/abs/1907.13426)[[Code]](https://github.com/XiaLiPKU/EMANet) 
     + [Orientation-aware Semantic Segmentation on Icosahedron Spheres](https://arxiv.org/abs/1907.12849)
     + [Incremental Learning Techniques for Semantic Segmentation](https://arxiv.org/abs/1907.13372)
     + [Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion](https://arxiv.org/abs/1908.00382)
@@ -40,7 +41,6 @@ CV-News
     + [SqueezeNAS: Fast neural architecture search for faster semantic segmentation](https://arxiv.org/abs/1908.01748)[[ICCVW]]
     + [GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing](https://arxiv.org/abs/1908.03245)
     + [Interpolated Convolutional Networks for 3D Point Cloud Understanding](https://arxiv.org/abs/1908.04512)
-    + [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)[Project](https://nv-tlabs.github.io/GSCNN/)
     + [PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment](https://arxiv.org/abs/1908.06391)
     + [Fine-Grained Segmentation Networks: Self-Supervised Segmentation for Improved Long-Term Visual Localization](https://arxiv.org/abs/1908.06387)
     + [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://arxiv.org/abs/1908.07325)[[Code]](https://github.com/HCPLab-SYSU/SSGRL)
