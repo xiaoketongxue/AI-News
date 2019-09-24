@@ -21,6 +21,8 @@ CV-News
 ## Semantic Segmentation
 ### 2019
   - ICCV2019
+    + [ACFNet: Attentional Class Feature Network for Semantic Segmentation](https://arxiv.org/abs/1909.09408)
+    + [Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation](https://arxiv.org/abs/1909.10469)
     + [Explicit Shape Encoding for Real-Time Instance Segmentation](https://arxiv.org/abs/1908.04067)[[Code]](https://github.com/WenqiangX/ese_seg)
     + [Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1909.04161)
     + [Boundary-Aware Feature Propagation for Scene Segmentation](https://arxiv.org/abs/1909.00179)
@@ -50,6 +52,7 @@ CV-News
     + [Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels](https://arxiv.org/abs/1908.09597)
     + [Deep Camera: A Fully Convolutional Neural Network for Image Signal Processing](https://arxiv.org/abs/1908.09191)[[workshop]]
     + [Dual Attention MobDenseNet(DAMDNet) for Robust 3D Face Alignment](https://arxiv.org/abs/1908.11821)[Code](https://github.com/LeiJiangJNU/DAMDNet)[[workshop]]
+    + [Adversarial Learning with Margin-based Triplet Embedding Regularization](https://arxiv.org/abs/1909.09481)[Code](https://github.com/zhongyy/Adversarial_MTER)
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
   - BMVC2019
@@ -88,9 +91,12 @@ CV-News
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
-  -  IJCV
-    + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)
+  -  SCI
+    + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)[IJCV]
+    + [Fine-grained Action Segmentation using the Semi-Supervised Action GAN](https://arxiv.org/abs/1909.09269)[ Pattern Recognition]
   - other
+    + [A New Few-shot Segmentation Network Based on Class Representation](https://arxiv.org/abs/1909.08754)
+    + [Object Segmentation using Pixel-wise Adversarial Loss](https://arxiv.org/abs/1909.10341)
     + [Graph-guided Architecture Search for Real-time Semantic Segmentation](https://arxiv.org/abs/1909.06793)
     + [Boosting Real-Time Driving Scene Parsing with Shared Semantics](https://arxiv.org/abs/1909.07038)
     + [Squeeze-and-Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1909.03402)
@@ -228,6 +234,7 @@ CV-News
   - IJCAI 2018
     + [High Resolution Feature Recovering for Accelerating Urban Scene Parsing](https://www.ijcai.org/proceedings/2018/0161.pdf)
   - Othes
+    + [SalsaNet: Fast Road and Vehicle Segmentation in LiDAR Point Clouds for Autonomous Driving](https://arxiv.org/abs/1909.08291)[Code](https://arxiv.org/abs/1909.08291)
     + [Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation](https://arxiv.org/pdf/1907.10303.pdf)
     + [RelationNet: Learning Deep-Aligned Representation for Semantic Image Segmentation][ICPR]
     + [CCNet: Criss-Cross Attention for Semantic Segmentation(Nov 2018)](https://arxiv.org/abs/1811.11721)[[Pytorch]](https://github.com/speedinghzl/CCNet)
@@ -387,6 +394,8 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Volume Preserving Image Segmentation with Entropic Regularization Optimal Transport and Its Applications in Deep Learning](https://arxiv.org/abs/1909.09931)
+    + [RAUNet: Residual Attention U-Net for Semantic Segmentation of Cataract Surgical Instruments](https://arxiv.org/abs/1909.10360)
     + [Fuzzy Semantic Segmentation of Breast Ultrasound Image with Breast Anatomy Constraints](https://arxiv.org/abs/1909.06645)
     + [Local block-wise self attention for normal organ segmentation](https://arxiv.org/abs/1909.05054)
     + [ACE-Net: Biomedical Image Segmentation with Augmented Contracting and Expansive Paths](https://arxiv.org/abs/1909.04148)
@@ -455,6 +464,7 @@ CV-News
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data](https://arxiv.org/abs/1909.09716)[Code](https://github.com/horsepurve/StyleSegor)
     + [MSU-Net: Multiscale Statistical U-Net for Real-time 3D Cardiac MRI Video Segmentation](https://arxiv.org/abs/1909.06726)
     + [SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation](https://arxiv.org/abs/1909.05962)
     + [3D U2-Net: A 3D Universal U-Net for Multi-Domain Medical Image Segmentation](https://arxiv.org/abs/1909.06012)[[Pytorch]](https://github.com/huangmozhilv/u2net_torch/)[S. Kevin Zhou]
@@ -489,6 +499,7 @@ CV-News
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Brain Tumor Segmentation and Survival Prediction](https://arxiv.org/abs/1909.09399)
     + [3D Deep Affine-Invariant Shape Learning for Brain MR Image Segmentation](https://arxiv.org/abs/1909.06629)
     + [3D Kidneys and Kidney Tumor Semantic Segmentation using Boundary-Aware Networks](https://arxiv.org/abs/1909.06684)
     + [Automated Multiclass Cardiac Volume Segmentation and Model Generation](https://arxiv.org/abs/1909.06685)
