@@ -30,7 +30,7 @@ CV-News
     + [Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1909.04161)
     + [Boundary-Aware Feature Propagation for Scene Segmentation](https://arxiv.org/abs/1909.00179)
     + [Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1909.00589)
-    + [SPGNet: Semantic Prediction Guidance for Scene Parsing](https://arxiv.org/abs/1908.097980)
+    + [SPGNet: Semantic Prediction Guidance for Scene Parsing](https://arxiv.org/abs/1908.09798)
     + [Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation](https://arxiv.org/abs/1908.07669)
     + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/abs/1907.10008)
     + [Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682)
