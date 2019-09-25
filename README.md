@@ -96,6 +96,7 @@ CV-News
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)[IJCV]
     + [Fine-grained Action Segmentation using the Semi-Supervised Action GAN](https://arxiv.org/abs/1909.09269)[ Pattern Recognition]
   - other
+    + [Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/abs/1909.11065)[[Code]](https://arxiv.org/list/cs.CV/recent)
     + [A New Few-shot Segmentation Network Based on Class Representation](https://arxiv.org/abs/1909.08754)
     + [Object Segmentation using Pixel-wise Adversarial Loss](https://arxiv.org/abs/1909.10341)
     + [Graph-guided Architecture Search for Real-time Semantic Segmentation](https://arxiv.org/abs/1909.06793)
