@@ -62,6 +62,7 @@ CV-News
     + [Dual Graph Convolutional Network for Semantic Segmentation](https://arxiv.org/abs/1909.06121)
     + [Global Aggregation then Local Distribution in Fully Convolutional Networks](https://arxiv.org/abs/1909.07229)[Code](https://github.com/lxtGH/GALD-Net)
     + [Feature Pyramid Encoding Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1909.08599)
+    + [Accurate and Compact Convolutional Neural Networks with Trained Binarization](https://arxiv.org/abs/1909.11366)[[oral]]
   - CVPR2019   
     + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)[[Pytorch]](https://github.com/MenghaoGuo/AutoDeeplab)
     + [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/search/?query=ESPNetv2&searchtype=all&source=header)[[Code]](https://github.com/sacmehta/ESPNetv2)
@@ -324,6 +325,7 @@ CV-News
     + [Deep Plug-and-Play Prior for Parallel MRI Reconstruction](https://arxiv.org/abs/1909.00089)
     + [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://arxiv.org/abs/1908.10555)
   - MICCAI 2019
+    + [Dual Adaptive Pyramid Network for Cross-Stain Histopathology Image Segmentation](https://arxiv.org/abs/1909.11524)
     + [Integrating cross-modality hallucinated MRI with CT to aid mediastinal lung tumor segmentation](https://arxiv.org/abs/1909.04542)
     + [IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation](https://arxiv.org/abs/1908.06623?context=cs)
     + [Kidney tumor segmentation using an ensembling multi-stage deep learning approach. A contribution to the KiTS19 challenge](https://arxiv.org/abs/1909.00735)[Challenge]
@@ -395,6 +397,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [Intelligent image synthesis to attack a segmentation CNN using adversarial learning](https://arxiv.org/abs/1909.11167)
     + [Volume Preserving Image Segmentation with Entropic Regularization Optimal Transport and Its Applications in Deep Learning](https://arxiv.org/abs/1909.09931)
     + [RAUNet: Residual Attention U-Net for Semantic Segmentation of Cataract Surgical Instruments](https://arxiv.org/abs/1909.10360)
     + [Fuzzy Semantic Segmentation of Breast Ultrasound Image with Breast Anatomy Constraints](https://arxiv.org/abs/1909.06645)
