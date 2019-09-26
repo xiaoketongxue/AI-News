@@ -44,6 +44,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [FALCON: Fast and Lightweight Convolution for Compressing and Accelerating CNN](https://arxiv.org/abs/1909.11321)
     + [diffGrad: An Optimization Method for Convolutional Neural Networks](https://arxiv.org/abs/1909.11015)
     + [EleAtt-RNN: Adding Attentiveness to Neurons in Recurrent Neural Networks](https://arxiv.org/abs/1909.01939)
     + [EBPC: Extended Bit-Plane Compression for Deep Neural Network Inference and Training Accelerators](https://arxiv.org/abs/1908.11645)
