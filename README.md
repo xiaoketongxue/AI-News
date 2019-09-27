@@ -56,6 +56,7 @@ CV-News
     + [Adversarial Learning with Margin-based Triplet Embedding Regularization](https://arxiv.org/abs/1909.09481)[Code](https://github.com/zhongyy/Adversarial_MTER)
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
+    + [Implicit Semantic Data Augmentation for Deep Networks](https://arxiv.org/abs/1909.12220)[[Pytorch]](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)
   - BMVC2019
     + [MixNet: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595)[Code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
     + [DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation](https://arxiv.org/abs/1907.11357)[[Pytorch]](https://github.com/Reagan1311/DABNet)
@@ -397,6 +398,7 @@ CV-News
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
     
   - other
+    + [A Symmetric Equilibrium Generative Adversarial Network with Attention Refine Block for Retinal Vessel Segmentation](https://arxiv.org/abs/1909.11936)
     + [Intelligent image synthesis to attack a segmentation CNN using adversarial learning](https://arxiv.org/abs/1909.11167)
     + [Volume Preserving Image Segmentation with Entropic Regularization Optimal Transport and Its Applications in Deep Learning](https://arxiv.org/abs/1909.09931)
     + [RAUNet: Residual Attention U-Net for Semantic Segmentation of Cataract Surgical Instruments](https://arxiv.org/abs/1909.10360)
