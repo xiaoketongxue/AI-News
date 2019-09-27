@@ -134,6 +134,7 @@ CV-News
     + [Progressive Generative Adversarial Networks for Medical Image Super resolution(Feb 2019)](https://arxiv.org/abs/1902.02144)
     + [How Can We Make GAN Perform Better in Single Medical Image Super-Resolution? A Lesion Focused Multi-Scale Approach](https://arxiv.org/abs/1901.03419)[ISBI2019]
   - Arxiv
+    + [Multi-grained Attention Networks for Single Image Super-Resolution](https://arxiv.org/abs/1909.11937)
     + [s-LWSR: Super Lightweight Super-Resolution Network](https://arxiv.org/abs/1909.10774)
     + [Hybrid Residual Attention Network for Single Image Super Resolution](https://arxiv.org/pdf/1907.05514.pdf)
     + [FC2N: Fully Channel-Concatenated Network for Single Image Super-Resolution](https://arxiv.org/pdf/1907.03221.pdf)
