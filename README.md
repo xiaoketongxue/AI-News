@@ -21,6 +21,7 @@ CV-News
 ## Semantic Segmentation
 ### 2019
   - ICCV2019
+    + [DMM-Net: Differentiable Mask-Matching Network for Video Object Segmentation](https://arxiv.org/abs/1909.12471)[Pytorch](https://github.com/ZENGXH/DMM_Net)
     + [ACFNet: Attentional Class Feature Network for Semantic Segmentation](https://arxiv.org/abs/1909.09408)
     + [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678)[[Code]](https://github.com/MendelXu/ANN)
     + [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)[[Project]](https://nv-tlabs.github.io/GSCNN/)
@@ -54,6 +55,7 @@ CV-News
     + [Deep Camera: A Fully Convolutional Neural Network for Image Signal Processing](https://arxiv.org/abs/1908.09191)[[workshop]]
     + [Dual Attention MobDenseNet(DAMDNet) for Robust 3D Face Alignment](https://arxiv.org/abs/1908.11821)[Code](https://github.com/LeiJiangJNU/DAMDNet)[[workshop]]
     + [Adversarial Learning with Margin-based Triplet Embedding Regularization](https://arxiv.org/abs/1909.09481)[Code](https://github.com/zhongyy/Adversarial_MTER)
+    + [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828)[Code](https://www.seas.upenn.edu/~nkolot/projects/spin/)
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
     + [Implicit Semantic Data Augmentation for Deep Networks](https://arxiv.org/abs/1909.12220)[[Pytorch]](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)
@@ -97,6 +99,7 @@ CV-News
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)[IJCV]
     + [Fine-grained Action Segmentation using the Semi-Supervised Action GAN](https://arxiv.org/abs/1909.09269)[ Pattern Recognition]
   - other
+    + [Point Attention Network for Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/1909.12663)
     + [Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/abs/1909.11065)[[Code]](https://arxiv.org/list/cs.CV/recent)
     + [A New Few-shot Segmentation Network Based on Class Representation](https://arxiv.org/abs/1909.08754)
     + [Object Segmentation using Pixel-wise Adversarial Loss](https://arxiv.org/abs/1909.10341)
@@ -387,6 +390,7 @@ CV-News
    + [Boundary Aware Networks for Medical Image Segmentation](https://arxiv.org/abs/1908.08071)
    + [Automatic Rodent Brain MRI Lesion Segmentation with Fully Convolutional Networks](https://arxiv.org/abs/1908.08746)
    + [Reproducible White Matter Tract Segmentation Using 3D U-Net on a Large-scale DTI Dataset](https://arxiv.org/abs/1908.10219)
+   + [Biomedical Image Segmentation by Retina-like Sequential Attention Mechanism Using Only A Few Training Images](https://arxiv.org/abs/1909.12612)
   - SCI
     + [CA-RefineNet:A Dual Input WSI Image Segmentation Algorithm Based on Attention](https://arxiv.org/abs/1907.06358)
     + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,TMI]
