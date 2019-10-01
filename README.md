@@ -92,6 +92,7 @@
   - ICIP2019
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
+    + [What's There in The Dark](https://ieeexplore.ieee.org/abstract/document/8803299/authors#authors)[[Keras]](https://github.com/sauradip/night_image_semantic_segmentation)
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   -  SCI  
