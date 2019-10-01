@@ -638,6 +638,7 @@ CV-News
   - CVPR 2019
     + [Spatiotemporal CNN for Video Object Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02363)[[Code]](https://github.com/longyin880815/STCNN)
   - other
+    + [Towards Good Practices for Video Object Segmentation](https://arxiv.org/abs/1909.13583)
     + [Fast Video Object Segmentation via Mask Transfer Network](https://arxiv.org/abs/1908.10717)
     + [Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation(Jul 2019)](https://arxiv.org/abs/1907.01203)
     + [Video Instance Segmentation](https://arxiv.org/abs/1905.04804)
