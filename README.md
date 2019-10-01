@@ -384,12 +384,12 @@
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
     + [Learning joint lesion and tissue segmentation from task-specific hetero-modal datasets](https://arxiv.org/abs/1907.03327)
   - MLMI
-   + [Deep Active Lesion Segmentation](https://arxiv.org/abs/1908.06933)
-   + [Weakly Supervised Segmentation by A Deep Geodesic Prior](https://arxiv.org/abs/1908.06498)
-   + [Boundary Aware Networks for Medical Image Segmentation](https://arxiv.org/abs/1908.08071)
-   + [Automatic Rodent Brain MRI Lesion Segmentation with Fully Convolutional Networks](https://arxiv.org/abs/1908.08746)
-   + [Reproducible White Matter Tract Segmentation Using 3D U-Net on a Large-scale DTI Dataset](https://arxiv.org/abs/1908.10219)
-   + [Biomedical Image Segmentation by Retina-like Sequential Attention Mechanism Using Only A Few Training Images](https://arxiv.org/abs/1909.12612)
+    + [Deep Active Lesion Segmentation](https://arxiv.org/abs/1908.06933)
+    + [Weakly Supervised Segmentation by A Deep Geodesic Prior](https://arxiv.org/abs/1908.06498)
+    + [Boundary Aware Networks for Medical Image Segmentation](https://arxiv.org/abs/1908.08071)
+    + [Automatic Rodent Brain MRI Lesion Segmentation with Fully Convolutional Networks](https://arxiv.org/abs/1908.08746)
+    + [Reproducible White Matter Tract Segmentation Using 3D U-Net on a Large-scale DTI Dataset](https://arxiv.org/abs/1908.10219)
+    + [Biomedical Image Segmentation by Retina-like Sequential Attention Mechanism Using Only A Few Training Images](https://arxiv.org/abs/1909.12612)
   - SCI
     + [CA-RefineNet:A Dual Input WSI Image Segmentation Algorithm Based on Attention](https://arxiv.org/abs/1907.06358)
     + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,TMI]
