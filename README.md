@@ -20,7 +20,7 @@
 ## Semantic Segmentation
 ### 2019
   - ICCV2019
-    + [DMM-Net: Differentiable Mask-Matching Network for Video Object Segmentation](https://arxiv.org/abs/1909.12471)[Pytorch](https://github.com/ZENGXH/DMM_Net)
+    + [Domain Adaptation for Semantic Segmentation with Maximum Squares Loss](https://arxiv.org/abs/1909.13589)
     + [ACFNet: Attentional Class Feature Network for Semantic Segmentation](https://arxiv.org/abs/1909.09408)
     + [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678)[[Code]](https://github.com/MendelXu/ANN)
     + [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740)[[Project]](https://nv-tlabs.github.io/GSCNN/)
@@ -98,6 +98,8 @@
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)[IJCV]   
     + [Fine-grained Action Segmentation using the Semi-Supervised Action GAN](https://arxiv.org/abs/1909.09269)[ Pattern Recognition]  
   - other
+    + [End-to-End Deep Convolutional Active Contours for Image Segmentation](https://arxiv.org/abs/1909.13359)
+    + [IPC-Net: 3D point-cloud segmentation using deep inter-point convolutional layers](https://arxiv.org/list/cs.CV/pastweek?skip=0&show=25)
     + [Point Attention Network for Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/1909.12663)
     + [Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/abs/1909.11065)[[Code]](https://arxiv.org/list/cs.CV/recent)
     + [A New Few-shot Segmentation Network Based on Class Representation](https://arxiv.org/abs/1909.08754)
@@ -632,11 +634,14 @@
  ## Video-Segmentation
  ### 2019
   - ICCV 2019
+    + [DMM-Net: Differentiable Mask-Matching Network for Video Object Segmentation](https://arxiv.org/abs/1909.12471)[Pytorch](https://github.com/ZENGXH/DMM_Net)
     + [RANet: Ranking Attention Network for Fast Video Object Segmentation](https://arxiv.org/abs/1908.06647)[[Cpde]](https://github.com/Storife/RANet)
     + [Exploiting Temporality for Semi-Supervised Video Segmentation](https://arxiv.org/abs/1908.11309)
   - CVPR 2019
     + [Spatiotemporal CNN for Video Object Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02363)[[Code]](https://github.com/longyin880815/STCNN)
   - other
+    + [RPM-Net: Robust Pixel-Level Matching Networks for Self-Supervised Video Object Segmentation](https://arxiv.org/abs/1909.13247)
+    + [Towards Good Practices for Video Object Segmentation](https://arxiv.org/abs/1909.13583)
     + [Towards Good Practices for Video Object Segmentation](https://arxiv.org/abs/1909.13583)
     + [Fast Video Object Segmentation via Mask Transfer Network](https://arxiv.org/abs/1908.10717)
     + [Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation(Jul 2019)](https://arxiv.org/abs/1907.01203)
