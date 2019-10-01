@@ -380,9 +380,9 @@
     + [Ultrasound segmentation using U-Net: learning from simulated data and testing on real data](https://arxiv.org/abs/1904.11031)[]
     + [RASNet: Segmentation for Tracking Surgical Instruments in Surgical Videos Using Refined Attention Segmentation Network(May 2019)](https://arxiv.org/abs/1905.08663)
   - MIDL 2019
-    + [Distance Map Loss Penalty Term for Semantic Segmentation](https://arxiv.org/abs/1908.03679)
+    + [Distance Map Loss Penalty Term for Semantic Segmentation](https://arxiv.org/abs/1908.03679)   
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
-   + [Learning joint lesion and tissue segmentation from task-specific hetero-modal datasets](https://arxiv.org/abs/1907.03327)
+    + [Learning joint lesion and tissue segmentation from task-specific hetero-modal datasets](https://arxiv.org/abs/1907.03327)
   - MLMI
    + [Deep Active Lesion Segmentation](https://arxiv.org/abs/1908.06933)
    + [Weakly Supervised Segmentation by A Deep Geodesic Prior](https://arxiv.org/abs/1908.06498)
