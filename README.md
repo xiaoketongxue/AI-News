@@ -484,10 +484,6 @@
     + [SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation](https://arxiv.org/abs/1909.05962)
     + [3D U2-Net: A 3D Universal U-Net for Multi-Domain Medical Image Segmentation](https://arxiv.org/abs/1909.06012)[[Pytorch]](https://github.com/huangmozhilv/u2net_torch/)[S. Kevin Zhou]
     + [Resource Optimized Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1909.00548)
-    + [3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI(Apr 2019)](https://arxiv.org/abs/1904.03355)[[Pytorch]](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)[online-evaluation]
-    + [X-Net: Brain Stroke Lesion Segmentation Based on Depthwise Separable Convolution and Long-range Dependencies](https://arxiv.org/abs/1907.07000)[[Keras]](https://github.com/Andrewsher/X-Net)
-    + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)[Keras](https://github.com/YH0517/CLCI_Net)[[Keras]](https://github.com/YH0517/CLCI_Net)
-    + [Project & Excite Modules for Segmentation of Volumetric Medical Scans](https://arxiv.org/abs/1906.04649)[[Pytorch]](https://github.com/ai-med/squeeze_and_excitation)
     + [A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation](https://arxiv.org/abs/1906.06148)[[Pytorch]](https://github.com/RobinBruegger)[[Pytorch2]](https://github.com/RobinBruegger/PartiallyReversibleUnet)
     + [Improving Deep Lesion Detection Using 3D Contextual and Spatial Attention](https://arxiv.org/abs/1907.04052)
     + [Permutohedral Attention Module for Efficient Non-Local Neural Networks(Jul 2019)](https://arxiv.org/abs/1907.00641)[[Pytorch]](https://github.com/xiaoketongxue/Permutohedral_attention_module)[[Dataset]](http://spineweb.digitalimaginggroup.ca/)
@@ -504,6 +500,10 @@
     + [Endotracheal Tube Detection and Segmentation in Chest Radiographs using Synthetic Data](https://arxiv.org/abs/1908.07170)
     + [Multi-step Cascaded Networks for Brain Tumor Segmentation](https://arxiv.org/abs/1908.05887)[[Code]](https://github.com/JohnleeHIT/Brats2019)
     + [Topology-preserving augmentation for CNN-based segmentation of congenital heart defects from 3D paediatric CMR](https://arxiv.org/abs/1908.08870)[[MICCAI PIPPI]]
+    + [X-Net: Brain Stroke Lesion Segmentation Based on Depthwise Separable Convolution and Long-range Dependencies](https://arxiv.org/abs/1907.07000)[[Keras]](https://github.com/Andrewsher/X-Net)
+    + [CLCI-Net: Cross-Level fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke](https://arxiv.org/abs/1907.07008)[Keras](https://github.com/YH0517/CLCI_Net)[[Keras]](https://github.com/YH0517/CLCI_Net)
+    + [3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI(Apr 2019)](https://arxiv.org/abs/1904.03355)[[Pytorch]](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)[online-evaluation]    
+    + [Project & Excite Modules for Segmentation of Volumetric Medical Scans](https://arxiv.org/abs/1906.04649)[[Pytorch]](https://github.com/ai-med/squeeze_and_excitation) 
   - IPMI2019
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
     + [Accurate Nuclear Segmentation with \\Center Vector Encoding](https://arxiv.org/abs/1907.03951)
