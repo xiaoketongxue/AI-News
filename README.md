@@ -73,6 +73,7 @@
     + [Knowledge Adaptation for Efficient Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04688)
     + [Dual Attention Network for Scene Segmentation(Sep 2018)](https://arxiv.org/abs/1809.02983)[[Pytorch]](https://github.com/junfu1115/DANet) 
     + [Adaptive Pyramid Context Network for Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Adaptive_Pyramid_Context_Network_for_Semantic_Segmentation_CVPR_2019_paper.pdf)
+    + [Co-Occurrent Features in Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Co-Occurrent_Features_in_Semantic_Segmentation_CVPR_2019_paper.pdf)
     + [Structured Knowledge Distillation for Semantic Segmentation(Mar 2019)](https://arxiv.org/abs/1903.04197)
     + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/abs/1903.02351)
     + [Semantic Correlation Promoted Shape-Variant Context for Segmentation](https://arxiv.org/abs/1909.02651)
@@ -88,6 +89,7 @@
     + [Deep Modular Co-Attention Networks for Visual Question Answering](https://arxiv.org/abs/1906.10770)
     + [Enhancing Salient Object Segmentation Through Attention](https://arxiv.org/abs/1905.11522)[CVPRW】
     + [The Ethical Dilemma when (not) Setting up Cost-based Decision Rules in Semantic Segmentation](https://arxiv.org/abs/1907.01342)
+    + [Structured Binary Neural Networks for Accurate Image Classification and Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhuang_Structured_Binary_Neural_Networks_for_Accurate_Image_Classification_and_Semantic_CVPR_2019_paper.pdf)
   - AAAI 2019
     + [Learning Fully Dense Neural Networks for Image Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.08929)
   - ICIP2019
@@ -642,6 +644,7 @@
     + [Exploiting Temporality for Semi-Supervised Video Segmentation](https://arxiv.org/abs/1908.11309)
   - CVPR 2019
     + [Spatiotemporal CNN for Video Object Segmentation(Apr 2019)](https://arxiv.org/abs/1904.02363)[[Code]](https://github.com/longyin880815/STCNN)
+    + [MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_MHP-VOS_Multiple_Hypotheses_Propagation_for_Video_Object_Segmentation_CVPR_2019_paper.pdf)[[Code]](https://github.com/shuangjiexu/MHP-VOS)
   - other
     + [RPM-Net: Robust Pixel-Level Matching Networks for Self-Supervised Video Object Segmentation](https://arxiv.org/abs/1909.13247)
     + [Towards Good Practices for Video Object Segmentation](https://arxiv.org/abs/1909.13583)
