@@ -353,8 +353,7 @@
     + [Mixed-Supervised Dual-Network for Medical Image Segmentation](https://arxiv.org/abs/1907.10209)
     + [Assessing Reliability and Challenges of Uncertainty Estimations for Medical Image Segmentation](https://arxiv.org/abs/1907.03338)[[Code]](https://github.com/alainjungo/reliability-challenges-uncertainty)
     + [INN: Inflated Neural Networks for IPMN Diagnosis(30 Jun)](https://arxiv.org/abs/1907.00437)[[Code]](https://github.com/lalonderodney/INN-Inflated-Neural-Nets)
-    + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
-    + [Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation](https://arxiv.org/abs/1906.11143)[[Pytorch]](https://github.com/EmmaW8/BEAL)[[Dataset]](https://refuge.grand-challenge.org/)
+    + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)    
     + [Supervised Uncertainty Quantification for Segmentation with Multiple Annotations](https://arxiv.org/abs/1907.01949)
     + [Adversarial Learning with Multiscale Features and Kernel Factorization for Retinal Blood Vessel Segmentation(5 Jul)](https://arxiv.org/abs/1907.02742)
     + [FocusNet: Imbalanced Large and Small Organ Segmentation with an End-to-End Deep Neural Network for Head and Neck CT Images](https://arxiv.org/abs/1907.12056)
@@ -365,6 +364,7 @@
     + [A Weakly Supervised Method for Instance Segmentation of Biological Cells](https://arxiv.org/abs/1908.09891)[[Workshop]][Weakly Supervised]
     + [A hybrid deep learning framework for integrated segmentation and registration: evaluation on longitudinal white matter tract changes](https://arxiv.org/abs/1908.10221)[[oral]]
     + [CELNet: Evidence Localization for Pathology Images using Weakly Supervised Learning](https://arxiv.org/abs/1909.07097)[Weakly Supervised]
+    + [Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation](https://arxiv.org/abs/1906.11143)[[Pytorch]](https://github.com/EmmaW8/BEAL)[[Dataset]](https://refuge.grand-challenge.org/)
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
