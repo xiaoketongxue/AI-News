@@ -493,7 +493,7 @@
     + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)
     + [Decompose-and-Integrate Learning for Multi-class Segmentation in Medical Images](https://arxiv.org/abs/1906.02901)
     + [PseudoEdgeNet: Nuclei Segmentation only with Point Annotations](https://arxiv.org/abs/1906.02924)[weakly supervised ]
-    + [PHiSeg: Capturing Uncertainty in Medical Image Segmentation](https://arxiv.org/abs/1906.04045)
+    + [PHiSeg: Capturing Uncertainty in Medical Image Segmentation](https://arxiv.org/abs/1906.04045)[[Code]](https://github.com/baumgach/PHiSeg-code)
     + [Cardiac MRI Segmentation with Strong Anatomical Guarantees(5 Jul)](https://arxiv.org/abs/1907.02865)
     + [Data Efficient Unsupervised Domain Adaptation for Cross-Modality Image Segmentation(5 Jul)](https://arxiv.org/abs/1907.02766)
     + [Automated Multi-sequence Cardiac MRI Segmentation Using Supervised Domain Adaptation](https://arxiv.org/abs/1908.07726)
