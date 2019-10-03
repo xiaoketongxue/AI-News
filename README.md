@@ -341,7 +341,7 @@
     + [IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation](https://arxiv.org/abs/1908.06623?context=cs)
     + [Kidney tumor segmentation using an ensembling multi-stage deep learning approach. A contribution to the KiTS19 challenge](https://arxiv.org/abs/1909.00735)[Challenge]
     + [Hyper-Pairing Network for Multi-Phase Pancreatic Ductal Adenocarcinoma Segmentation](https://arxiv.org/abs/1909.00906)
-    + [U-Net Fixed-Point Quantization for Medical Image Segmentation](https://github.com/hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation)
+    + [U-Net Fixed-Point Quantization for Medical Image Segmentation][https://arxiv.org/abs/1908.01073](https://github.com/hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation)
     + [Automated Lesion Detection by Regressing Intensity-Based Distance with a Neural Network](https://arxiv.org/abs/1907.12452)
     + [Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation](https://arxiv.org/abs/1907.13124)[[Code]](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)
     + [Recurrent Aggregation Learning for Multi-View Echocardiographic Sequences Segmentation](https://arxiv.org/abs/1907.11292)
