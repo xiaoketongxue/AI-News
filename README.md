@@ -352,7 +352,6 @@
     + [INN: Inflated Neural Networks for IPMN Diagnosis(30 Jun)](https://arxiv.org/abs/1907.00437)[[Code]](https://github.com/lalonderodney/INN-Inflated-Neural-Nets)
     + [Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders](https://arxiv.org/abs/1906.02343)    
     + [Supervised Uncertainty Quantification for Segmentation with Multiple Annotations](https://arxiv.org/abs/1907.01949)
-    + [Adversarial Learning with Multiscale Features and Kernel Factorization for Retinal Blood Vessel Segmentation(5 Jul)](https://arxiv.org/abs/1907.02742)
     + [Graph Convolutional Networks for Coronary Artery Segmentation in Cardiac CT Angiography](https://arxiv.org/abs/1908.05343)[Workshop]
     + [U-Net Training with Instance-Layer Normalization](https://arxiv.org/abs/1908.08466)[[Workshop]]
     + [Estimation of preterm birth markers with U-Net segmentation network](https://arxiv.org/abs/1908.09148)[[Workshop]]
@@ -365,6 +364,7 @@
     + [Attention Guided Network for Retinal Image Segmentation](https://arxiv.org/abs/1907.12930)[[Pytorch]](https://github.com/HzFu/AGNet)
     + [ET-Net: A Generic Edge-aTtention Guidance Network for Medical Image Segmentation](https://arxiv.org/abs/1907.10936)[Code](https://github.com/ZzzJzzZ/ETNet)
     + [FocusNet: Imbalanced Large and Small Organ Segmentation with an End-to-End Deep Neural Network for Head and Neck CT Images](https://arxiv.org/abs/1907.12056)[SenseTime]
+    + [Adversarial Learning with Multiscale Features and Kernel Factorization for Retinal Blood Vessel Segmentation(5 Jul)](https://arxiv.org/abs/1907.02742)
   - CVPR 2019
     + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology(Apr 2019)](https://arxiv.org/abs/1904.06040)
     + [Exploiting Computation Power of Blockchain for Biomedical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.07349)
@@ -571,7 +571,7 @@
     + [Generative Model-Based Ischemic Stroke Lesion Segmentation(Jun 2019)](https://arxiv.org/abs/1906.02392)
     + [Automated Segmentation for Hyperdense Middle Cerebral Artery Sign of Acute Ischemic Stroke on Non-Contrast CT Images(May 2019)](https://arxiv.org/abs/1905.09049)
     + [3D Dense Separated Convolution Module for Volumetric Image Analysis(May 2019)](https://arxiv.org/abs/1905.08608)[[cross validation]]
-    + [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud（May 2019)](https://arxiv.org/abs/1905.08748)  
+    + [RIU-Net: Embarrassingly simple semantic segmentation of 3D LiDAR point cloud（May 2019)](https://arxiv.org/abs/1905.08748) 
     + [Thickened 2D Networks for 3D Medical Image Segmentation(Apr 2019)](https://arxiv.org/abs/1904.01150)
     + [Spherical U-Net on Cortical Surfaces: Methods and Applications(Apr 2019)](https://arxiv.org/abs/1904.00906)[cross-validation] 
     + [Fully Automatic Segmentation of 3D Brain Ultrasound: Learning from Coarse Annotations(Apr 2019)](https://arxiv.org/abs/1904.08655)[cross-validation]  
