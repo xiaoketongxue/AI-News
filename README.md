@@ -55,6 +55,7 @@
     + [Dual Attention MobDenseNet(DAMDNet) for Robust 3D Face Alignment](https://arxiv.org/abs/1908.11821)[Code](https://github.com/LeiJiangJNU/DAMDNet)[[workshop]]
     + [Adversarial Learning with Margin-based Triplet Embedding Regularization](https://arxiv.org/abs/1909.09481)[Code](https://github.com/zhongyy/Adversarial_MTER)
     + [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828)[Code](https://www.seas.upenn.edu/~nkolot/projects/spin/)
+    + [RITnet: Real-time Semantic Segmentation of the Eye for Gaze Tracking](https://arxiv.org/abs/1910.00694)[[Code]](https://bitbucket.org/eye-ush/ritnet/)[workshop]
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
     + [Implicit Semantic Data Augmentation for Deep Networks](https://arxiv.org/abs/1909.12220)[[Pytorch]](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)
@@ -101,6 +102,8 @@
   -  SCI  
     + [Self-Supervised Model Adaptation for Multimodal Semantic Segmentation](https://arxiv.org/abs/1808.03833)[[Code]](https://github.com/DeepSceneSeg)[IJCV]   
     + [Fine-grained Action Segmentation using the Semi-Supervised Action GAN](https://arxiv.org/abs/1909.09269)[ Pattern Recognition]  
+  - WACV
+    + [CNN-based Semantic Segmentation using Level Set Loss](https://arxiv.org/abs/1910.00950)
   - other
     + [End-to-End Deep Convolutional Active Contours for Image Segmentation](https://arxiv.org/abs/1909.13359)
     + [IPC-Net: 3D point-cloud segmentation using deep inter-point convolutional layers](https://arxiv.org/list/cs.CV/pastweek?skip=0&show=25)
@@ -390,6 +393,7 @@
     + [XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation(Apr 2019))](https://arxiv.org/abs/1904.09229)[[Pytorch]](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)
     + [Learning joint lesion and tissue segmentation from task-specific hetero-modal datasets](https://arxiv.org/abs/1907.03327)
   - MLMI
+    + [Privacy-preserving Federated Brain Tumour Segmentation](https://arxiv.org/abs/1910.00962)
     + [Deep Active Lesion Segmentation](https://arxiv.org/abs/1908.06933)
     + [Weakly Supervised Segmentation by A Deep Geodesic Prior](https://arxiv.org/abs/1908.06498)
     + [Boundary Aware Networks for Medical Image Segmentation](https://arxiv.org/abs/1908.08071)
