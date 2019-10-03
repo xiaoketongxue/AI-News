@@ -344,7 +344,7 @@
     + [Hyper-Pairing Network for Multi-Phase Pancreatic Ductal Adenocarcinoma Segmentation](https://arxiv.org/abs/1909.00906)
     + [U-Net Fixed-Point Quantization for Medical Image Segmentation](https://github.com/hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation)
     + [Automated Lesion Detection by Regressing Intensity-Based Distance with a Neural Network](https://arxiv.org/abs/1907.12452)
-    + [Attention Guided Network for Retinal Image Segmentation](https://arxiv.org/abs/1907.12930)[Pytorch](https://github.com/HzFu/AGNet)
+    + [Attention Guided Network for Retinal Image Segmentation](https://arxiv.org/abs/1907.12930)[[Pytorch]](https://github.com/HzFu/AGNet)
     + [Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation](https://arxiv.org/abs/1907.13124)[[Code]](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)
     + [Recurrent Aggregation Learning for Multi-View Echocardiographic Sequences Segmentation](https://arxiv.org/abs/1907.11292)
     + [NoduleNet: Decoupled False Positive Reductionfor Pulmonary Nodule Detection and Segmentation](https://arxiv.org/abs/1907.11320)
@@ -362,7 +362,7 @@
     + [U-Net Training with Instance-Layer Normalization](https://arxiv.org/abs/1908.08466)[[Workshop]]
     + [Cephalometric Landmark Detection by AttentiveFeature Pyramid Fusion and Regression-Voting](https://arxiv.org/abs/1908.08841)
     + [Estimation of preterm birth markers with U-Net segmentation network](https://arxiv.org/abs/1908.09148)[[Workshop]]
-    + [A Weakly Supervised Method for Instance Segmentation of Biological Cells](https://arxiv.org/abs/1908.09891)[[Workshop]]
+    + [A Weakly Supervised Method for Instance Segmentation of Biological Cells](https://arxiv.org/abs/1908.09891)[[Workshop]][Weakly Supervised]
     + [A hybrid deep learning framework for integrated segmentation and registration: evaluation on longitudinal white matter tract changes](https://arxiv.org/abs/1908.10221)[[oral]]
     + [CELNet: Evidence Localization for Pathology Images using Weakly Supervised Learning](https://arxiv.org/abs/1909.07097)[Weakly Supervised]
   - CVPR 2019
