@@ -495,7 +495,7 @@
     + [PseudoEdgeNet: Nuclei Segmentation only with Point Annotations](https://arxiv.org/abs/1906.02924)[weakly supervised ]
     + [PHiSeg: Capturing Uncertainty in Medical Image Segmentation](https://arxiv.org/abs/1906.04045)[[Code]](https://github.com/baumgach/PHiSeg-code)
     + [Cardiac MRI Segmentation with Strong Anatomical Guarantees(5 Jul)](https://arxiv.org/abs/1907.02865)
-    + [Data Efficient Unsupervised Domain Adaptation for Cross-Modality Image Segmentation(5 Jul)](https://arxiv.org/abs/1907.02766)
+    + [Data Efficient Unsupervised Domain Adaptation for Cross-Modality Image Segmentation(5 Jul)](https://arxiv.org/abs/1907.02766)[Unsupervised]
     + [Automated Multi-sequence Cardiac MRI Segmentation Using Supervised Domain Adaptation](https://arxiv.org/abs/1908.07726)
     + [Unsupervised Multi-modal Style Transfer for Cardiac MR Segmentation](https://arxiv.org/abs/1908.07344)
     + [Endotracheal Tube Detection and Segmentation in Chest Radiographs using Synthetic Data](https://arxiv.org/abs/1908.07170)
