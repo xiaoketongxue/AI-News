@@ -358,11 +358,11 @@
     + [FocusNet: Imbalanced Large and Small Organ Segmentation with an End-to-End Deep Neural Network for Head and Neck CT Images](https://arxiv.org/abs/1907.12056)
     + [Graph Convolutional Networks for Coronary Artery Segmentation in Cardiac CT Angiography](https://arxiv.org/abs/1908.05343)[Workshop]
     + [U-Net Training with Instance-Layer Normalization](https://arxiv.org/abs/1908.08466)[[Workshop]]
-    + [Cephalometric Landmark Detection by AttentiveFeature Pyramid Fusion and Regression-Voting](https://arxiv.org/abs/1908.08841)
     + [Estimation of preterm birth markers with U-Net segmentation network](https://arxiv.org/abs/1908.09148)[[Workshop]]
     + [A Weakly Supervised Method for Instance Segmentation of Biological Cells](https://arxiv.org/abs/1908.09891)[[Workshop]][Weakly Supervised]
     + [A hybrid deep learning framework for integrated segmentation and registration: evaluation on longitudinal white matter tract changes](https://arxiv.org/abs/1908.10221)[[oral]]
     + [CELNet: Evidence Localization for Pathology Images using Weakly Supervised Learning](https://arxiv.org/abs/1909.07097)[Weakly Supervised]
+    + [Cephalometric Landmark Detection by AttentiveFeature Pyramid Fusion and Regression-Voting](https://arxiv.org/abs/1908.08841)
     + [Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation](https://arxiv.org/abs/1906.11143)[[Pytorch]](https://github.com/EmmaW8/BEAL)[[Dataset]](https://refuge.grand-challenge.org/)
     + [Dual Adaptive Pyramid Network for Cross-Stain Histopathology Image Segmentation](https://arxiv.org/abs/1909.11524)
   - CVPR 2019
