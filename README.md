@@ -20,6 +20,7 @@
 ## Semantic Segmentation
 ### 2019
   - ICCV2019
+    + [On the Efficacy of Knowledge Distillation](https://arxiv.org/abs/1910.01348)
     + [Domain Adaptation for Semantic Segmentation with Maximum Squares Loss](https://arxiv.org/abs/1909.13589)
     + [ACFNet: Attentional Class Feature Network for Semantic Segmentation](https://arxiv.org/abs/1909.09408)
     + [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678)[[Code]](https://github.com/MendelXu/ANN)
@@ -105,6 +106,8 @@
   - WACV
     + [CNN-based Semantic Segmentation using Level Set Loss](https://arxiv.org/abs/1910.00950)
   - other
+    + [Learning Point Embeddings from Shape Repositories for Few-Shot Segmentation](https://arxiv.org/abs/1910.01269)
+    + [3D Neighborhood Convolution: Learning Depth-Aware Features for RGB-D and RGB Semantic Segmentation](https://arxiv.org/abs/1910.01460)
     + [End-to-End Deep Convolutional Active Contours for Image Segmentation](https://arxiv.org/abs/1909.13359)
     + [IPC-Net: 3D point-cloud segmentation using deep inter-point convolutional layers](https://arxiv.org/list/cs.CV/pastweek?skip=0&show=25)
     + [Point Attention Network for Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/1909.12663)
@@ -356,8 +359,10 @@
     + [U-Net Training with Instance-Layer Normalization](https://arxiv.org/abs/1908.08466)[[Workshop]]
     + [Estimation of preterm birth markers with U-Net segmentation network](https://arxiv.org/abs/1908.09148)[[Workshop]]
     + [A Weakly Supervised Method for Instance Segmentation of Biological Cells](https://arxiv.org/abs/1908.09891)[[Workshop]][Weakly Supervised]
+    + [Weakly supervised segmentation from extreme points](https://arxiv.org/abs/1910.01236)[Workshop][Weakly supervised]
     + [A hybrid deep learning framework for integrated segmentation and registration: evaluation on longitudinal white matter tract changes](https://arxiv.org/abs/1908.10221)[[oral]]
     + [CELNet: Evidence Localization for Pathology Images using Weakly Supervised Learning](https://arxiv.org/abs/1909.07097)[Weakly Supervised]
+    + [Cardiac Segmentation of LGE MRI with Noisy Labels](https://arxiv.org/abs/1910.01242)[Workshop]
     + [Cephalometric Landmark Detection by AttentiveFeature Pyramid Fusion and Regression-Voting](https://arxiv.org/abs/1908.08841)
     + [Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation](https://arxiv.org/abs/1906.11143)[[Pytorch]](https://github.com/EmmaW8/BEAL)[[Dataset]](https://refuge.grand-challenge.org/)
     + [Dual Adaptive Pyramid Network for Cross-Stain Histopathology Image Segmentation](https://arxiv.org/abs/1909.11524)
