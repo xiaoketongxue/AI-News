@@ -106,6 +106,7 @@
   - WACV
     + [CNN-based Semantic Segmentation using Level Set Loss](https://arxiv.org/abs/1910.00950)
   - other
+    + [Unrestricted Adversarial Attacks for Semantic Segmentation](https://arxiv.org/abs/1910.02354)
     + [Learning Point Embeddings from Shape Repositories for Few-Shot Segmentation](https://arxiv.org/abs/1910.01269)
     + [3D Neighborhood Convolution: Learning Depth-Aware Features for RGB-D and RGB Semantic Segmentation](https://arxiv.org/abs/1910.01460)
     + [End-to-End Deep Convolutional Active Contours for Image Segmentation](https://arxiv.org/abs/1909.13359)
@@ -488,6 +489,7 @@
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik's Cube](https://arxiv.org/list/cs.CV/pastweek?skip=25&show=25)
     + [Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data](https://arxiv.org/abs/1909.09716)[Code](https://github.com/horsepurve/StyleSegor)
     + [MSU-Net: Multiscale Statistical U-Net for Real-time 3D Cardiac MRI Video Segmentation](https://arxiv.org/abs/1909.06726)
     + [SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation](https://arxiv.org/abs/1909.05962)
@@ -524,6 +526,7 @@
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Memory efficient brain tumor segmentation using an autoencoder-regularized U-Net](https://arxiv.org/abs/1910.02058)
     + [Brain Tumor Segmentation and Survival Prediction](https://arxiv.org/abs/1909.09399)
     + [3D Deep Affine-Invariant Shape Learning for Brain MR Image Segmentation](https://arxiv.org/abs/1909.06629)
     + [3D Kidneys and Kidney Tumor Semantic Segmentation using Boundary-Aware Networks](https://arxiv.org/abs/1909.06684)
