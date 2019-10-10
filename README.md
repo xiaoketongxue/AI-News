@@ -338,6 +338,7 @@
 ## 2D Medical Segmentation
 ### 2019
   - ICCV 2019
+    + [Eyenet: Attention based Convolutional Encoder-Decoder Network for Eye Region Segmentation](https://arxiv.org/abs/1910.03274)
     + [Deep Plug-and-Play Prior for Parallel MRI Reconstruction](https://arxiv.org/abs/1909.00089)
     + [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://arxiv.org/abs/1908.10555)
   - MICCAI 2019
@@ -417,6 +418,7 @@
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
 
   - other
+    + [Lung nodule segmentation via level set machine learning](https://arxiv.org/abs/1910.03191)
     + [A Symmetric Equilibrium Generative Adversarial Network with Attention Refine Block for Retinal Vessel Segmentation](https://arxiv.org/abs/1909.11936)
     + [Intelligent image synthesis to attack a segmentation CNN using adversarial learning](https://arxiv.org/abs/1909.11167)
     + [Volume Preserving Image Segmentation with Entropic Regularization Optimal Transport and Its Applications in Deep Learning](https://arxiv.org/abs/1909.09931)
@@ -633,6 +635,7 @@
     + [Interactive Full Image Segmentation by Considering All Regions Jointly](https://arxiv.org/abs/1812.01888)
     + [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
   - other
+    + [Fast Panoptic Segmentation Network](https://arxiv.org/abs/1910.03892
     + [Generator evaluator-selector net: a modular approach for panoptic segmentation](https://arxiv.org/abs/1908.09108)
     + [Straight to Shapes++: Real-time Instance Segmentation Made More Accurate(May 2019)](https://arxiv.org/abs/1905.11358)
     + [DeeperLab: Single-Shot Image Parser(Feb 2019)](https://arxiv.org/abs/1902.05093)[[Code]]
