@@ -14,6 +14,8 @@ CV-News
     
 # Classification
 ## 2019
+  - NIPS
+    + [Traned Rank Pruning for Efficient Deep Neural Networks](https://arxiv.org/abs/1910.04576)[Code](https://github.com/yuhuixu1993/Trained-Rank-Pruning)[Worksop]
   - ICCV 2019
     + [Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)[Code](https://github.com/sagiebenaim/DomainIntersectionDifference)
     + [Differentiable Learning-to-Group Channels via Groupable Convolutional Neural Networks](https://arxiv.org/abs/1908.05867)
