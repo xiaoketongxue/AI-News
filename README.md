@@ -67,7 +67,9 @@
     + [Global Aggregation then Local Distribution in Fully Convolutional Networks](https://arxiv.org/abs/1909.07229)[Code](https://github.com/lxtGH/GALD-Net)
     + [Feature Pyramid Encoding Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1909.08599)
     + [Accurate and Compact Convolutional Neural Networks with Trained Binarization](https://arxiv.org/abs/1909.11366)[[oral]]
+    + [Referring Expression Object Segmentation with Caption-Aware Consistency](https://arxiv.org/abs/1910.04748)[[Pytorch]](https://github.com/wenz116/lang2seg)
   - CVPR2019   
+    + [Searching for A Robust Neural Architecture in Four GPU Hours](https://arxiv.org/abs/1910.04465)[[Code]](https://github.com/D-X-Y/NAS-Projects)[camera-ready version]
     + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)[[Pytorch]](https://github.com/MenghaoGuo/AutoDeeplab)
     + [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/search/?query=ESPNetv2&searchtype=all&source=header)[[Code]](https://github.com/sacmehta/ESPNetv2)
     + [DFANet：Deep Feature Aggregation for Real-Time Semantic Segmentation](https://arxiv.org/abs/1904.02216)[[Pytoch]](https://github.com/huaifeng1993/DFANet)
@@ -341,6 +343,7 @@
     + [Eyenet: Attention based Convolutional Encoder-Decoder Network for Eye Region Segmentation](https://arxiv.org/abs/1910.03274)
     + [Deep Plug-and-Play Prior for Parallel MRI Reconstruction](https://arxiv.org/abs/1909.00089)
     + [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://arxiv.org/abs/1908.10555)
+    + [Multi-Stage Pathological Image Classification using Semantic Segmentation](https://arxiv.org/abs/1910.04473)
   - MICCAI 2019
     + [Integrating cross-modality hallucinated MRI with CT to aid mediastinal lung tumor segmentation](https://arxiv.org/abs/1909.04542)
     + [IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation](https://arxiv.org/abs/1908.06623?context=cs)
@@ -491,6 +494,7 @@
 ## 3D Medical Segmentation
 ### 2019
   - MICCAI 2019
+    + [Semi-Supervised Variational Autoencoder for Survival Prediction](https://arxiv.org/abs/1910.04488)
     + [Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik's Cube](https://arxiv.org/list/cs.CV/pastweek?skip=25&show=25)
     + [Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data](https://arxiv.org/abs/1909.09716)[Code](https://github.com/horsepurve/StyleSegor)
     + [MSU-Net: Multiscale Statistical U-Net for Real-time 3D Cardiac MRI Video Segmentation](https://arxiv.org/abs/1909.06726)
@@ -635,6 +639,7 @@
     + [Interactive Full Image Segmentation by Considering All Regions Jointly](https://arxiv.org/abs/1812.01888)
     + [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
   - other
+    + [Panoptic-DeepLab](https://arxiv.org/abs/1910.04751)
     + [Fast Panoptic Segmentation Network](https://arxiv.org/abs/1910.03892
     + [Generator evaluator-selector net: a modular approach for panoptic segmentation](https://arxiv.org/abs/1908.09108)
     + [Straight to Shapes++: Real-time Instance Segmentation Made More Accurate(May 2019)](https://arxiv.org/abs/1905.11358)
@@ -652,6 +657,8 @@
     + [Learning to Fuse Things and Stuff(Dec 2018)](https://arxiv.org/abs/1812.01192)
  ## Video-Segmentation
  ### 2019
+  - NIPS 
+    + [MetaPix: Few-Shot Video Retargeting](https://arxiv.org/abs/1910.04742)[[Code]](https://imjal.github.io/MetaPix/)[Workshop]
   - ICCV 2019
     + [CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing](https://arxiv.org/abs/1910.00132)[[Code]](https://github.com/KevinDuarte/CapsuleVOS)
     + [DMM-Net: Differentiable Mask-Matching Network for Video Object Segmentation](https://arxiv.org/abs/1909.12471)[Pytorch](https://github.com/ZENGXH/DMM_Net)
