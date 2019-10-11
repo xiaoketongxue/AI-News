@@ -493,7 +493,7 @@
     + [U-Net: Convolutional Networks for Biomedical Image Segmentation(May 2015)](https://arxiv.org/abs/1505.04597) 
 ## 3D Medical Segmentation
 ### 2019
-  - MICCAI 2019
+  - [MICCAI 2019](https://www.miccai2019.org/) [Workshop](https://www.miccai2019.org/programme/workshops-challenges-tutorials/)
     + [Semi-Supervised Variational Autoencoder for Survival Prediction](https://arxiv.org/abs/1910.04488)
     + [Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik's Cube](https://arxiv.org/list/cs.CV/pastweek?skip=25&show=25)
     + [Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data](https://arxiv.org/abs/1909.09716)[Code](https://github.com/horsepurve/StyleSegor)
