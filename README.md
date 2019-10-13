@@ -98,7 +98,7 @@
   - AAAI 2019
     + [Learning Fully Dense Neural Networks for Image Semantic Segmentation(May 2019)](https://arxiv.org/abs/1905.08929)
   - ICIP2019
-    + [Incorporating Luminance, Depth and Color Information by a Fusion-based Network for Semantic Segmentation](https://arxiv.org/abs/1809.09077)
+    + [Incorporating Luminance, Depth and Color Information by a Fusion-based Network for Semantic Segmentation](https://arxiv.org/abs/1809.09077)[[Code]](https://github.com/shangweihung/LDFNet)
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
     + [What's There in The Dark](https://ieeexplore.ieee.org/abstract/document/8803299/authors#authors)[[Keras]](https://github.com/sauradip/night_image_semantic_segmentation)
