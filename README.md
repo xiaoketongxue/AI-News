@@ -69,6 +69,7 @@
     + [Accurate and Compact Convolutional Neural Networks with Trained Binarization](https://arxiv.org/abs/1909.11366)[[oral]]
     + [Referring Expression Object Segmentation with Caption-Aware Consistency](https://arxiv.org/abs/1910.04748)[[Pytorch]](https://github.com/wenz116/lang2seg)
   - CVPR2019   
+    + [Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/abs/1903.03777)[[Code]](https://github.com/lixincn2015/Partial-Order-Pruning)
     + [Searching for A Robust Neural Architecture in Four GPU Hours](https://arxiv.org/abs/1910.04465)[[Code]](https://github.com/D-X-Y/NAS-Projects)[camera-ready version]
     + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)[[Pytorch]](https://github.com/MenghaoGuo/AutoDeeplab)
     + [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/search/?query=ESPNetv2&searchtype=all&source=header)[[Code]](https://github.com/sacmehta/ESPNetv2)
