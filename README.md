@@ -109,6 +109,7 @@
     + [Fine-grained Action Segmentation using the Semi-Supervised Action GAN](https://arxiv.org/abs/1909.09269)[ Pattern Recognition]  
   - WACV
     + [CNN-based Semantic Segmentation using Level Set Loss](https://arxiv.org/abs/1910.00950)
+    + [Shape Constrained Network for Eye Segmentation in the Wild](https://arxiv.org/abs/1910.05283)[[Code]](https://arxiv.org/abs/1910.05283)
   - other
     + [Unrestricted Adversarial Attacks for Semantic Segmentation](https://arxiv.org/abs/1910.02354)
     + [Learning Point Embeddings from Shape Repositories for Few-Shot Segmentation](https://arxiv.org/abs/1910.01269)
@@ -347,6 +348,7 @@
     + [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://arxiv.org/abs/1908.10555)
     + [Multi-Stage Pathological Image Classification using Semantic Segmentation](https://arxiv.org/abs/1910.04473)
   - MICCAI 2019
+    + [Automatic Segmentation of Muscle Tissue and Inter-muscular Fat in Thigh and Calf MRI Images](https://arxiv.org/abs/1910.04866)
     + [Integrating cross-modality hallucinated MRI with CT to aid mediastinal lung tumor segmentation](https://arxiv.org/abs/1909.04542)
     + [IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation](https://arxiv.org/abs/1908.06623?context=cs)
     + [Kidney tumor segmentation using an ensembling multi-stage deep learning approach. A contribution to the KiTS19 challenge](https://arxiv.org/abs/1909.00735)[Challenge]
