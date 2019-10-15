@@ -57,6 +57,7 @@
     + [Adversarial Learning with Margin-based Triplet Embedding Regularization](https://arxiv.org/abs/1909.09481)[Code](https://github.com/zhongyy/Adversarial_MTER)
     + [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828)[Code](https://www.seas.upenn.edu/~nkolot/projects/spin/)
     + [RITnet: Real-time Semantic Segmentation of the Eye for Gaze Tracking](https://arxiv.org/abs/1910.00694)[[Code]](https://bitbucket.org/eye-ush/ritnet/)[workshop]
+    + [Mask-Guided Attention Network for Occluded Pedestrian Detection](https://arxiv.org/abs/1910.06160)[[Code]](https://github.com/Leotju/MGAN)
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
     + [Implicit Semantic Data Augmentation for Deep Networks](https://arxiv.org/abs/1909.12220)[[Pytorch]](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)
@@ -111,6 +112,7 @@
     + [CNN-based Semantic Segmentation using Level Set Loss](https://arxiv.org/abs/1910.00950)
     + [Shape Constrained Network for Eye Segmentation in the Wild](https://arxiv.org/abs/1910.05283)[[Code]](https://arxiv.org/abs/1910.05283)
   - other
+    + [Saliency Guided Self-attention Network for Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/1910.05475)
     + [Unrestricted Adversarial Attacks for Semantic Segmentation](https://arxiv.org/abs/1910.02354)
     + [Learning Point Embeddings from Shape Repositories for Few-Shot Segmentation](https://arxiv.org/abs/1910.01269)
     + [3D Neighborhood Convolution: Learning Depth-Aware Features for RGB-D and RGB Semantic Segmentation](https://arxiv.org/abs/1910.01460)
@@ -498,6 +500,7 @@
 ## 3D Medical Segmentation
 ### 2019
   - [MICCAI 2019](https://www.miccai2019.org/) [Workshop](https://www.miccai2019.org/programme/workshops-challenges-tutorials/)
+    + [TuNet: End-to-end Hierarchical Brain Tumor Segmentation using Cascaded Networks](https://arxiv.org/abs/1910.05338)[MICCAI BrainLes 2019]
     + [Semi-Supervised Variational Autoencoder for Survival Prediction](https://arxiv.org/abs/1910.04488)
     + [Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik's Cube](https://arxiv.org/list/cs.CV/pastweek?skip=25&show=25)
     + [Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data](https://arxiv.org/abs/1909.09716)[Code](https://github.com/horsepurve/StyleSegor)
