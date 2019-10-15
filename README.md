@@ -111,6 +111,8 @@
   - WACV
     + [CNN-based Semantic Segmentation using Level Set Loss](https://arxiv.org/abs/1910.00950)
     + [Shape Constrained Network for Eye Segmentation in the Wild](https://arxiv.org/abs/1910.05283)[[Code]](https://arxiv.org/abs/1910.05283)
+  - ICCD
+    + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
     + [Saliency Guided Self-attention Network for Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/1910.05475)
     + [Unrestricted Adversarial Attacks for Semantic Segmentation](https://arxiv.org/abs/1910.02354)
