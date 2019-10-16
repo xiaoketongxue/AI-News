@@ -21,6 +21,8 @@
 ### 2019
   - ICCV2019
     + [On the Efficacy of Knowledge Distillation](https://arxiv.org/abs/1910.01348)
+    + [DeepGCNs: Making GCNs Go as Deep as CNNs](https://arxiv.org/abs/1910.06849)
+    + [SegSort: Segmentation by Discriminative Sorting of Segments](https://arxiv.org/abs/1910.06962)[[Code]](https://jyhjinghwang.github.io/projects/segsort.html)
     + [Domain Adaptation for Semantic Segmentation with Maximum Squares Loss](https://arxiv.org/abs/1909.13589)
     + [ACFNet: Attentional Class Feature Network for Semantic Segmentation](https://arxiv.org/abs/1909.09408)
     + [Asymmetric Non-local Neural Networks for Semantic Segmentation](https://arxiv.org/abs/1908.07678)[[Code]](https://github.com/MendelXu/ANN)
@@ -61,6 +63,7 @@
   - NIPS 2019
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
     + [Implicit Semantic Data Augmentation for Deep Networks](https://arxiv.org/abs/1909.12220)[[Pytorch]](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)
+    + [FireNet: Real-time Segmentation of Fire Perimeter from Aerial Video](https://arxiv.org/abs/1910.06407)[Workshop]
   - BMVC2019
     + [MixNet: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595)[Code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
     + [DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation](https://arxiv.org/abs/1907.11357)[[Pytorch]](https://github.com/Reagan1311/DABNet)
@@ -114,6 +117,7 @@
   - ICCD
     + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
+    + [Background Segmentation for Vehicle Re-Identification](https://arxiv.org/abs/1910.06613)
     + [Saliency Guided Self-attention Network for Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/1910.05475)
     + [Unrestricted Adversarial Attacks for Semantic Segmentation](https://arxiv.org/abs/1910.02354)
     + [Learning Point Embeddings from Shape Repositories for Few-Shot Segmentation](https://arxiv.org/abs/1910.01269)
