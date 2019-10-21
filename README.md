@@ -106,6 +106,7 @@
     + [Implicit Background Estimation for Semantic Segmentation](https://arxiv.org/abs/1905.13306)
     + [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423.pdf)
     + [What's There in The Dark](https://ieeexplore.ieee.org/abstract/document/8803299/authors#authors)[[Keras]](https://github.com/sauradip/night_image_semantic_segmentation)
+    + [Diversity in Fashion Recommendation using Semantic Parsing](https://arxiv.org/abs/1910.08292)[[pytorch]](https://github.com/sagarverma/FashionRecommendationST-LSTM)
   - SPL
     + [RFBNet: Deep Multimodal Networks with Residual Fusion Blocks for RGB-D Semantic Segmentation(29 Jun)](https://arxiv.org/abs/1907.00135)
   -  SCI  
@@ -117,6 +118,7 @@
   - ICCD
     + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
+    + [Attention Mechanism Enhanced Kernel Prediction Networks for Denoising of Burst Images](https://arxiv.org/abs/1910.08313)[[Pytorch]](https://github.com/z-bingo/Attention-Mechanism-Enhanced-KPN)
     + [Background Segmentation for Vehicle Re-Identification](https://arxiv.org/abs/1910.06613)
     + [Saliency Guided Self-attention Network for Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/1910.05475)
     + [Unrestricted Adversarial Attacks for Semantic Segmentation](https://arxiv.org/abs/1910.02354)
