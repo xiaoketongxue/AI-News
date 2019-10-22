@@ -61,6 +61,7 @@
     + [RITnet: Real-time Semantic Segmentation of the Eye for Gaze Tracking](https://arxiv.org/abs/1910.00694)[[Code]](https://bitbucket.org/eye-ush/ritnet/)[workshop]
     + [Mask-Guided Attention Network for Occluded Pedestrian Detection](https://arxiv.org/abs/1910.06160)[[Code]](https://github.com/Leotju/MGAN)
   - NIPS 2019
+    + [Object landmark discovery through unsupervised adaptation](https://arxiv.org/abs/1910.09469)[[Code]](https://arxiv.org/abs/1910.09469)
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
     + [Implicit Semantic Data Augmentation for Deep Networks](https://arxiv.org/abs/1909.12220)[[Pytorch]](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)
     + [FireNet: Real-time Segmentation of Fire Perimeter from Aerial Video](https://arxiv.org/abs/1910.06407)[Workshop]
