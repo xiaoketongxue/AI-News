@@ -548,6 +548,7 @@
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Trident Segmentation CNN: A Spatiotemporal Transformation CNN for Punctate White Matter Lesions Segmentation in Preterm Neonates](https://arxiv.org/abs/1910.09773)[[Keras]](https://arxiv.org/abs/1910.09773)
     + [Memory efficient brain tumor segmentation using an autoencoder-regularized U-Net](https://arxiv.org/abs/1910.02058)
     + [Brain Tumor Segmentation and Survival Prediction](https://arxiv.org/abs/1909.09399)
     + [3D Deep Affine-Invariant Shape Learning for Brain MR Image Segmentation](https://arxiv.org/abs/1909.06629)
