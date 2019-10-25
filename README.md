@@ -60,6 +60,7 @@
     + [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828)[Code](https://www.seas.upenn.edu/~nkolot/projects/spin/)
     + [RITnet: Real-time Semantic Segmentation of the Eye for Gaze Tracking](https://arxiv.org/abs/1910.00694)[[Code]](https://bitbucket.org/eye-ush/ritnet/)[workshop]
     + [Mask-Guided Attention Network for Occluded Pedestrian Detection](https://arxiv.org/abs/1910.06160)[[Code]](https://github.com/Leotju/MGAN)
+    + [Guided Image-to-Image Translation with Bi-Directional Feature Transformation](https://arxiv.org/list/cs.CV/recent)[[Code]](https://github.com/vt-vl-lab/Guided-pix2pix)
   - NIPS 2019
     + [Object landmark discovery through unsupervised adaptation](https://arxiv.org/abs/1910.09469)[[Code]](https://arxiv.org/abs/1910.09469)
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
