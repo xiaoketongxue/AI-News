@@ -359,6 +359,8 @@
     + [Deep Plug-and-Play Prior for Parallel MRI Reconstruction](https://arxiv.org/abs/1909.00089)
     + [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://arxiv.org/abs/1908.10555)
     + [Multi-Stage Pathological Image Classification using Semantic Segmentation](https://arxiv.org/abs/1910.04473)
+  - NIPS 2019
+    + [Neural Ordinary Differential Equations for Semantic Segmentation of Individual Colon Glands](https://arxiv.org/abs/1910.10470)[[Code]](https://arxiv.org/abs/1910.10470)
   - MICCAI 2019
     + [Automatic Segmentation of Muscle Tissue and Inter-muscular Fat in Thigh and Calf MRI Images](https://arxiv.org/abs/1910.04866)
     + [Integrating cross-modality hallucinated MRI with CT to aid mediastinal lung tumor segmentation](https://arxiv.org/abs/1909.04542)
@@ -437,6 +439,8 @@
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
 
   - other
+    + [Semantic Segmentation of Skin Lesions using a Small Data Set](https://arxiv.org/abs/1910.10534)
+    + [Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments](https://arxiv.org/abs/1910.11109)
     + [Lung nodule segmentation via level set machine learning](https://arxiv.org/abs/1910.03191)
     + [A Symmetric Equilibrium Generative Adversarial Network with Attention Refine Block for Retinal Vessel Segmentation](https://arxiv.org/abs/1909.11936)
     + [Intelligent image synthesis to attack a segmentation CNN using adversarial learning](https://arxiv.org/abs/1909.11167)
@@ -542,6 +546,7 @@
     + [Brain Tumor Segmentation on MRI with Missing Modalities(Apr 2019)](https://arxiv.org/abs/1904.07290)
     + [Accurate Nuclear Segmentation with \\Center Vector Encoding](https://arxiv.org/abs/1907.03951)
     + [Learning-based Optimization of the Under-sampling Pattern in MRI](https://arxiv.org/abs/1901.01960)[Code](https://github.com/cagladbahadir/LOUPE)
+    + [Random 2.5D U-net for Fully 3D Segmentation](https://arxiv.org/abs/1910.10398)[[Workshop]]
   - ISBI2019
     + [Prostate Segmentation from 3D MRI Using a Two-Stage Model and Variable-Input Based Uncertainty Measure](https://arxiv.org/abs/1903.02500)
     + [Improving Catheter Segmentation & Localization in 3D Cardiac Ultrasound Using Direction-Fused FCN](https://arxiv.org/abs/1902.05582)
@@ -678,6 +683,7 @@
   - NIPS 
     + [MetaPix: Few-Shot Video Retargeting](https://arxiv.org/abs/1910.04742)[[Code]](https://imjal.github.io/MetaPix/)[Workshop]
   - ICCV 2019
+    + [Anchor Diffusion for Unsupervised Video Object Segmentation](https://arxiv.org/abs/1910.10895)
     + [CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing](https://arxiv.org/abs/1910.00132)[[Code]](https://github.com/KevinDuarte/CapsuleVOS)
     + [DMM-Net: Differentiable Mask-Matching Network for Video Object Segmentation](https://arxiv.org/abs/1909.12471)[Pytorch](https://github.com/ZENGXH/DMM_Net)
     + [RANet: Ranking Attention Network for Fast Video Object Segmentation](https://arxiv.org/abs/1908.06647)[[Cpde]](https://github.com/Storife/RANet)
