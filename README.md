@@ -61,6 +61,7 @@
     + [RITnet: Real-time Semantic Segmentation of the Eye for Gaze Tracking](https://arxiv.org/abs/1910.00694)[[Code]](https://bitbucket.org/eye-ush/ritnet/)[workshop]
     + [Mask-Guided Attention Network for Occluded Pedestrian Detection](https://arxiv.org/abs/1910.06160)[[Code]](https://github.com/Leotju/MGAN)
     + [Guided Image-to-Image Translation with Bi-Directional Feature Transformation](https://arxiv.org/list/cs.CV/recent)[[Code]](https://github.com/vt-vl-lab/Guided-pix2pix)
+    + [Seeing What a GAN Cannot Generate](https://arxiv.org/abs/1910.11626)[[Code]](https://arxiv.org/abs/1910.11626)
   - NIPS 2019
     + [Object landmark discovery through unsupervised adaptation](https://arxiv.org/abs/1910.09469)[[Code]](https://arxiv.org/abs/1910.09469)
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
@@ -120,6 +121,7 @@
   - ICCD
     + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
+    + [LPRNet: Lightweight Deep Network by Low-rank Pointwise Residual Convolution](https://arxiv.org/abs/1910.11853)
     + [Attention Mechanism Enhanced Kernel Prediction Networks for Denoising of Burst Images](https://arxiv.org/abs/1910.08313)[[Pytorch]](https://github.com/z-bingo/Attention-Mechanism-Enhanced-KPN)
     + [Background Segmentation for Vehicle Re-Identification](https://arxiv.org/abs/1910.06613)
     + [Saliency Guided Self-attention Network for Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/1910.05475)
@@ -439,6 +441,7 @@
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
 
   - other
+    + [Unified Multi-scale Feature Abstraction for Medical Image Segmentation](https://arxiv.org/abs/1910.11456)
     + [Semantic Segmentation of Skin Lesions using a Small Data Set](https://arxiv.org/abs/1910.10534)
     + [Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments](https://arxiv.org/abs/1910.11109)
     + [Lung nodule segmentation via level set machine learning](https://arxiv.org/abs/1910.03191)
