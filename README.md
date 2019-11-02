@@ -441,6 +441,7 @@
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
 
   - other
+    + [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/pdf/1902.04049v1.pdf)[[Keras]](https://github.com/nibtehaz/MultiResUNet)
     + [Unified Multi-scale Feature Abstraction for Medical Image Segmentation](https://arxiv.org/abs/1910.11456)
     + [Semantic Segmentation of Skin Lesions using a Small Data Set](https://arxiv.org/abs/1910.10534)
     + [Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments](https://arxiv.org/abs/1910.11109)
@@ -505,15 +506,27 @@
     + [FocusNet: An attention-based Fully Convolutional Network for Medical Image Segmentation(https://arxiv.org/abs/1902.03091)](https://arxiv.org/abs/1902.03091)
     + [Skin Cancer Segmentation and Classification with NABLA-N and Inception Recurrent Residual Convolutional Networks](https://arxiv.org/abs/1904.11126)
 ### 2018
+  - MICCAI
+    + [UNet++: A Nested U-Net Architecture for Medical Image Segmentation(Jul 2018)](https://arxiv.org/abs/1807.10165)[[Keras]](https://github.com/MrGiovanni/UNetPlusPlus)[[Pytorch]](https://github.com/ShawnBIT/UNet-family/blob/master/networks/UNet_Nested.py)
   - IPMI 2018
     + [CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation](https://arxiv.org/abs/1903.05358)
   - other
     + [Attention U-Net: Learning Where to Look for the Pancreas(Apr 2018)](https://arxiv.org/abs/1804.03999)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
     + [Attention Gated Networks: Learning to Leverage Salient Regions in Medical Images(Aug 2018)](https://arxiv.org/abs/1808.08114)[[Pytorch]](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models)
-    + [UNet++: A Nested U-Net Architecture for Medical Image Segmentation(Jul 2018)](https://arxiv.org/abs/1807.10165)
+    + [MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation](https://arxiv.org/pdf/1812.00352.pdf)
+    + [DUNet: A deformable network for retinal vessel segmentation](https://arxiv.org/pdf/1811.01206.pdf)
+    + [LADDERNET: Multi-Path Networks Based on U-Net for Medical Image Segmentation](https://arxiv.org/pdf/1810.07810.pdf)[[Pytorch]](https://github.com/juntang-zhuang/LadderNet)
+    + [A Probabilistic U-Net for Segmentation of Ambiguous Images (NIPS)](https://arxiv.org/pdf/1806.05034.pdf)[[tensorflow]](https://github.com/SimonKohl/probabilistic_unet)
+    + [3D RoI-aware U-Net for Accurate and Efficient Colorectal Cancer Segmentation ](https://arxiv.org/pdf/1806.10342.pdf)[[Pytorch]](https://github.com/huangyjhust/3D-RU-Net)
+    
 ### Before 2018
+  - 2017
+    + [H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes ](https://arxiv.org/pdf/1709.07330.pdf)[[Keras]](https://github.com/xmengli999/H-DenseUNet)[IEEE Transactions on Medical Imaging,TIM]
+  - 2016
+    + [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](http://campar.in.tum.de/pub/milletari2016Vnet/milletari2016Vnet.pdf)[[Pytorch]](https://github.com/mattmacy/vnet.pytorch)[[Cafee]](https://github.com/faustomilletari/VNet)
+    + [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/pdf/1606.06650.pdf)[[Pytorch]](https://github.com/wolny/pytorch-3dunet)
   - MICCAI 2015   
-    + [U-Net: Convolutional Networks for Biomedical Image Segmentation(May 2015)](https://arxiv.org/abs/1505.04597) 
+    + [U-Net: Convolutional Networks for Biomedical Image Segmentation(May 2015)](https://arxiv.org/abs/1505.04597)[[Keras]](https://github.com/zhixuhao/unet)[[Pytorch]](https://github.com/ShawnBIT/UNet-family/blob/master/networks/UNet.py)
 ## 3D Medical Segmentation
 ### 2019
   - [MICCAI 2019](https://www.miccai2019.org/) [Workshop](https://www.miccai2019.org/programme/workshops-challenges-tutorials/)
