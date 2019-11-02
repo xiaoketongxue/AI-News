@@ -1,4 +1,4 @@
-# CV-News
+# AI-News
 - [x] [Semantation(new)](#Semantic-Segmentation)
 - [x] [Classification](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)  
 - [x] [Graph Neural Networks](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)    
