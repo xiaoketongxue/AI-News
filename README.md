@@ -444,6 +444,8 @@
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
 
   - other
+    + [Gland Segmentation in Histopathological Images by Deep Neural Network](https://arxiv.org/abs/1911.00909)
+    + [Semantic Feature Attention Network for Liver Tumor Segmentation in Large-scale CT database](https://arxiv.org/abs/1911.00282)
     + [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/pdf/1902.04049v1.pdf)[[Keras]](https://github.com/nibtehaz/MultiResUNet)
     + [Unified Multi-scale Feature Abstraction for Medical Image Segmentation](https://arxiv.org/abs/1910.11456)
     + [Semantic Segmentation of Skin Lesions using a Small Data Set](https://arxiv.org/abs/1910.10534)
