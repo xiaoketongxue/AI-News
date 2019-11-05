@@ -20,6 +20,7 @@
 ## Semantic Segmentation
 ### 2019
   - ICCV2019
+    + [Eye Semantic Segmentation with a Lightweight Model](https://arxiv.org/abs/1911.01049)[Code](https://github.com/th2l/Eye_VR_Segmentation)[Workshop]
     + [On the Efficacy of Knowledge Distillation](https://arxiv.org/abs/1910.01348)
     + [DeepGCNs: Making GCNs Go as Deep as CNNs](https://arxiv.org/abs/1910.06849)
     + [SegSort: Segmentation by Discriminative Sorting of Segments](https://arxiv.org/abs/1910.06962)[[Code]](https://jyhjinghwang.github.io/projects/segsort.html)
@@ -364,6 +365,8 @@
   - NIPS 2019
     + [Neural Ordinary Differential Equations for Semantic Segmentation of Individual Colon Glands](https://arxiv.org/abs/1910.10470)[[Code]](https://arxiv.org/abs/1910.10470)
   - MICCAI 2019
+    + [PGU-net+: Progressive Growing of U-net+ for Automated Cervical Nuclei Segmentation](https://arxiv.org/abs/1911.01062)[MMMI2019 Best Student Paper Award]
+    + [Semi-Supervised Medical Image Segmentation via Learning Consistency under Transformations](https://arxiv.org/abs/1911.01218)
     + [Automatic Segmentation of Muscle Tissue and Inter-muscular Fat in Thigh and Calf MRI Images](https://arxiv.org/abs/1910.04866)
     + [Integrating cross-modality hallucinated MRI with CT to aid mediastinal lung tumor segmentation](https://arxiv.org/abs/1909.04542)
     + [IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation](https://arxiv.org/abs/1908.06623?context=cs)
