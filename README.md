@@ -53,7 +53,6 @@
     + [Attention on Attention for Image Captioning](https://arxiv.org/abs/1908.06954)[[Code]](https://github.com/husthuaan/AoANet)
     + [A Fast and Accurate One-Stage Approach to Visual Grounding](https://arxiv.org/abs/1908.06354)
     + [Context-Aware Emotion Recognition Networks](https://arxiv.org/abs/1908.05913)[[Code]](https://arxiv.org/abs/1908.05913)
-    + [Mixed High-Order Attention Network for Person Re-Identification](https://arxiv.org/abs/1908.05819)[[Code]](http://www.bhchen.cn/)
     + [Learning Filter Basis for Convolutional Neural Network Compression](https://arxiv.org/pdf/1908.08932.pdf)[[Pytorch]](https://github.com/ofsoundof/learning_filter_basis)
     + [Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels](https://arxiv.org/abs/1908.09597)
     + [Deep Camera: A Fully Convolutional Neural Network for Image Signal Processing](https://arxiv.org/abs/1908.09191)[[workshop]]
@@ -723,6 +722,6 @@
     + [MAIN: Multi-Attention Instance Network for Video Segmentation](https://arxiv.org/abs/1904.05847)
   # Re-Identification
   ## 2019
-   - ICCV
-    + [Mixed High-Order Attention Network for Person Re-Identification]()
+   - ICCV  
+     + [Mixed High-Order Attention Network for Person Re-Identification](https://arxiv.org/abs/1908.05819)[[Code]](http://www.bhchen.cn/)
     
