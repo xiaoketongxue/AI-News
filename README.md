@@ -1,5 +1,6 @@
 # AI-News
 - [x] [Semantation(new)](#Semantic-Segmentation)
+- [x] [Re-Identification](#Re-Identification)
 - [x] [Classification](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)  
 - [x] [Graph Neural Networks](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)    
 - [x] [Super-Resolution](https://github.com/xiaoketongxue/CV-News/blob/master/Others.md)    
@@ -720,3 +721,8 @@
     + [Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation(Jul 2019)](https://arxiv.org/abs/1907.01203)
     + [Video Instance Segmentation](https://arxiv.org/abs/1905.04804)
     + [MAIN: Multi-Attention Instance Network for Video Segmentation](https://arxiv.org/abs/1904.05847)
+  # Re-Identification
+  ## 2019
+   - ICCV
+    + [Mixed High-Order Attention Network for Person Re-Identification]()
+    
