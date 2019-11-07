@@ -442,6 +442,7 @@
     + [Task Decomposition and Synchronization for Semantic Biomedical Image Segmentation(May 2019)](https://arxiv.org/abs/1905.08720)[IEEE Transactions on Medical Imaging,TMI]
     + [NAS-Unet: Neural Architecture Search for Medical Image Segmentation(Apr 2019)](https://ieeexplore.ieee.org/iel7/6287639/8600701/08681706.pdf)[IEEE Access]
     + [3-D Surface Segmentation Meets Conditional Random Fields](https://arxiv.org/abs/1906.04714)
+    + [Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications](https://arxiv.org/abs/1911.02521)
 
   - other
     + [Gland Segmentation in Histopathological Images by Deep Neural Network](https://arxiv.org/abs/1911.00909)
@@ -535,6 +536,7 @@
 ## 3D Medical Segmentation
 ### 2019
   - [MICCAI 2019](https://www.miccai2019.org/) [Workshop](https://www.miccai2019.org/programme/workshops-challenges-tutorials/)
+    + [Scribble-based Hierarchical Weakly Supervised Learning for Brain Tumor Segmentation](https://arxiv.org/abs/1911.02014)
     + [TuNet: End-to-end Hierarchical Brain Tumor Segmentation using Cascaded Networks](https://arxiv.org/abs/1910.05338)[MICCAI BrainLes 2019]
     + [Semi-Supervised Variational Autoencoder for Survival Prediction](https://arxiv.org/abs/1910.04488)
     + [Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik's Cube](https://arxiv.org/list/cs.CV/pastweek?skip=25&show=25)
