@@ -726,4 +726,5 @@
      + [Mixed High-Order Attention Network for Person Re-Identification](https://arxiv.org/abs/1908.05819)[[Code]](http://www.bhchen.cn/)
      + [Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification](https://arxiv.org/abs/1811.10144)[Code](https://github.com/OasisYang/SSG)
      + [ABD-Net: Attentive but Diverse Person Re-Identification](https://arxiv.org/abs/1908.01114)[Code](https://github.com/TAMU-VITA/ABD-Net)
+     + [Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification](https://arxiv.org/abs/1811.10144)[Code](https://github.com/OasisYang/SSG)[Oral]
     
