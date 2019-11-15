@@ -20,6 +20,9 @@
 
 ## Semantic Segmentation
 ### 2019
+  - NEW
+    + [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
+    + [Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research](https://arxiv.org/abs/1911.05063)[[Code]](https://github.com/NVIDIAGameWorks/kaolin/)
   - ICCV2019
     + [Eye Semantic Segmentation with a Lightweight Model](https://arxiv.org/abs/1911.01049)[Code](https://github.com/th2l/Eye_VR_Segmentation)[Workshop]
     + [On the Efficacy of Knowledge Distillation](https://arxiv.org/abs/1910.01348)
@@ -66,6 +69,7 @@
   - NIPS 2019
     + [Object landmark discovery through unsupervised adaptation](https://arxiv.org/abs/1910.09469)[[Code]](https://arxiv.org/abs/1910.09469)
     + [Implicit Semantic Data Augmentation for Deep Networks](https://arxiv.org/abs/1909.12220)[[Pytorch]](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)
+    + [Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations](https://arxiv.org/pdf/1911.05277.pdf)[[code]](https://github.com/fly519/ELGS)
     + [FireNet: Real-time Segmentation of Fire Perimeter from Aerial Video](https://arxiv.org/abs/1910.06407)[Workshop]
   - BMVC2019
     + [MixNet: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595)[Code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
@@ -121,6 +125,7 @@
   - ICCD
     + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
+    + [Location-aware Upsampling for Semantic Segmentation](https://arxiv.org/abs/1911.05250)[Code](https://arxiv.org/abs/1911.05250)
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
     + [LPRNet: Lightweight Deep Network by Low-rank Pointwise Residual Convolution](https://arxiv.org/abs/1910.11853)
     + [Attention Mechanism Enhanced Kernel Prediction Networks for Denoising of Burst Images](https://arxiv.org/abs/1910.08313)[[Pytorch]](https://github.com/z-bingo/Attention-Mechanism-Enhanced-KPN)
@@ -577,6 +582,7 @@
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [DARTS: DenseUnet-based Automatic Rapid Tool for brain Segmentation](https://arxiv.org/abs/1911.05567)[Code](https://github.com/NYUMedML/DARTS)
     + [Trident Segmentation CNN: A Spatiotemporal Transformation CNN for Punctate White Matter Lesions Segmentation in Preterm Neonates](https://arxiv.org/abs/1910.09773)[[Keras]](https://arxiv.org/abs/1910.09773)
     + [Memory efficient brain tumor segmentation using an autoencoder-regularized U-Net](https://arxiv.org/abs/1910.02058)
     + [Brain Tumor Segmentation and Survival Prediction](https://arxiv.org/abs/1909.09399)
