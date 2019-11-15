@@ -206,6 +206,7 @@ CV-News
   - [SPair-71k: A Large-scale Benchmark for Semantic Correspondence](https://arxiv.org/abs/1908.10543)
   - [Image Harmonization Datasets: HCOCO, HAdobe5k, HFlickr, and Hday2night](https://arxiv.org/abs/1908.10526)
   - [Icentia11K: An Unsupervised Representation Learning Dataset for Arrhythmia Subtype Discovery](https://arxiv.org/abs/1910.09570)
+  - [RWF-2000: An Open Large Scale Video Database for Violence Detection](https://arxiv.org/abs/1911.05913)
 ### Brain
   - Brain Tissue Segmentation
     + [MRBrainS2018](https://mrbrains18.isi.uu.nl/)
