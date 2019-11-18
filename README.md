@@ -125,6 +125,7 @@
   - ICCD
     + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
+    + [Stagewise Knowledge Distillation](https://arxiv.org/abs/1911.06786)
     + [Location-aware Upsampling for Semantic Segmentation](https://arxiv.org/abs/1911.05250)[Code](https://arxiv.org/abs/1911.05250)
     + [Improving Semantic Segmentation via Dilated Affinity](https://arxiv.org/abs/1907.07011)
     + [LPRNet: Lightweight Deep Network by Low-rank Pointwise Residual Convolution](https://arxiv.org/abs/1910.11853)
