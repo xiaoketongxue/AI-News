@@ -19,6 +19,10 @@
 - [x] [Video Segmentation](#Video-Segmentation)
 
 ## Semantic Segmentation
+### 2020
+  - AAAI
+    + [Segmenting Medical MRI via Recurrent Decoding Cell](https://arxiv.org/abs/1911.09401)
+
 ### 2019
   - NEW
     + [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
