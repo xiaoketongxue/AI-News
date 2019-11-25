@@ -455,6 +455,8 @@
     + [Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications](https://arxiv.org/abs/1911.02521)
 
   - other
+    + [HybridNetSeg: A Compact Hybrid Network for Retinal Vessel Segmentation](https://arxiv.org/abs/1911.09982)[[Pytorch]](https://github.com/JACKYLUO1991/HybridNetSeg)
+    + [Retinal Vessel Segmentation based on Fully Convolutional Networks](https://arxiv.org/abs/1911.09915)
     + [Gland Segmentation in Histopathological Images by Deep Neural Network](https://arxiv.org/abs/1911.00909)
     + [Semantic Feature Attention Network for Liver Tumor Segmentation in Large-scale CT database](https://arxiv.org/abs/1911.00282)
     + [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/pdf/1902.04049v1.pdf)[[Keras]](https://github.com/nibtehaz/MultiResUNet)
@@ -696,6 +698,7 @@
     + [Interactive Full Image Segmentation by Considering All Regions Jointly](https://arxiv.org/abs/1812.01888)
     + [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
   - other
+    + [Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation](https://arxiv.org/list/cs.CV/recent)
     + [Panoptic-DeepLab](https://arxiv.org/abs/1910.04751)
     + [Fast Panoptic Segmentation Network](https://arxiv.org/abs/1910.03892
     + [Generator evaluator-selector net: a modular approach for panoptic segmentation](https://arxiv.org/abs/1908.09108)
