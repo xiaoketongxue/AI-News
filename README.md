@@ -27,6 +27,7 @@
   - NEW
     + [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
     + [Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research](https://arxiv.org/abs/1911.05063)[[Code]](https://github.com/NVIDIAGameWorks/kaolin/)
+    + [Reinventing 2D Convolutions for 3D Medical Images](https://arxiv.org/abs/1911.10477)[[Code]](https://github.com/m3dv/ACSConv)
   - ICCV2019
     + [Eye Semantic Segmentation with a Lightweight Model](https://arxiv.org/abs/1911.01049)[Code](https://github.com/th2l/Eye_VR_Segmentation)[Workshop]
     + [On the Efficacy of Knowledge Distillation](https://arxiv.org/abs/1910.01348)
@@ -375,6 +376,7 @@
   - NIPS 2019
     + [Neural Ordinary Differential Equations for Semantic Segmentation of Individual Colon Glands](https://arxiv.org/abs/1910.10470)[[Code]](https://arxiv.org/abs/1910.10470)
   - MICCAI 2019
+    + [Globally Guided Progressive Fusion Network for 3D Pancreas Segmentation](https://arxiv.org/abs/1911.10360)
     + [PGU-net+: Progressive Growing of U-net+ for Automated Cervical Nuclei Segmentation](https://arxiv.org/abs/1911.01062)[MMMI2019 Best Student Paper Award]
     + [Semi-Supervised Medical Image Segmentation via Learning Consistency under Transformations](https://arxiv.org/abs/1911.01218)
     + [Automatic Segmentation of Muscle Tissue and Inter-muscular Fat in Thigh and Calf MRI Images](https://arxiv.org/abs/1910.04866)
@@ -455,6 +457,7 @@
     + [Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications](https://arxiv.org/abs/1911.02521)
 
   - other
+    + [Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1911.10334)
     + [HybridNetSeg: A Compact Hybrid Network for Retinal Vessel Segmentation](https://arxiv.org/abs/1911.09982)[[Pytorch]](https://github.com/JACKYLUO1991/HybridNetSeg)
     + [Retinal Vessel Segmentation based on Fully Convolutional Networks](https://arxiv.org/abs/1911.09915)
     + [Gland Segmentation in Histopathological Images by Deep Neural Network](https://arxiv.org/abs/1911.00909)
