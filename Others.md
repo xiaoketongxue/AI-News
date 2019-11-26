@@ -207,6 +207,7 @@ CV-News
   - [Image Harmonization Datasets: HCOCO, HAdobe5k, HFlickr, and Hday2night](https://arxiv.org/abs/1908.10526)
   - [Icentia11K: An Unsupervised Representation Learning Dataset for Arrhythmia Subtype Discovery](https://arxiv.org/abs/1910.09570)
   - [RWF-2000: An Open Large Scale Video Database for Violence Detection](https://arxiv.org/abs/1911.05913)
+  - [A Benchmark for Anomaly Segmentation](https://arxiv.org/abs/1911.11132)[[Code]](https://github.com/hendrycks/anomaly-seg)
 ### Brain
   - Brain Tissue Segmentation
     + [MRBrainS2018](https://mrbrains18.isi.uu.nl/)
