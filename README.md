@@ -22,6 +22,7 @@
 ### 2020
   - AAAI
     + [Segmenting Medical MRI via Recurrent Decoding Cell](https://arxiv.org/abs/1911.09401)
+    + [F3Net: Fusion, Feedback and Focus for Salient Object Detection](https://arxiv.org/abs/1911.11445)[[Code]](https://github.com/weijun88/F3Net)
 
 ### 2019
   - NEW
