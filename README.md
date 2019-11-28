@@ -270,7 +270,7 @@
     + [ExFuse: Enhancing Feature Fusion for Semantic Segmentation(Apr 2018)](https://arxiv.org/abs/1804.03821)
     + [Unified Perceptual Parsing for Scene Understanding(Jul 2018)](https://arxiv.org/abs/1807.10221)
     + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
-    + [PSANet: Point-wise Spatial Attention Network for Scene Parsing]https://hszhao.github.io/papers/eccv18_psanet.pdf)
+    + [PSANet: Point-wise Spatial Attention Network for Scene Parsing](https://hszhao.github.io/papers/eccv18_psanet.pdf)
   - NeurIPS 2018
     + [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction(Sep 2018)](https://arxiv.org/abs/1809.04184)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)
     + [A Probabilistic U-Net for Segmentation of Ambiguous Images(Jun 2018)](https://arxiv.org/abs/1806.05034)
