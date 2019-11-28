@@ -265,12 +265,12 @@
     + [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation(Aug 2018)](https://www.baidu.com/link?url=jC2iP9t_S6_XTmwSijQ9qCKLn6n51z71MV-Tki8qdlIgHCUgXgeIntJCx1PVmzZE&wd=&eqid=af75bc8c00018f26000000035cc7a700)
     + [ICNet for Real-Time Semantic Segmentation on High-Resolution Images(Apr 2017)](https://arxiv.org/abs/1704.08545)[[Pytorch]](https://github.com/hszhao/ICNet)
     + [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(Mar 2018 )](https://arxiv.org/abs/1803.06815)[[Pytorch]](https://github.com/sacmehta/ESPNet)
-    + [PSANet: Point-wise Spatial Attention Network for Scene Parsing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
     + [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation(Feb 2018)](https://arxiv.org/abs/1802.02611v1)[Deeplab V3+]
     + [Adaptive Affinity Fields for Semantic Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10335)
     + [ExFuse: Enhancing Feature Fusion for Semantic Segmentation(Apr 2018)](https://arxiv.org/abs/1804.03821)
     + [Unified Perceptual Parsing for Scene Understanding(Jul 2018)](https://arxiv.org/abs/1807.10221)
     + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
+    + [PSANet: Point-wise Spatial Attention Network for Scene Parsing]https://hszhao.github.io/papers/eccv18_psanet.pdf)
   - NeurIPS 2018
     + [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction(Sep 2018)](https://arxiv.org/abs/1809.04184)[[Tensorflow]](https://github.com/tensorflow/models/tree/master/research/deeplab)
     + [A Probabilistic U-Net for Segmentation of Ambiguous Images(Jun 2018)](https://arxiv.org/abs/1806.05034)
