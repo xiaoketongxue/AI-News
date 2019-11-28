@@ -31,6 +31,7 @@
     + [Reinventing 2D Convolutions for 3D Medical Images](https://arxiv.org/abs/1911.10477)[[Code]](https://github.com/m3dv/ACSConv)
   - ICCV2019
     + [ShelfNet for Fast Semantic Segmentation](https://arxiv.org/abs/1811.11254v6)[[Code]](https://arxiv.org/abs/1811.11254v6)
+    + [Recurrent U-Net for Resource-Constrained Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Recurrent_U-Net_for_Resource-Constrained_Segmentation_ICCV_2019_paper.pdf)
     + [Eye Semantic Segmentation with a Lightweight Model](https://arxiv.org/abs/1911.01049)[Code](https://github.com/th2l/Eye_VR_Segmentation)[Workshop]
     + [On the Efficacy of Knowledge Distillation](https://arxiv.org/abs/1910.01348)
     + [DeepGCNs: Making GCNs Go as Deep as CNNs](https://arxiv.org/abs/1910.06849)
