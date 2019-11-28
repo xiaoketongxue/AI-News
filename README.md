@@ -266,6 +266,7 @@
     + [ICNet for Real-Time Semantic Segmentation on High-Resolution Images(Apr 2017)](https://arxiv.org/abs/1704.08545)[[Pytorch]](https://github.com/hszhao/ICNet)
     + [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation(Mar 2018 )](https://arxiv.org/abs/1803.06815)[[Pytorch]](https://github.com/sacmehta/ESPNet)
     + [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation(Feb 2018)](https://arxiv.org/abs/1802.02611v1)[Deeplab V3+]
+    + [Pyramid Attention Network for Semantic Segmentation](https://www.baidu.com/link?url=dZPzXSz0sfHZylg1XlEb608N5xbz2bWdZWR0vJCVEqct4jh21DANQeE1NNqK1gwU&wd=&eqid=f4fbbf6400068658000000025ddf6a2e)
     + [Adaptive Affinity Fields for Semantic Segmentation(Mar 2018)](https://arxiv.org/abs/1803.10335)
     + [ExFuse: Enhancing Feature Fusion for Semantic Segmentation(Apr 2018)](https://arxiv.org/abs/1804.03821)
     + [Unified Perceptual Parsing for Scene Understanding(Jul 2018)](https://arxiv.org/abs/1807.10221)
