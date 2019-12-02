@@ -133,6 +133,7 @@
   - ICCD
     + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
+    + [Deep Object Co-segmentation via Spatial-Semantic Network Modulation](https://arxiv.org/abs/1911.12950)
     + [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/abs/1911.11236)[[Code]](https://github.com/QingyongHu/RandLA-Net)
     + [Stagewise Knowledge Distillation](https://arxiv.org/abs/1911.06786)
     + [Location-aware Upsampling for Semantic Segmentation](https://arxiv.org/abs/1911.05250)[Code](https://arxiv.org/abs/1911.05250)
