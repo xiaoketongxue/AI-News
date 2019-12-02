@@ -21,12 +21,13 @@
 ## Semantic Segmentation
 ### 2020
   - AAAI
-    + [Segmenting Medical MRI via Recurrent Decoding Cell](https://arxiv.org/abs/1911.09401)
+    + [Segmenting Medical MRI via Recurrent Decoding Cell](https://arxiv.org/abs/1911.09401)[[Code]](https://github.com/beijixiong3510/OWM)
     + [F3Net: Fusion, Feedback and Focus for Salient Object Detection](https://arxiv.org/abs/1911.11445)[[Code]](https://github.com/weijun88/F3Net)
 
 ### 2019
   - Nature Machine Intelligence
     + [Clinically applicable deep learning framework for organs at risk delineation in CT images](https://www_nature.xilesou.top/articles/s42256-019-0099-z)[[Code]](https://github.com/uci-cbcl/UaNet)
+    + [Continual learning of context-dependent processing in neural networks](https://www_nature.xilesou.top/articles/s42256-019-0080-x)
   - NEW
     + [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
     + [Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research](https://arxiv.org/abs/1911.05063)[[Code]](https://github.com/NVIDIAGameWorks/kaolin/)
