@@ -46,6 +46,7 @@ CV-News
     + [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)[[Code]](https://github.com/richzhang/antialiased-cnns)
     + [Self-Attention Graph Pooling](https://arxiv.org/abs/1904.08082)   
   - arXiv
+    + [Pruning at a Glance: Global Neural Pruning for Model Compression](https://arxiv.org/abs/1912.00200)
     + [Blockwisely Supervised Neural Architecture Search with Knowledge Distillation](https://arxiv.org/abs/1911.13053)
     + [Training convolutional neural networks with cheap convolutions and online distillation](https://arxiv.org/abs/1909.13063)[[Pytorch]](https://github.com/EthanZhangYC/OD-cheap-convolution)
     + [FALCON: Fast and Lightweight Convolution for Compressing and Accelerating CNN](https://arxiv.org/abs/1909.11321)
