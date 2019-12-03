@@ -32,9 +32,10 @@
     + [Human-level recognition of blast cells in acute myeloid leukaemia with convolutional neural networks](https://www.nature.com/articles/s42256-019-0101-9)[[Code]](https://codeocean.com/capsule/9068249/tree/v1)
     + [Deep learning and alternative learning strategies for retrospective real-world clinical data](https://www.nature.com/articles/s41746-019-0122-0)[[Code]](https://github.com/davidchenatmayo/ForPubDM)
   - NEW
-    + [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
+    + [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)[Kaiming He]
     + [Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research](https://arxiv.org/abs/1911.05063)[[Code]](https://github.com/NVIDIAGameWorks/kaolin/)
     + [Reinventing 2D Convolutions for 3D Medical Images](https://arxiv.org/abs/1911.10477)[[Code]](https://github.com/m3dv/ACSConv)
+    + [A Multigrid Method for Efficiently Training Video Models](https://arxiv.org/abs/1912.00998)[Kaiming He]
   - ICCV2019
     + [ShelfNet for Fast Semantic Segmentation](https://arxiv.org/abs/1811.11254v6)[[Code]](https://arxiv.org/abs/1811.11254v6)
     + [Recurrent U-Net for Resource-Constrained Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Recurrent_U-Net_for_Resource-Constrained_Segmentation_ICCV_2019_paper.pdf)
