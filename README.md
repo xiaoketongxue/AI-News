@@ -140,6 +140,7 @@
   - ICCD
     + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
+    + [RGPNet: A Real-Time General Purpose Semantic Segmentation](https://arxiv.org/abs/1912.01394)
     + [Deep Object Co-segmentation via Spatial-Semantic Network Modulation](https://arxiv.org/abs/1911.12950)
     + [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/abs/1911.11236)[[Code]](https://github.com/QingyongHu/RandLA-Net)
     + [Stagewise Knowledge Distillation](https://arxiv.org/abs/1911.06786)
@@ -737,6 +738,7 @@
  ### 2019
   - NIPS 
     + [MetaPix: Few-Shot Video Retargeting](https://arxiv.org/abs/1910.04742)[[Code]](https://imjal.github.io/MetaPix/)[Workshop]
+    + [LiteEval: A Coarse-to-Fine Framework for Resource Efficient Video Recognition](https://arxiv.org/abs/1912.01601)
   - ICCV 2019
     + [Anchor Diffusion for Unsupervised Video Object Segmentation](https://arxiv.org/abs/1910.10895)
     + [CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing](https://arxiv.org/abs/1910.00132)[[Code]](https://github.com/KevinDuarte/CapsuleVOS)
