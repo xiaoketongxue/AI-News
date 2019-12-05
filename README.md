@@ -471,6 +471,7 @@
     + [Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications](https://arxiv.org/abs/1911.02521)
 
   - other
+    + [Divided We Stand: A Novel Residual Group Attention Mechanism for Medical Image Segmentation](https://arxiv.org/abs/1912.02079)
     + [Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1911.10334)
     + [HybridNetSeg: A Compact Hybrid Network for Retinal Vessel Segmentation](https://arxiv.org/abs/1911.09982)[[Pytorch]](https://github.com/JACKYLUO1991/HybridNetSeg)
     + [Retinal Vessel Segmentation based on Fully Convolutional Networks](https://arxiv.org/abs/1911.09915)
