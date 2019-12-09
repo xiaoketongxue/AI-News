@@ -140,6 +140,7 @@
   - ICCD
     + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
+    + [Waterfall Atrous Spatial Pooling Architecture for Efficient Semantic Segmentation](https://arxiv.org/abs/1912.03183)
     + [RGPNet: A Real-Time General Purpose Semantic Segmentation](https://arxiv.org/abs/1912.01394)
     + [Deep Object Co-segmentation via Spatial-Semantic Network Modulation](https://arxiv.org/abs/1911.12950)
     + [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/abs/1911.11236)[[Code]](https://github.com/QingyongHu/RandLA-Net)
