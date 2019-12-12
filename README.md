@@ -461,6 +461,7 @@
     + [Reproducible White Matter Tract Segmentation Using 3D U-Net on a Large-scale DTI Dataset](https://arxiv.org/abs/1908.10219)
     + [Biomedical Image Segmentation by Retina-like Sequential Attention Mechanism Using Only A Few Training Images](https://arxiv.org/abs/1909.12612)
   - SCI
+    + [UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation](https://arxiv.org/abs/1912.05074)[[Keras]](https://github.com/MrGiovanni/UNetPlusPlus)[IEEE Transactions on Medical Imaging]
     + [CA-RefineNet:A Dual Input WSI Image Segmentation Algorithm Based on Attention](https://arxiv.org/abs/1907.06358)
     + [Deep Q Learning Driven CT Pancreas Segmentation with Geometry-Aware U-Net(Apr 2019))](https://arxiv.org/abs/1904.09120)[IEEE Transactions on Medical Imaging,TMI]
     + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation(Mar 2019)](https://arxiv.org/abs/1903.02740)[[Pytorch]](https://github.com/Guzaiwang/CE-Net)[[Pytorch2]](https://github.com/xiaoketongxue/CE-Net)[IEEE Transactions on Medical Imaging,TMI] 
