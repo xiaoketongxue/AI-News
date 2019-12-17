@@ -774,6 +774,8 @@
     + [Towards Interpretable Face Recognition](https://arxiv.org/abs/1805.00611)   
      + [Mixed High-Order Attention Network for Person Re-Identification](https://arxiv.org/abs/1908.05819)[[Code]](http://www.bhchen.cn/)   
      + [Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification](https://arxiv.org/abs/1811.10144)[Code](https://github.com/OasisYang/SSG)[Oral]  
+   - Awesome
+    + [Awesome Person Re-identification (Person ReID)](https://github.com/bismex/Awesome-person-re-identification)
   ## 2018
    + [A2-Nets: Double Attention Networks](https://www.baidu.com/link?url=-dsREYMGs4zZNPIm9M3qq2rdRUcAam6_uPqqBDUqCymQ4TNPpp-D7qWCxZpeyt-bO1-UfVG4njpqXoMA__lQVa&wd=&eqid=bd04129c0000989c000000025df8c83b)[NIPS]   
    + [CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521)[ECCV]  
