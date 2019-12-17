@@ -766,8 +766,11 @@
   # Re-Identification
   ## 2019
    - ICCV  
-     + [Mixed High-Order Attention Network for Person Re-Identification](https://arxiv.org/abs/1908.05819)[[Code]](http://www.bhchen.cn/)
-     + [Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification](https://arxiv.org/abs/1811.10144)[Code](https://github.com/OasisYang/SSG)
      + [ABD-Net: Attentive but Diverse Person Re-Identification](https://arxiv.org/abs/1908.01114)[Code](https://github.com/TAMU-VITA/ABD-Net)
+     + [self-Critical Attention Learning for Person Re-Identification](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Self-Critical_Attention_Learning_for_Person_Re-Identification_ICCV_2019_paper.pdf)
+     + [Attention Bridging Network for Knowledge Transfer](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Attention_Bridging_Network_for_Knowledge_Transfer_ICCV_2019_paper.pdf)
+     + [Towards Interpretable Face Recognition](https://arxiv.org/abs/1805.00611)
+     + [Mixed High-Order Attention Network for Person Re-Identification](https://arxiv.org/abs/1908.05819)[[Code]](http://www.bhchen.cn/)
      + [Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification](https://arxiv.org/abs/1811.10144)[Code](https://github.com/OasisYang/SSG)[Oral]
+     
     
