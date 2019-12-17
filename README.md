@@ -747,7 +747,7 @@
     + [MetaPix: Few-Shot Video Retargeting](https://arxiv.org/abs/1910.04742)[[Code]](https://imjal.github.io/MetaPix/)[Workshop]
     + [LiteEval: A Coarse-to-Fine Framework for Resource Efficient Video Recognition](https://arxiv.org/abs/1912.01601)
   - ICCV 2019
-    + [Anchor Diffusion for Unsupervised Video Object Segmentation](https://arxiv.org/abs/1910.10895)
+    + [Anchor Diffusion for Unsupervised Video Object Segmentation](https://arxiv.org/abs/1910.10895)  
     + [CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing](https://arxiv.org/abs/1910.00132)[[Code]](https://github.com/KevinDuarte/CapsuleVOS)
     + [DMM-Net: Differentiable Mask-Matching Network for Video Object Segmentation](https://arxiv.org/abs/1909.12471)[Pytorch](https://github.com/ZENGXH/DMM_Net)
     + [RANet: Ranking Attention Network for Fast Video Object Segmentation](https://arxiv.org/abs/1908.06647)[[Cpde]](https://github.com/Storife/RANet)
