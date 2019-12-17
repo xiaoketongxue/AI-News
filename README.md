@@ -773,6 +773,7 @@
      + [Mixed High-Order Attention Network for Person Re-Identification](https://arxiv.org/abs/1908.05819)[[Code]](http://www.bhchen.cn/)
      + [Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification](https://arxiv.org/abs/1811.10144)[Code](https://github.com/OasisYang/SSG)[Oral]
   ## 2017
-     + [SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)
+   + [SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)
+     
      
     
