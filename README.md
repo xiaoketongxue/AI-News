@@ -140,6 +140,9 @@
   - ICCD
     + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
+    + [PixelRL: Fully Convolutional Network with Reinforcement Learning for Image Processing](https://arxiv.org/abs/1912.07190)[[Code]](https://github.com/rfuruta/pixelRL)
+    + [Semantic Segmentation for Compound figures](https://arxiv.org/abs/1912.07142)
+    + [LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation](https://arxiv.org/abs/1912.06683)
     + [Waterfall Atrous Spatial Pooling Architecture for Efficient Semantic Segmentation](https://arxiv.org/abs/1912.03183)
     + [RGPNet: A Real-Time General Purpose Semantic Segmentation](https://arxiv.org/abs/1912.01394)
     + [Deep Object Co-segmentation via Spatial-Semantic Network Modulation](https://arxiv.org/abs/1911.12950)
@@ -473,6 +476,7 @@
     + [Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications](https://arxiv.org/abs/1911.02521)
 
   - other
+    + [Robust Automated Thalamic Nuclei Segmentation using a Multi-planar Cascaded Convolutional Neural Network](https://arxiv.org/abs/1912.07209)
     + [Divided We Stand: A Novel Residual Group Attention Mechanism for Medical Image Segmentation](https://arxiv.org/abs/1912.02079)
     + [Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1911.10334)
     + [HybridNetSeg: A Compact Hybrid Network for Retinal Vessel Segmentation](https://arxiv.org/abs/1911.09982)[[Pytorch]](https://github.com/JACKYLUO1991/HybridNetSeg)
