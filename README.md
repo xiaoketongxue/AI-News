@@ -767,6 +767,7 @@
   ## 2019
    - ICCV  
      + [ABD-Net: Attentive but Diverse Person Re-Identification](https://arxiv.org/abs/1908.01114)[Code](https://github.com/TAMU-VITA/ABD-Net)   
+     + [Discriminative Feature Learning With Consistent Attention Regularization for Person Re-Identification](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Discriminative_Feature_Learning_With_Consistent_Attention_Regularization_for_Person_Re-Identification_ICCV_2019_paper.pdf)
      + [self-Critical Attention Learning for Person Re-Identification](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Self-Critical_Attention_Learning_for_Person_Re-Identification_ICCV_2019_paper.pdf)  
      + [Attention Bridging Network for Knowledge Transfer](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Attention_Bridging_Network_for_Knowledge_Transfer_ICCV_2019_paper.pdf)   
     + [Attentional Feature-Pair Relation Networks for Accurate Face Recognition](https://arxiv.org/abs/1908.06255)   
