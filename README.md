@@ -23,6 +23,7 @@
   - AAAI
     + [Segmenting Medical MRI via Recurrent Decoding Cell](https://arxiv.org/abs/1911.09401)[[Code]](https://github.com/beijixiong3510/OWM)
     + [F3Net: Fusion, Feedback and Focus for Salient Object Detection](https://arxiv.org/abs/1911.11445)[[Code]](https://github.com/weijun88/F3Net)
+    + [An Adversarial Perturbation Oriented Domain Adaptation Approach for Semantic Segmentation](https://arxiv.org/abs/1912.08954)
 
 ### 2019
   - Nature Machine Intelligence
@@ -141,6 +142,7 @@
   - ICCD
     + [VNet: A Versatile Network for Efficient Real-Time Semantic Segmentation](http://www.iccd-conf.com/Program_2019_.html)
   - other
+    + [SCAttNet: Semantic Segmentation Network with Spatial and Channel Attention Mechanism for High-Resolution Remote Sensing Images](https://arxiv.org/abs/1912.09121)[[Code]](https://github.com/lehaifeng/SCAttNet)
     + [PixelRL: Fully Convolutional Network with Reinforcement Learning for Image Processing](https://arxiv.org/abs/1912.07190)[[Code]](https://github.com/rfuruta/pixelRL)
     + [Semantic Segmentation for Compound figures](https://arxiv.org/abs/1912.07142)
     + [LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation](https://arxiv.org/abs/1912.06683)
