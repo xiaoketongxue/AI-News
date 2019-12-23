@@ -25,6 +25,8 @@
     + [F3Net: Fusion, Feedback and Focus for Salient Object Detection](https://arxiv.org/abs/1911.11445)[[Code]](https://github.com/weijun88/F3Net)
     + [An Adversarial Perturbation Oriented Domain Adaptation Approach for Semantic Segmentation](https://arxiv.org/abs/1912.08954)
     + [JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/1912.09654)[Code](https://github.com/dlinzhao/JSNet)
+  - ICLR
+    + [FasterSeg: Searching for Faster Real-time Semantic Segmentation ](https://openreview.net/pdf?id=BJgqQ6NYvB)[[Code]](https://github.com/TAMU-VITA/FasterSeg)
 
 
 ### 2019
