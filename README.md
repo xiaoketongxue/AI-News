@@ -24,6 +24,8 @@
     + [Segmenting Medical MRI via Recurrent Decoding Cell](https://arxiv.org/abs/1911.09401)[[Code]](https://github.com/beijixiong3510/OWM)
     + [F3Net: Fusion, Feedback and Focus for Salient Object Detection](https://arxiv.org/abs/1911.11445)[[Code]](https://github.com/weijun88/F3Net)
     + [An Adversarial Perturbation Oriented Domain Adaptation Approach for Semantic Segmentation](https://arxiv.org/abs/1912.08954)
+    + [JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/1912.09654)[Code](https://github.com/dlinzhao/JSNet)
+
 
 ### 2019
   - Nature Machine Intelligence
@@ -616,6 +618,8 @@
     + [Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning](https://arxiv.org/abs/1909.00273)
     + [3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles(Mar 2019)](https://arxiv.org/ftp/arxiv/papers/1903/1903.12152.pdf)[[Pytorch]](https://github.com/MASILab/SLANTbrainSeg)[NeuroImage]
   - arxiv
+    + [Transfer Learning with Edge Attention for Prostate MRI Segmentation](https://arxiv.org/abs/1912.09847)
+    + [C2FNAS: Coarse-to-Fine Neural Architecture Search for 3D Medical Image Segmentation](https://arxiv.org/abs/1912.09628)
     + [Adversarial normalization for multi domain image segmentation](https://arxiv.org/pdf/1912.00993.pdf)[Adversarial ]
     + [EM-NET: Centerline-Aware Mitochondria Segmentation in EM Images via Hierarchical View-Ensemble Convolutional Network](https://arxiv.org/abs/1912.00201)
     + [DARTS: DenseUnet-based Automatic Rapid Tool for brain Segmentation](https://arxiv.org/abs/1911.05567)[Code](https://github.com/NYUMedML/DARTS)
