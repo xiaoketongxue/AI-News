@@ -42,11 +42,13 @@
     + [e-UDA: Efficient Unsupervised Domain Adaptation for Cross-Site Medical Image Segmentation](https://arxiv.org/abs/2001.09313)
     + [Weakly Supervised Lesion Co-segmentation on CT Scans](https://arxiv.org/abs/2001.09174)
     + [Weakly-Supervised Lesion Segmentation on CT Scans using Co-Segmentation](https://arxiv.org/abs/2001.08590)
+    + [A Two-Stream Meticulous Processing Network for Retinal Vessel Segmentation](https://arxiv.org/abs/2001.05829)
   - Attention  
     + [RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation](https://arxiv.org/abs/2001.09138)
     + [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2001.07645)
-  - Other  
+  - Survey and Benchmark
     + [VerSe: A Vertebrae Labelling and Segmentation Benchmark](https://arxiv.org/abs/2001.09193)
+    + [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/abs/2001.05566)
 
 ## Other Segmentation
 ### ICCV
