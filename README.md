@@ -1,7 +1,7 @@
 # AI-News 2020
 - [x] [AI-News 2019](https://github.com/xiaoketongxue/AI-News/blob/master/CV2019.md)
 - [x] [CV](#CV)
-- [x] [NLP](#NLP)  
+- [x] [NLP](https://github.com/xiaoketongxue/AI-News/blob/master/NLP2020.md)  
 - [x] [Recommendation](#Recommendation)    
 - [x] [Data-Competition](#Data-Competition)    
 
