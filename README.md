@@ -11,7 +11,7 @@
 - [x] [Other Segmentation](#Other-Segmentation)
 - [x] [Re-Identification](#Panoptic-Segmentation)
 - [x] [text detection and OCR](#text-detection-and-OCR)
-- [x] [Classification](#Video-Segmentation)
+- [x] [Classification](#Classification)
 - [x] [Super-Resolution](#Super-Resolution)
 - [x] [Detection](#Detection)
 
