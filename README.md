@@ -10,6 +10,7 @@
 - [x] [Medical Segmentation](#Medical-Segmentation)
 - [x] [Other Segmentation](#Other-Segmentation)
 - [x] [Re-Identification](#Panoptic-Segmentation)
+- [x] [text detection and OCR](#text detection and OCR)
 - [x] [Classification](#Video-Segmentation)
 - [x] [Super-Resolution](#Super-Resolution)
 - [x] [Detection](#Detection)
@@ -52,6 +53,8 @@
 ### arxiv
   - Instance  
     + [PatchPerPix for Instance Segmentation](https://arxiv.org/abs/2001.07626)
+
+## text detection and OCR
 
 ## Re-Identification
   ## 2019
