@@ -2,7 +2,7 @@
 - [x] [AI-News 2019](https://github.com/xiaoketongxue/AI-News/blob/master/CV2019.md)
 - [x] [CV](#CV)
 - [x] [NLP](https://github.com/xiaoketongxue/AI-News/blob/master/NLP2020.md)  
-- [x] [Recommendation](#Recommendation)    
+- [x] [Recommendation](https://github.com/xiaoketongxue/AI-News/blob/master/Recommendation.md)    
 - [x] [Data-Competition](https://github.com/xiaoketongxue/AI-News/blob/master/Data-Competition.md)    
 
 # CV
