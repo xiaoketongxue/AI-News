@@ -27,6 +27,8 @@
     + [Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs](https://arxiv.org/abs/2001.09540)
   -  Supervised  
     + [Gated Path Selection Network for Semantic Segmentation](https://arxiv.org/abs/2001.06819)
+  - Other
+    + [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/abs/2001.08972)
 
 ## Medical Segmentation
 ### ISBI
@@ -55,6 +57,10 @@
     + [PatchPerPix for Instance Segmentation](https://arxiv.org/abs/2001.07626)
 
 ## text detection and OCR
+### arxiv
+  - 2020
+    + [Scene Text Recognition With Finer Grid Rectification](https://arxiv.org/abs/2001.09389)
+    + [TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval](https://arxiv.org/abs/2001.09099)
 
 ## Re-Identification
   ## 2019
@@ -63,6 +69,7 @@
   ## arxiv  
    - 2020  
      + [VMRFANet:View-Specific Multi-Receptive Field Attention Network for Person Re-identification](https://arxiv.org/abs/2001.07354)
+     + [Learning Diverse Features with Part-Level Resolution for Person Re-Identification](https://arxiv.org/abs/2001.07442)
     
 
      
