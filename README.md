@@ -25,12 +25,14 @@
   - Weakly Supervised
     + [Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs](https://arxiv.org/abs/2001.09540)
   -  Supervised
-    + [Abdominal multi-organ segmentation with cascaded convolutional and adversarial deep networks](https://arxiv.org/abs/2001.09521)
+    + [Gated Path Selection Network for Semantic Segmentation](https://arxiv.org/abs/2001.06819)
 
 ## Medical Segmentation
 ### ISBI
 
 ### arxiv
+  - Neural Architecture Search
+    + [ENAS U-Net: Evolutionary Neural Architecture Search for Retinal Vessel Segmentation](https://arxiv.org/abs/2001.06678)
   - Adversarial and unsupervised and Weakly Supervised
     + [Abdominal multi-organ segmentation with cascaded convolutional and adversarial deep networks](https://arxiv.org/abs/2001.09521)
     + [Brain Metastasis Segmentation Network Trained with Robustness to Annotations with Multiple False Negatives](https://arxiv.org/abs/2001.09501)
@@ -47,7 +49,10 @@
 ### arxiv
 
 ## Other Segmentation
-### 2019
+### ICCV
+  - Zero-Shot Video Segmentation
+    + [Zero-Shot Video Object Segmentation via Attentive Graph Neural Networks](https://arxiv.org/abs/2001.06807)
+### arxiv
   - Instance
     + [PatchPerPix for Instance Segmentation](https://arxiv.org/abs/2001.07626)
 
