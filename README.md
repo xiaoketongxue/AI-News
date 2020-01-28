@@ -22,23 +22,43 @@
     + [An Adversarial Perturbation Oriented Domain Adaptation Approach for Semantic Segmentation](https://arxiv.org/abs/1912.08954)
     + [JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/1912.09654)[Code](https://github.com/dlinzhao/JSNet)
 ### arxiv
+  - Weakly Supervised
+    + [Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs](https://arxiv.org/abs/2001.09540)
+  -  Supervised
+    + [Abdominal multi-organ segmentation with cascaded convolutional and adversarial deep networks](https://arxiv.org/abs/2001.09521)
 
 ## Medical Segmentation
 ### ISBI
-  - ICCV 2019
-    + [Eyenet: Attention based Convolutional Encoder-Decoder Network for Eye Region Segmentation](https://arxiv.org/abs/1910.03274)
+
+### arxiv
+  - Adversarial and unsupervised and Weakly Supervised
+    + [Abdominal multi-organ segmentation with cascaded convolutional and adversarial deep networks](https://arxiv.org/abs/2001.09521)
+    + [Brain Metastasis Segmentation Network Trained with Robustness to Annotations with Multiple False Negatives](https://arxiv.org/abs/2001.09501)
+    + [e-UDA: Efficient Unsupervised Domain Adaptation for Cross-Site Medical Image Segmentation](https://arxiv.org/abs/2001.09313)
+    + [Weakly Supervised Lesion Co-segmentation on CT Scans](https://arxiv.org/abs/2001.09174)
+    + [Weakly-Supervised Lesion Segmentation on CT Scans using Co-Segmentation](https://arxiv.org/abs/2001.08590)
+  - Attention
+    + [RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation](https://arxiv.org/abs/2001.09138)
+    + [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2001.07645)
+  -Other
+    + [VerSe: A Vertebrae Labelling and Segmentation Benchmark](https://arxiv.org/abs/2001.09193)
+
     
 ### arxiv
 
 ## Other Segmentation
 ### 2019
-  - ICCV 2019
-    + [InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting](https://arxiv.org/abs/1908.07801)
+  - Instance
+    + [PatchPerPix for Instance Segmentation](https://arxiv.org/abs/2001.07626)
 
 ## Re-Identification
   ## 2019
    - Awesome    
-     + [Awesome Person Re-identification (Person ReID)](https://github.com/bismex/Awesome-person-re-identification)  
+     + [Awesome Person Re-identification (Person ReID)](https://github.com/bismex/Awesome-person-re-identification)
+  ## arxiv
+   - 2020
+     + [VMRFANet:View-Specific Multi-Receptive Field Attention Network for Person Re-identification](https://arxiv.org/abs/2001.07354)
+    
 
      
      
