@@ -24,7 +24,7 @@
 ### arxiv
   - Weakly Supervised
     + [Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs](https://arxiv.org/abs/2001.09540)
-  -  Supervised
+  -  Supervised  
     + [Gated Path Selection Network for Semantic Segmentation](https://arxiv.org/abs/2001.06819)
 
 ## Medical Segmentation
