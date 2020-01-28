@@ -29,6 +29,9 @@
     + [Gated Path Selection Network for Semantic Segmentation](https://arxiv.org/abs/2001.06819)
   - Other
     + [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/abs/2001.08972)
+  - Survey
+    + [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/abs/2001.05566)
+    + [Evolution of Image Segmentation using Deep Convolutional Neural Network:  A Survey](https://arxiv.org/abs/2001.04074)
 
 ## Medical Segmentation
 ### ISBI
@@ -48,7 +51,7 @@
     + [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2001.07645)
   - Survey and Benchmark
     + [VerSe: A Vertebrae Labelling and Segmentation Benchmark](https://arxiv.org/abs/2001.09193)
-    + [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/abs/2001.05566)
+   
 
 ## Other Segmentation
 ### ICCV
