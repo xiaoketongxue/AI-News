@@ -3,7 +3,7 @@
 - [x] [CV](#CV)
 - [x] [NLP](https://github.com/xiaoketongxue/AI-News/blob/master/NLP2020.md)  
 - [x] [Recommendation](#Recommendation)    
-- [x] [Data-Competition](#Data-Competition)    
+- [x] [Data-Competition](https://github.com/xiaoketongxue/AI-News/blob/master/Data-Competition.md)    
 
 # CV
 - [x] [Semantic Segmentation](#Semantic-Segmentation)
