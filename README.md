@@ -38,8 +38,8 @@
 ## Medical Segmentation
 ### ISBI
   - Attention
-    + [Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation](https://arxiv.org/abs/2001.03893)[[Code]](https://github.com/Guo-Xiaoqing/Skin-Seg)
-    + [Robust Brain Magnetic Resonance Image Segmentation for Hydrocephalus Patients: Hard and Soft Attention](https://arxiv.org/abs/2001.03857)
+    + [Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation](https://arxiv.org/abs/2001.03893)[[Code]](https://github.com/Guo-Xiaoqing/Skin-Seg)   
+    + [Robust Brain Magnetic Resonance Image Segmentation for Hydrocephalus Patients: Hard and Soft Attention](https://arxiv.org/abs/2001.03857)  
  ### SCI
   - TMI
     + [Unpaired Multi-modal Segmentation via Knowledge Distillation](https://arxiv.org/abs/2001.03111)
