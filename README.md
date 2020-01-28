@@ -31,7 +31,7 @@
 ### ISBI
 
 ### arxiv
-  - Neural Architecture Search
+  - Neural Architecture Search  
     + [ENAS U-Net: Evolutionary Neural Architecture Search for Retinal Vessel Segmentation](https://arxiv.org/abs/2001.06678)
   - Adversarial and unsupervised and Weakly Supervised
     + [Abdominal multi-organ segmentation with cascaded convolutional and adversarial deep networks](https://arxiv.org/abs/2001.09521)
@@ -39,29 +39,26 @@
     + [e-UDA: Efficient Unsupervised Domain Adaptation for Cross-Site Medical Image Segmentation](https://arxiv.org/abs/2001.09313)
     + [Weakly Supervised Lesion Co-segmentation on CT Scans](https://arxiv.org/abs/2001.09174)
     + [Weakly-Supervised Lesion Segmentation on CT Scans using Co-Segmentation](https://arxiv.org/abs/2001.08590)
-  - Attention
+  - Attention  
     + [RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation](https://arxiv.org/abs/2001.09138)
     + [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2001.07645)
-  -Other
+  - Other  
     + [VerSe: A Vertebrae Labelling and Segmentation Benchmark](https://arxiv.org/abs/2001.09193)
-
-    
-### arxiv
 
 ## Other Segmentation
 ### ICCV
-  - Zero-Shot Video Segmentation
+  - Zero-Shot Video Segmentation  
     + [Zero-Shot Video Object Segmentation via Attentive Graph Neural Networks](https://arxiv.org/abs/2001.06807)
 ### arxiv
-  - Instance
+  - Instance  
     + [PatchPerPix for Instance Segmentation](https://arxiv.org/abs/2001.07626)
 
 ## Re-Identification
   ## 2019
-   - Awesome    
+   - Awesome      
      + [Awesome Person Re-identification (Person ReID)](https://github.com/bismex/Awesome-person-re-identification)
-  ## arxiv
-   - 2020
+  ## arxiv  
+   - 2020  
      + [VMRFANet:View-Specific Multi-Receptive Field Attention Network for Person Re-identification](https://arxiv.org/abs/2001.07354)
     
 
