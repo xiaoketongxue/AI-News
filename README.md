@@ -28,6 +28,7 @@
   -  Supervised  
     + [Gated Path Selection Network for Semantic Segmentation](https://arxiv.org/abs/2001.06819)
     + [MHSAN: Multi-Head Self-Attention Network for Visual Semantic Embedding](https://arxiv.org/abs/2001.03712)
+    + [HMANet: Hybrid Multiple Attention Network for Semantic Segmentation in Aerial Images](https://arxiv.org/abs/2001.02870)
   - Other
     + [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/abs/2001.08972)
   - Survey
