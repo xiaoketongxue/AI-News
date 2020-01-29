@@ -22,6 +22,9 @@
     + [F3Net: Fusion, Feedback and Focus for Salient Object Detection](https://arxiv.org/abs/1911.11445)[[Code]](https://github.com/weijun88/F3Net)
     + [An Adversarial Perturbation Oriented Domain Adaptation Approach for Semantic Segmentation](https://arxiv.org/abs/1912.08954)
     + [JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/1912.09654)[Code](https://github.com/dlinzhao/JSNet)
+### WACV
+  - WACV
+    + [Print Defect Mapping with Semantic Segmentation](https://arxiv.org/abs/2001.10111)
 ### arxiv
   - Weakly Supervised
     + [Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs](https://arxiv.org/abs/2001.09540)
@@ -31,9 +34,10 @@
     + [HMANet: Hybrid Multiple Attention Network for Semantic Segmentation in Aerial Images](https://arxiv.org/abs/2001.02870)
   - Other
     + [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/abs/2001.08972)
-  - Survey
+  - Survey and Dataset
     + [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/abs/2001.05566)
     + [Evolution of Image Segmentation using Deep Convolutional Neural Network:  A Survey](https://arxiv.org/abs/2001.04074)
+    + [Towards Open-Set Semantic Segmentation of Aerial Images](https://arxiv.org/abs/2001.10063)
 
 ## Medical Segmentation
 ### ISBI
@@ -54,6 +58,7 @@
     + [Weakly Supervised Lesion Co-segmentation on CT Scans](https://arxiv.org/abs/2001.09174)
     + [Weakly-Supervised Lesion Segmentation on CT Scans using Co-Segmentation](https://arxiv.org/abs/2001.08590)
     + [A Two-Stream Meticulous Processing Network for Retinal Vessel Segmentation](https://arxiv.org/abs/2001.05829)
+    + [An Unsupervised Learning Model for Medical Image Segmentation](https://arxiv.org/abs/2001.10155)
   - Attention  
     + [RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation](https://arxiv.org/abs/2001.09138)
     + [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2001.07645)
