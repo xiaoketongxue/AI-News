@@ -86,7 +86,7 @@
     
 ## Classification
 ### arxiv
-  - 2020)
+  - 2020
     + [Depthwise-STFT based separable Convolutional Neural Networks](https://arxiv.org/abs/2001.09912)[[ICASSP]]
      
      
