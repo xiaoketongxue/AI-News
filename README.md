@@ -62,6 +62,7 @@
   - Attention  
     + [RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation](https://arxiv.org/abs/2001.09138)
     + [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2001.07645)
+    + [Breast mass segmentation based on ultrasonic entropy maps and attention gated U-Net](https://arxiv.org/abs/2001.10061)
   - Survey and Benchmark
     + [VerSe: A Vertebrae Labelling and Segmentation Benchmark](https://arxiv.org/abs/2001.09193)
    
