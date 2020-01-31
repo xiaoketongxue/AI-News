@@ -72,6 +72,8 @@
   - Zero-Shot Video Segmentation  
     + [Zero-Shot Video Object Segmentation via Attentive Graph Neural Networks](https://arxiv.org/abs/2001.06807)
 ### arxiv
+  - Video
+    + [Fast Video Object Segmentation using the Global Context Module](https://arxiv.org/abs/2001.11243)[Attention]
   - Instance  
     + [PatchPerPix for Instance Segmentation](https://arxiv.org/abs/2001.07626)
 
