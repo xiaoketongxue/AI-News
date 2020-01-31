@@ -85,6 +85,7 @@
    - 2020  
      + [VMRFANet:View-Specific Multi-Receptive Field Attention Network for Person Re-identification](https://arxiv.org/abs/2001.07354)
      + [Learning Diverse Features with Part-Level Resolution for Person Re-Identification](https://arxiv.org/abs/2001.07442)
+     + [An Implicit Attention Mechanism for Deep Learning Pedestrian Re-identification Frameworks](https://arxiv.org/abs/2001.11267)[[Code]](https://github.com/Ehsan-Yaghoubi/reid-strong-baseline)
     
 ## Text detection and OCR
 ### arxiv
