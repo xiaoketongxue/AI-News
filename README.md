@@ -96,7 +96,21 @@
 ## Classification
 ### arxiv
   - 2020
-    + [Depthwise-STFT based separable Convolutional Neural Networks](https://arxiv.org/abs/2001.09912)[[ICASSP]]
-     
+    + [Depthwise-STFT based separable Convolutional Neural Networks](https://arxiv.org/abs/2001.09912)[[ICASSP]]  
+## CCF
+ICCV: 23%-30%
+CVPR: 24%-30%
+ECCV: 26%-28%
+ICME：30%
+ACCV: 26%-29%
+BMVC: 29%-35%
+ICLR: ~30%
+MICCAI: ~30%
+ICPR: 48%-56%
+COLT: 26%-52%
+ICML: 25%-32%
+IJCAI: 24%-34%
+ICIP：50%
+
      
     
