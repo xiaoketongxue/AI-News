@@ -1,4 +1,4 @@
-# Data-Competition
+# Data-Competition2020
 - [x] [Data-competition2019](https://github.com/xiaoketongxue/AI-News/blob/master/Data-Competition.md)
 - [x] [结构化数据/时间序列](#结构化数据/时间序列)
 - [x] [NLP](#NLP)
