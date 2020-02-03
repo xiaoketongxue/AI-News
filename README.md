@@ -4,7 +4,7 @@
 - [x] [NLP](https://github.com/xiaoketongxue/AI-News/blob/master/NLP2020.md)  
 - [x] [Recommendation](https://github.com/xiaoketongxue/AI-News/blob/master/Recommendation.md)    
 - [x] [Data-Competition](https://github.com/xiaoketongxue/AI-News/blob/master/Data-Competition2020.md)  []()
-- [x] [Other-Awesome]()
+- [x] [Other-Awesome](https://github.com/xiaoketongxue/AI-News/blob/master/Other_Awesome.md)
 
 # CV
 - [x] [Semantic Segmentation](#Semantic-Segmentation)
