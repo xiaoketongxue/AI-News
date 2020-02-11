@@ -42,6 +42,7 @@
     + [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/abs/2001.05566)
     + [Evolution of Image Segmentation using Deep Convolutional Neural Network:  A Survey](https://arxiv.org/abs/2001.04074)
     + [Towards Open-Set Semantic Segmentation of Aerial Images](https://arxiv.org/abs/2001.10063)
+    + [VIFB: A Visible and Infrared Image Fusion Benchmark](https://arxiv.org/abs/2002.03322)
 
 ## Medical Segmentation
 ### ISBI
@@ -49,6 +50,7 @@
     + [Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation](https://arxiv.org/abs/2001.03893)[[Code]](https://github.com/Guo-Xiaoqing/Skin-Seg)   
     + [Robust Brain Magnetic Resonance Image Segmentation for Hydrocephalus Patients: Hard and Soft Attention](https://arxiv.org/abs/2001.03857)  
     + [Stan: Small tumor-aware network for breast ultrasound image segmentation](https://arxiv.org/abs/2002.01034)
+### arxiv
   -  Distillation 
     + [Knowledge Distillation for Brain Tumor Segmentation](https://arxiv.org/abs/2002.03688)
  ### SCI
