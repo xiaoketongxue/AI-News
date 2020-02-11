@@ -34,6 +34,7 @@
     + [MHSAN: Multi-Head Self-Attention Network for Visual Semantic Embedding](https://arxiv.org/abs/2001.03712)  
     + [HMANet: Hybrid Multiple Attention Network for Semantic Segmentation in Aerial Images](https://arxiv.org/abs/2001.02870)  
     + [Unsupervised Bidirectional Cross-Modality Adaptation via Deeply Synergistic Image and Feature Alignment for Medical Image Segmentation](https://arxiv.org/abs/2002.02255)[TMI]
+    + [Universal Semantic Segmentation for Fisheye Urban Driving Images](https://arxiv.org/abs/2002.03736)[augmentation ]
     + [Deep Convolutional Neural Networks with Spatial Regularization, Volume and Star-shape Priori for Image Segmentation](https://arxiv.org/abs/2002.03989)
   - Other
     + [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/abs/2001.08972)
@@ -48,6 +49,8 @@
     + [Complementary Network with Adaptive Receptive Fields for Melanoma Segmentation](https://arxiv.org/abs/2001.03893)[[Code]](https://github.com/Guo-Xiaoqing/Skin-Seg)   
     + [Robust Brain Magnetic Resonance Image Segmentation for Hydrocephalus Patients: Hard and Soft Attention](https://arxiv.org/abs/2001.03857)  
     + [Stan: Small tumor-aware network for breast ultrasound image segmentation](https://arxiv.org/abs/2002.01034)
+  -  Distillation 
+    + [Knowledge Distillation for Brain Tumor Segmentation](https://arxiv.org/abs/2002.03688)
  ### SCI
   - TMI
     + [Unpaired Multi-modal Segmentation via Knowledge Distillation](https://arxiv.org/abs/2001.03111)
