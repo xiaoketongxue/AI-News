@@ -72,6 +72,8 @@
     + [RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation](https://arxiv.org/abs/2001.09138)
     + [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2001.07645)
     + [Breast mass segmentation based on ultrasonic entropy maps and attention gated U-Net](https://arxiv.org/abs/2001.10061)
+    + [Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images](https://arxiv.org/list/cs.CV/recent)[[underview MIDL]]
+
   - Survey and Benchmark
     + [VerSe: A Vertebrae Labelling and Segmentation Benchmark](https://arxiv.org/abs/2001.09193)
    
@@ -90,6 +92,9 @@
   ## 2019
    - Awesome      
      + [Awesome Person Re-identification (Person ReID)](https://github.com/bismex/Awesome-person-re-identification)
+  ## AAAI
+   -2020
+     + [Cross-Modality Paired-Images Generation for RGB-Infrared Person Re-Identification](https://arxiv.org/abs/2002.04114)
   ## arxiv  
    - 2020  
      + [VMRFANet:View-Specific Multi-Receptive Field Attention Network for Person Re-identification](https://arxiv.org/abs/2001.07354)
@@ -98,6 +103,7 @@
      + [Looking GLAMORous: Vehicle Re-Id in Heterogeneous Cameras Networks with Global and Local Attention](https://arxiv.org/abs/2002.02256)
      + [Person Re-identification by Contour Sketch under Moderate Clothing Change](https://arxiv.org/abs/2002.02295)[TPAMI]
      + [An Empirical Study of Person Re-Identification with Attributes](https://arxiv.org/abs/2002.03752)
+     + [Diversity-Achieving Slow-DropBlock Network for Person Re-Identification](https://arxiv.org/abs/2002.04414)
     
 ## Text detection and OCR
 ### ICASSP
