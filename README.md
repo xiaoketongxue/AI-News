@@ -104,6 +104,7 @@
      + [Person Re-identification by Contour Sketch under Moderate Clothing Change](https://arxiv.org/abs/2002.02295)[TPAMI]
      + [An Empirical Study of Person Re-Identification with Attributes](https://arxiv.org/abs/2002.03752)
      + [Diversity-Achieving Slow-DropBlock Network for Person Re-Identification](https://arxiv.org/abs/2002.04414)
+     + [Intra-Camera Supervised Person Re-Identification](https://arxiv.org/abs/2002.05046)
     
 ## Text detection and OCR
 ### ICASSP
