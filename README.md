@@ -73,6 +73,7 @@
     + [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2001.07645)
     + [Breast mass segmentation based on ultrasonic entropy maps and attention gated U-Net](https://arxiv.org/abs/2001.10061)
     + [Edge-Gated CNNs for Volumetric Semantic Segmentation of Medical Images](https://arxiv.org/list/cs.CV/recent)[[underview MIDL]]
+    + [Liver Segmentation in Abdominal CT Images via Auto-Context Neural Network and Self-Supervised Contour Attention](https://arxiv.org/abs/2002.05895)
 
   - Survey and Benchmark
     + [VerSe: A Vertebrae Labelling and Segmentation Benchmark](https://arxiv.org/abs/2001.09193)
@@ -120,19 +121,19 @@
   - 2020
     + [Depthwise-STFT based separable Convolutional Neural Networks](https://arxiv.org/abs/2001.09912)[[ICASSP]]  
 ## CCF
-ICCV: 23%-30%
-CVPR: 24%-30%
-ECCV: 26%-28%
-ICME：30%
-ACCV: 26%-29%
-BMVC: 29%-35%
-ICLR: ~30%
-MICCAI: ~30%
-ICPR: 48%-56%
-COLT: 26%-52%
-ICML: 25%-32%
-IJCAI: 24%-34%
-ICIP：50%
+ICCV: 23%-30%  
+CVPR: 24%-30%  
+ECCV: 26%-28%  
+ICME：30%  
+ACCV: 26%-29%  
+BMVC: 29%-35%  
+ICLR: ~30%  
+MICCAI: ~30%  
+ICPR: 48%-56%  
+COLT: 26%-52%  
+ICML: 25%-32%  
+IJCAI: 24%-34%  
+ICIP：50%  
 
      
     
