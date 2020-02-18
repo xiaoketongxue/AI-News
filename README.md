@@ -115,6 +115,7 @@
   - 2020
     + [Scene Text Recognition With Finer Grid Rectification](https://arxiv.org/abs/2001.09389)
     + [TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval](https://arxiv.org/abs/2001.09099)
+    + [Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images](https://arxiv.org/abs/2002.06423)
     
 ## Classification
 ### arxiv
