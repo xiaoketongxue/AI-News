@@ -78,6 +78,7 @@
 
   - Survey and Benchmark
     + [VerSe: A Vertebrae Labelling and Segmentation Benchmark](https://arxiv.org/abs/2001.09193)
+    + [Deep Learning in Medical Ultrasound Image Segmentation: a Review](https://arxiv.org/abs/2002.07703)
    
 
 ## Other Segmentation
